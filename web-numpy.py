@@ -1,10 +1,18 @@
 import os
 import hashlib
+import logging
 import requests
 import numpy as np
 from flask import Flask, request, jsonify, send_from_directory
 from bs4 import BeautifulSoup
 import json
+
+# Set up logging configuration
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+)
+logger = logging.getLogger()
 
 # Function to load tags from a JSON file
 def load_tags_from_json(file_path="tags.json"):
@@ -14,8 +22,23 @@ def load_tags_from_json(file_path="tags.json"):
 # Load tags at the start of the app
 tag_descriptions = load_tags_from_json()
 
+# File path for persistent cache
+CACHE_FILE = 'embedding_cache.json'
+
+# Load cache from a JSON file if it exists
+def load_cache():
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, 'r') as file:
+            return json.load(file)
+    return {}
+
+# Save cache to a JSON file
+def save_cache(cache):
+    with open(CACHE_FILE, 'w') as file:
+        json.dump(cache, file, indent=4)
+
 # In-memory cache for tag embeddings, using hash of text as the key
-embedding_cache = {}
+embedding_cache = load_cache()
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -28,11 +51,13 @@ def get_embeddings(texts):
     embeddings = []
     for text in texts:
         text_hash = compute_hash(text)  # Compute the hash of the tag description
-        
+
         if text_hash in embedding_cache:
+            logger.info(f"Cache hit for hash: {text_hash}")
             # If the hash is in the cache, use the cached embedding
             embeddings.append(embedding_cache[text_hash])
         else:
+            logger.info(f"Cache miss for hash: {text_hash}. Requesting embedding from API.")
             # Fetch the embedding from the API and store it in the cache
             try:
                 response = requests.post(
@@ -44,12 +69,13 @@ def get_embeddings(texts):
                     response_json = response.json()
                     embedding = np.array(response_json['embeddings'][0])
                     embedding_cache[text_hash] = embedding  # Cache the embedding using the hash
+                    save_cache(embedding_cache)  # Persist cache to file
                     embeddings.append(embedding)
                 else:
-                    print(f"Error in getting embedding for: {text}")
+                    logger.error(f"Error in getting embedding for: {text}. Status Code: {response.status_code}")
                     embeddings.append(np.zeros(256))  # Fallback to a zero vector if error occurs
             except requests.RequestException as e:
-                print(f"Error in embedding request: {e}")
+                logger.error(f"Error in embedding request for hash {text_hash}: {e}")
                 embeddings.append(np.zeros(256))  # Fallback to a zero vector if request fails
     return np.array(embeddings)
 
@@ -99,6 +125,7 @@ def process_content():
 
     # Validate input data
     if not data:
+        logger.warning("No data provided in the request.")
         return jsonify({"error": "No data provided."}), 400
     
     content = ""
@@ -113,6 +140,7 @@ def process_content():
         elif file_type == 'text':
             content = file_content
         else:
+            logger.warning(f"Unsupported file type: {file_type}")
             return jsonify({"error": "Unsupported file type."}), 400
     
     # Process URL if provided
@@ -122,10 +150,12 @@ def process_content():
             response = requests.get(url)
             response.raise_for_status()  # Raise for HTTP errors
             content = extract_text_from_html(response.text)
-        except requests.RequestException:
+        except requests.RequestException as e:
+            logger.error(f"Error fetching URL content: {e}")
             return jsonify({"error": "Unable to fetch the URL content."}), 400
     
     else:
+        logger.warning("No file or URL provided.")
         return jsonify({"error": "No file or URL provided."}), 400
 
     # Find most similar tags
@@ -138,5 +168,7 @@ def serve_index():
 
 if __name__ == '__main__':
     # Precompute and cache the embeddings for tag descriptions once at startup
+    logger.info("Precomputing tag embeddings at startup...")
     get_embeddings([desc['tags_description'] for desc in tag_descriptions])  # Precompute tag embeddings on startup
+    logger.info("Tag embeddings precomputed successfully.")
     app.run(debug=True)
