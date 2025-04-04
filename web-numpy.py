@@ -51,7 +51,7 @@ def save_cache(cache):
         }
         with open(CACHE_FILE, 'w') as file:
             json.dump(serializable_cache, file, indent=4)
-        logger.info("Cache saved successfully.")
+        logger.debug("Cache saved successfully.")
     except Exception as e:
         logger.error(f"Error saving cache: {e}")
 
@@ -71,11 +71,10 @@ def get_embeddings(texts):
         text_hash = compute_hash(text)  # Compute the hash of the tag description
 
         if text_hash in embedding_cache:
-            logger.info(f"Cache hit for hash: {text_hash}")
             # If the hash is in the cache, use the cached embedding
             embeddings.append(embedding_cache[text_hash])
         else:
-            logger.info(f"Cache miss for hash: {text_hash}. Requesting embedding from API.")
+            logger.debug(f"Cache miss for hash: {text_hash}. Requesting embedding from API.")
             # Fetch the embedding from the API and store it in the cache
             try:
                 response = requests.post(
@@ -97,10 +96,41 @@ def get_embeddings(texts):
                 embeddings.append(np.zeros(256))  # Fallback to a zero vector if request fails
     return np.array(embeddings)
 
+
+def get_web_page_metadata(soup):
+    try:        
+        if soup:
+            # Check if the soup object is valid
+            if not isinstance(soup, BeautifulSoup):
+                raise ValueError("Invalid BeautifulSoup object.")
+        # Extract metadata
+        metadata = {
+            'title': soup.find('title').text if soup.find('title') else None,
+            'description': soup.find('meta', attrs={'name': 'description'})['content'] if soup.find('meta', attrs={'name': 'description'}) else None,
+            'keywords': soup.find('meta', attrs={'name': 'keywords'})['content'] if soup.find('meta', attrs={'name': 'keywords'}) else None,
+            'og_title': soup.find('meta', property='og:title')['content'] if soup.find('meta', property='og:title') else None,
+            'og_description': soup.find('meta', property='og:description')['content'] if soup.find('meta', property='og:description') else None,
+        }
+        
+        return metadata
+    except Exception as e:
+        return f"An error occurred: {e}"
+
+
+
+
 # Function to extract text from an HTML file or webpage
 def extract_text_from_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
-    return soup.get_text()
+    metadata = get_web_page_metadata(soup)
+    #combine metadata into a string
+    metadata_str = " ".join([f"{key}: {value}" for key, value in metadata.items() if value])
+    if len(metadata_str) > 30: # metadata_str should be at least 30 characters no be meaningful
+        logger.info("Metadata string is long enough, returning metadata.")
+        logger.debug(f"Metadata: {metadata_str}")
+        return metadata_str
+    logger.warning("Metadata string is too short, returning full text content.")
+    return metadata_str + " " + soup.get_text(separator=" ", strip=True)
 
 # Function to calculate cosine similarity using numpy
 def cosine_similarity(vec1, vec2):
@@ -110,7 +140,7 @@ def cosine_similarity(vec1, vec2):
     return dot_product / (norm1 * norm2)
 
 # Function to perform similarity search with confidence score and threshold
-def find_most_similar_tags(tag_descriptions, content, threshold=0.7, top_n=3):
+def find_most_similar_tags(tag_descriptions, content, threshold=0.3, top_n=3):
     # Get embeddings for tag descriptions (calculated once at the start)
     tag_embeddings = get_embeddings([desc['tags_description'] for desc in tag_descriptions])
 
@@ -121,7 +151,7 @@ def find_most_similar_tags(tag_descriptions, content, threshold=0.7, top_n=3):
     similarities = [cosine_similarity(content_embedding, tag_embedding) for tag_embedding in tag_embeddings]
 
     # Filter and get indices of top N most similar tags above the threshold
-    top_indices = [i for i, similarity in enumerate(similarities) if similarity >= threshold]
+    top_indices = [i for i, similarity in enumerate(similarities) if similarity >= threshold][:top_n]
     
     if not top_indices:
         top_indices = np.argsort(similarities)[-top_n:][::-1]  # Sort indices by similarity (descending)
@@ -165,7 +195,21 @@ def process_content():
     elif 'url' in data:
         url = data['url']
         try:
-            response = requests.get(url)
+            headers = {
+                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+                'accept-language': 'en-US,en;q=0.9',
+                'priority': 'u=0, i',
+                'sec-ch-ua': '"Chromium";v="126", "Not.A/Brand";v="24"',
+                'sec-ch-ua-mobile': '?0',
+                'sec-ch-ua-platform': '"Linux"',
+                'sec-fetch-dest': 'document',
+                'sec-fetch-mode': 'navigate',
+                'sec-fetch-site': 'none',
+                'sec-fetch-user': '?2',
+                'upgrade-insecure-requests': '1',
+                'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+            }
+            response = requests.get(url, headers=headers)
             response.raise_for_status()  # Raise for HTTP errors
             content = extract_text_from_html(response.text)
         except requests.RequestException as e:
@@ -177,7 +221,7 @@ def process_content():
         return jsonify({"error": "No file or URL provided."}), 400
 
     # Find most similar tags
-    similar_tags = find_most_similar_tags(tag_descriptions, content, threshold=0.7)
+    similar_tags = find_most_similar_tags(tag_descriptions, content, threshold=0.4)
     return jsonify(similar_tags)
 
 @app.route('/')
