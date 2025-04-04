@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import json
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from tqdm import tqdm
 
 # Set up logging configuration
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -73,8 +74,12 @@ def compute_hash(text):
     return hashlib.sha256(text.encode('utf-8')).hexdigest()
 
 # Function to get embeddings from Ollama's 'nomic-embed-text' model
-def get_embeddings(texts, save_to_file=False):
+def get_embeddings(texts, save_to_file=False, show_progress=False):
     embeddings = []
+    if show_progress:
+        texts = tqdm(texts, desc="Processing texts embeddings", unit="embedding")
+    else:
+        texts = iter(texts)
     for text in texts:
         text_hash = compute_hash(text)  # Compute the hash of the tag description
 
@@ -272,7 +277,8 @@ if __name__ == '__main__':
     logger.info("Precomputing tag embeddings at startup...")
     get_embeddings(
         texts=[desc['tags_description'] for desc in tag_descriptions],
-        save_to_file=True # Save the cache to file after precomputing
+        save_to_file=True, # Save the cache to file after precomputing
+        show_progress=True # Show progress bar during precomputation
     )
     # Precompute tag embeddings on startup
     logger.info("Tag embeddings precomputed successfully.")
