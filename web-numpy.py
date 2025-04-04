@@ -6,9 +6,11 @@ import numpy as np
 from flask import Flask, request, jsonify, send_from_directory
 from bs4 import BeautifulSoup
 import json
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # Set up logging configuration
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
 
 # File path for persistent cache
@@ -117,8 +119,6 @@ def get_web_page_metadata(soup):
         return f"An error occurred: {e}"
 
 
-
-
 # Function to extract text from an HTML file or webpage
 def extract_text_from_html(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
@@ -130,7 +130,9 @@ def extract_text_from_html(html_content):
         logger.debug(f"Metadata: {metadata_str}")
         return metadata_str
     logger.warning("Metadata string is too short, returning full text content.")
-    return metadata_str + " " + soup.get_text(separator=" ", strip=True)
+    result = metadata_str + " " + soup.get_text(separator=" ", strip=True)
+    logger.debug(f"Extracted text: {result[:100]}...")  # Log the first 100 characters of the result
+    return result
 
 # Function to calculate cosine similarity using numpy
 def cosine_similarity(vec1, vec2):
@@ -168,6 +170,52 @@ def find_most_similar_tags(tag_descriptions, content, threshold=0.3, top_n=3):
 
     return most_similar_tags
 
+def get_url_data(url):
+    # Configure retry strategy (Cloudflare often requires multiple attempts)
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"]
+    )
+    session.mount('https://', HTTPAdapter(max_retries=retries))
+
+    # Rotating headers to mimic different browsers
+    headers = {
+        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'accept-language': 'en-US,en;q=0.9',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
+    }
+
+    try:
+        response = session.get(
+            url,
+            headers=headers,
+            timeout=10,
+            allow_redirects=True,
+            # Consider adding proxies here if needed
+            # proxies={'http': 'proxy_ip:port', 'https': 'proxy_ip:port'}
+        )
+
+        # Check for Cloudflare challenge
+        if response.status_code == 503 and 'cloudflare' in response.text.lower():
+            raise requests.RequestException("Cloudflare protection detected")
+
+        response.raise_for_status()
+        
+        domain = url.split('/')[2]
+        path_str = url.split(domain)[-1]
+        
+        data = " ".join([domain, path_str, extract_text_from_html(response.text)])
+        logger.debug(f"Extracted data from {url}: {data[:100]}...")  # Log the first 100 characters of the result
+        return data
+
+    except requests.RequestException as e:
+        logger.error(f"Bot Block bypass failed: {e}")
+        # Fallback to alternative methods
+        return None
+
 # Web route to handle file upload and URL submission using JSON POST requests
 @app.route('/process', methods=['POST'])
 def process_content():
@@ -196,28 +244,10 @@ def process_content():
     # Process URL if provided
     elif 'url' in data:
         url = data['url']
-        try:
-            headers = {
-                'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-                'accept-language': 'en-US,en;q=0.9',
-                'priority': 'u=0, i',
-                'sec-ch-ua': '"Chromium";v="126", "Not.A/Brand";v="24"',
-                'sec-ch-ua-mobile': '?0',
-                'sec-ch-ua-platform': '"Linux"',
-                'sec-fetch-dest': 'document',
-                'sec-fetch-mode': 'navigate',
-                'sec-fetch-site': 'none',
-                'sec-fetch-user': '?2',
-                'upgrade-insecure-requests': '1',
-                'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
-            }
-            response = requests.get(url, headers=headers)
-            response.raise_for_status()  # Raise for HTTP errors
-            content = extract_text_from_html(response.text)
-        except requests.RequestException as e:
-            logger.error(f"Error fetching URL content: {e}")
+        content = get_url_data(url)
+        if content is None:
+            logger.warning(f"Failed to fetch content from URL: {url}")
             return jsonify({"error": "Unable to fetch the URL content."}), 400
-    
     else:
         logger.warning("No file or URL provided.")
         return jsonify({"error": "No file or URL provided."}), 400
