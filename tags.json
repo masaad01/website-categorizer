@@ -1,278 +1,718 @@
 [
-    {
-        "tags": ["entertainment", "novels"],
-        "tags_description": "Entertainment and novels include books, movies, TV shows, and other forms of storytelling."
-    },
-    {
-        "tags": ["news", "social media"],
-        "tags_description": "News and social media cover updates, discussions, and trends in the digital space."
-    },
-    {
-        "tags": ["learning", "education", "science"],
-        "tags_description": "Learning and education focus on the acquisition of knowledge, skills, and scientific understanding."
-    },
-    {
-        "tags": ["anime", "entertainment"],
-        "tags_description": "Anime is a genre of animation originating from Japan, encompassing various artistic styles and themes."
-    },
-    {
-        "tags": ["wiki", "information"],
-        "tags_description": "Wiki refers to websites that allow collaborative editing of content, like Wikipedia."
-    },
-    {
-        "tags": ["math", "education"],
-        "tags_description": "Mathematics is the study of numbers, shapes, patterns, and their relationships."
-    },
-    {
-        "tags": ["science", "education"],
-        "tags_description": "Science focuses on the study of the physical and natural world through observation and experimentation."
-    },
-    {
-        "tags": ["history", "education"],
-        "tags_description": "History involves the study of past events, societies, and civilizations."
-    },
-    {
-        "tags": ["technology", "innovation"],
-        "tags_description": "Technology and innovation refer to the development and application of new tools, systems, and ideas."
-    },
-    {
-        "tags": ["health", "wellness"],
-        "tags_description": "Health and wellness focus on physical, mental, and social well-being."
-    },
-    {
-        "tags": ["sports", "entertainment"],
-        "tags_description": "Sports involve physical activities, competitions, and games, both recreational and professional."
-    },
-    {
-        "tags": ["politics", "government"],
-        "tags_description": "Politics covers the theory and practice of governance, policies, and the power structures of societies."
-    },
-    {
-        "tags": ["business", "finance"],
-        "tags_description": "Business and finance are concerned with the management of money, investments, entrepreneurship, and corporate strategies."
-    },
-    {
-        "tags": ["music", "entertainment"],
-        "tags_description": "Music encompasses the art and practice of creating and performing sound in various genres, including classical, pop, rock, and more."
-    },
-    {
-        "tags": ["travel", "lifestyle"],
-        "tags_description": "Travel involves movement from one place to another, typically for leisure, exploration, or adventure."
-    },
-    {
-        "tags": ["art", "culture"],
-        "tags_description": "Art and culture encompass visual arts, music, theater, dance, and other creative expressions that reflect society."
-    },
-    {
-        "tags": ["food", "lifestyle"],
-        "tags_description": "Food covers the preparation, consumption, and cultural significance of eating and cooking."
-    },
-    {
-        "tags": ["environment", "sustainability"],
-        "tags_description": "The environment and sustainability focus on the natural world and efforts to preserve ecosystems and natural resources."
-    },
-    {
-        "tags": ["psychology", "education"],
-        "tags_description": "Psychology is the scientific study of behavior and mental processes, including cognition, emotions, and social behavior."
-    },
-    {
-        "tags": ["philosophy", "education"],
-        "tags_description": "Philosophy explores fundamental questions regarding existence, knowledge, values, reason, and the nature of reality."
-    },
-    {
-        "tags": ["literature", "art"],
-        "tags_description": "Literature refers to written works that express ideas, emotions, or stories through the use of language."
-    },
-    {
-        "tags": ["gaming", "entertainment"],
-        "tags_description": "Gaming involves playing video games for entertainment or competitive purposes, spanning various platforms and genres."
-    },
-    {
-        "tags": ["comedy", "entertainment"],
-        "tags_description": "Comedy includes humorous content such as films, television shows, stand-up, and other performances designed to entertain and amuse."
-    },
-    {
-        "tags": ["fashion", "lifestyle"],
-        "tags_description": "Fashion refers to the clothing, accessories, and trends that are popular at a particular time or in a particular culture."
-    },
-    {
-        "tags": ["design", "art"],
-        "tags_description": "Design includes the creation and planning of visual aesthetics and functionality in various mediums like graphic design, product design, and interior design."
-    },
-    {
-        "tags": ["education", "technology"],
-        "tags_description": "Educational technology involves the use of digital tools and media to enhance learning experiences and teaching methods."
-    },
-    {
-        "tags": ["mathematics", "science"],
-        "tags_description": "Mathematics involves the study of numbers, quantities, shapes, and patterns, and its application in various scientific fields."
-    },
-    {
-        "tags": ["literacy", "education"],
-        "tags_description": "Literacy refers to the ability to read, write, and understand texts in a language, as well as interpret and evaluate information."
-    },
-    {
-        "tags": ["astronomy", "science"],
-        "tags_description": "Astronomy is the scientific study of celestial bodies such as stars, planets, and galaxies, and the universe as a whole."
-    },
-    {
-        "tags": ["climate", "environment"],
-        "tags_description": "Climate refers to the long-term weather patterns and conditions in a particular region, while environmental studies focus on the impacts of human activity."
-    },
-    {
-        "tags": ["architecture", "design"],
-        "tags_description": "Architecture is the art and practice of designing buildings and other physical structures, considering functionality and aesthetic value."
-    },
-    {
-        "tags": ["entertainment", "novels"],
-        "tags_description": "Entertainment and novels include books, movies, TV shows, and other forms of storytelling."
-    },
-    {
-        "tags": ["technology", "gadgets", "software"],
-        "tags_description": "Technology focuses on the latest advancements in gadgets, software, and tech trends."
-    },
-    {
-        "tags": ["fashion", "style", "design"],
-        "tags_description": "Fashion and style include clothing, accessories, trends, and design innovations."
-    },
-    {
-        "tags": ["health", "fitness", "wellness"],
-        "tags_description": "Health and wellness cover topics related to physical and mental well-being, fitness routines, and nutrition."
-    },
-    {
-        "tags": ["food", "recipes", "cooking"],
-        "tags_description": "Food and cooking encompass recipes, restaurant reviews, cooking tips, and food culture."
-    },
-    {
-        "tags": ["travel", "destinations", "adventures"],
-        "tags_description": "Travel includes guides, destination information, tips, and adventure experiences around the world."
-    },
-    {
-        "tags": ["sports", "news", "events"],
-        "tags_description": "Sports covers news, scores, teams, players, and upcoming events in the sports world."
-    },
-    {
-        "tags": ["business", "finance", "entrepreneurship"],
-        "tags_description": "Business and finance include market trends, business advice, entrepreneurship, and investment strategies."
-    },
-    {
-        "tags": ["education", "learning", "courses"],
-        "tags_description": "Education and learning focus on online courses, school resources, self-improvement, and academic topics."
-    },
-    {
-        "tags": ["gaming", "eSports", "reviews"],
-        "tags_description": "Gaming covers video games, eSports events, game reviews, and gaming culture."
-    },
-    {
-        "tags": ["manga", "comics", "anime"],
-        "tags_description": "Manga includes Japanese comic books, graphic novels, and related anime adaptations, covering various genres and stories."
-    },
-    {
-        "tags": ["music", "albums", "concerts"],
-        "tags_description": "Music covers the latest albums, artist news, concerts, and everything related to the music industry."
-    },
-    {
-        "tags": ["movies", "films", "reviews"],
-        "tags_description": "Movies include the latest film releases, reviews, actor information, and entertainment news in the movie industry."
-    },
-    {
-        "tags": ["photography", "art", "design"],
-        "tags_description": "Photography and art include creative visuals, photography techniques, design inspiration, and art exhibitions."
-    },
-    {
-        "tags": ["DIY", "crafts", "home improvement"],
-        "tags_description": "DIY and crafts cover projects, tutorials, and tips on home improvement, crafting, and personal creations."
-    },
-    {
-        "tags": ["pets", "animals", "care"],
-        "tags_description": "Pets and animals focus on pet care, animal behavior, adoption, and everything related to keeping pets."
-    },
-    {
-        "tags": ["parenting", "family", "kids"],
-        "tags_description": "Parenting and family include tips, advice, and resources for raising children and managing family life."
-    },
-    {
-        "tags": ["politics", "news", "current affairs"],
-        "tags_description": "Politics covers the latest political news, government affairs, policies, and global political issues."
-    },
-    {
-        "tags": ["science", "research", "discoveries"],
-        "tags_description": "Science focuses on the latest research, discoveries, scientific breakthroughs, and news in various fields."
-    },
-    {
-        "tags": ["history", "culture", "heritage"],
-        "tags_description": "History and culture explore the past, heritage, historical events, and cultural practices around the world."
-    },
-    {
-        "tags": ["finance", "investing", "cryptocurrency"],
-        "tags_description": "Finance covers personal finance, investing tips, cryptocurrency news, stock markets, and wealth-building strategies."
-    },
-    {
-        "tags": ["automotive", "cars", "motorcycles"],
-        "tags_description": "Automotive focuses on cars, motorcycles, vehicle reviews, maintenance tips, and the latest trends in the automotive industry."
-    },
-    {
-        "tags": ["real estate", "property", "housing"],
-        "tags_description": "Real estate includes property listings, buying/selling tips, market trends, and home improvement advice."
-    },
-    {
-        "tags": ["environment", "sustainability", "nature"],
-        "tags_description": "Environment covers sustainability, green living, nature conservation, and eco-friendly practices."
-    },
-    {
-        "tags": ["psychology", "mental health", "self-help"],
-        "tags_description": "Psychology and mental health focus on emotional well-being, personal growth, therapy, and coping mechanisms."
-    },
-    {
-        "tags": ["startups", "innovation", "entrepreneurship"],
-        "tags_description": "Startups focus on emerging businesses, innovation trends, venture capital, and entrepreneurship."
-    },
-    {
-        "tags": ["literature", "poetry", "writing"],
-        "tags_description": "Literature includes poetry, writing techniques, author interviews, book reviews, and creative writing resources."
-    },
-    {
-        "tags": ["social media", "marketing", "influencers"],
-        "tags_description": "Social media covers trends in digital marketing, influencer culture, social platforms, and online advertising."
-    },
-    {
-        "tags": ["gambling", "casinos", "betting"],
-        "tags_description": "Gambling includes news, tips, and information on casinos, online betting, poker, and other gaming activities."
-    },
-    {
-        "tags": ["space", "astronomy", "astrophysics"],
-        "tags_description": "Space covers topics related to astronomy, space exploration, planets, stars, black holes, and the universe."
-    },
-    {
-        "tags": ["fitness", "nutrition", "exercise"],
-        "tags_description": "Fitness includes workout routines, healthy nutrition advice, and tips for building strength, endurance, and flexibility."
-    },
-    {
-        "tags": ["shopping", "sales", "deals"],
-        "tags_description": "Shopping focuses on product reviews, sales, discounts, online deals, and seasonal offers."
-    },
-    {
-        "tags": ["luxury", "high-end", "lifestyle"],
-        "tags_description": "Luxury and high-end lifestyle covers expensive goods, luxury brands, and experiences for affluent individuals."
-    },
-    {
-        "tags": ["cryptocurrency", "blockchain", "NFTs"],
-        "tags_description": "Cryptocurrency and blockchain include updates on digital currencies, trading, investing, and non-fungible tokens (NFTs)."
-    },
-    {
-        "tags": ["vacation", "holidays", "getaways"],
-        "tags_description": "Vacation and holidays cover travel packages, seasonal getaways, resort reviews, and vacation planning tips."
-    },
-    {
-        "tags": ["design", "interior", "architecture"],
-        "tags_description": "Design, interior, and architecture cover modern living spaces, interior design trends, architecture styles, and home décor."
-    },
-    {
-        "tags": ["weddings", "marriage", "events"],
-        "tags_description": "Weddings include planning tips, bridal fashion, venue selections, and everything related to marriage ceremonies and events."
-    },
-    {
-        "tags": ["comedy", "humor", "funny"],
-        "tags_description": "Comedy and humor include jokes, funny videos, memes, and all things meant to entertain with laughter."
-    }
+  {
+    "tags": ["entertainment", "novels"],
+    "tags_description": "Entertainment and novels include books, movies, TV shows, and other forms of storytelling."
+  },
+  {
+    "tags": ["news", "social media"],
+    "tags_description": "News and social media cover updates, discussions, and trends in the digital space."
+  },
+  {
+    "tags": ["learning", "education", "science"],
+    "tags_description": "Learning and education focus on the acquisition of knowledge, skills, and scientific understanding."
+  },
+  {
+    "tags": ["anime", "entertainment"],
+    "tags_description": "Anime is a genre of animation originating from Japan, encompassing various artistic styles and themes."
+  },
+  {
+    "tags": ["wiki", "information"],
+    "tags_description": "Wiki refers to websites that allow collaborative editing of content, like Wikipedia."
+  },
+  {
+    "tags": ["math", "education"],
+    "tags_description": "Mathematics is the study of numbers, shapes, patterns, and their relationships."
+  },
+  {
+    "tags": ["science", "education"],
+    "tags_description": "Science focuses on the study of the physical and natural world through observation and experimentation."
+  },
+  {
+    "tags": ["history", "education"],
+    "tags_description": "History involves the study of past events, societies, and civilizations."
+  },
+  {
+    "tags": ["technology", "innovation"],
+    "tags_description": "Technology and innovation refer to the development and application of new tools, systems, and ideas."
+  },
+  {
+    "tags": ["health", "wellness"],
+    "tags_description": "Health and wellness focus on physical, mental, and social well-being."
+  },
+  {
+    "tags": ["sports", "entertainment"],
+    "tags_description": "Sports involve physical activities, competitions, and games, both recreational and professional."
+  },
+  {
+    "tags": ["politics", "government"],
+    "tags_description": "Politics covers the theory and practice of governance, policies, and the power structures of societies."
+  },
+  {
+    "tags": ["business", "finance"],
+    "tags_description": "Business and finance are concerned with the management of money, investments, entrepreneurship, and corporate strategies."
+  },
+  {
+    "tags": ["music", "entertainment"],
+    "tags_description": "Music encompasses the art and practice of creating and performing sound in various genres, including classical, pop, rock, and more."
+  },
+  {
+    "tags": ["travel", "lifestyle"],
+    "tags_description": "Travel involves movement from one place to another, typically for leisure, exploration, or adventure."
+  },
+  {
+    "tags": ["art", "culture"],
+    "tags_description": "Art and culture encompass visual arts, music, theater, dance, and other creative expressions that reflect society."
+  },
+  {
+    "tags": ["food", "lifestyle"],
+    "tags_description": "Food covers the preparation, consumption, and cultural significance of eating and cooking."
+  },
+  {
+    "tags": ["environment", "sustainability"],
+    "tags_description": "The environment and sustainability focus on the natural world and efforts to preserve ecosystems and natural resources."
+  },
+  {
+    "tags": ["psychology", "education"],
+    "tags_description": "Psychology is the scientific study of behavior and mental processes, including cognition, emotions, and social behavior."
+  },
+  {
+    "tags": ["philosophy", "education"],
+    "tags_description": "Philosophy explores fundamental questions regarding existence, knowledge, values, reason, and the nature of reality."
+  },
+  {
+    "tags": ["literature", "art"],
+    "tags_description": "Literature refers to written works that express ideas, emotions, or stories through the use of language."
+  },
+  {
+    "tags": ["gaming", "entertainment"],
+    "tags_description": "Gaming involves playing video games for entertainment or competitive purposes, spanning various platforms and genres."
+  },
+  {
+    "tags": ["comedy", "entertainment"],
+    "tags_description": "Comedy includes humorous content such as films, television shows, stand-up, and other performances designed to entertain and amuse."
+  },
+  {
+    "tags": ["fashion", "lifestyle"],
+    "tags_description": "Fashion refers to the clothing, accessories, and trends that are popular at a particular time or in a particular culture."
+  },
+  {
+    "tags": ["design", "art"],
+    "tags_description": "Design includes the creation and planning of visual aesthetics and functionality in various mediums like graphic design, product design, and interior design."
+  },
+  {
+    "tags": ["education", "technology"],
+    "tags_description": "Educational technology involves the use of digital tools and media to enhance learning experiences and teaching methods."
+  },
+  {
+    "tags": ["mathematics", "science"],
+    "tags_description": "Mathematics involves the study of numbers, quantities, shapes, and patterns, and its application in various scientific fields."
+  },
+  {
+    "tags": ["literacy", "education"],
+    "tags_description": "Literacy refers to the ability to read, write, and understand texts in a language, as well as interpret and evaluate information."
+  },
+  {
+    "tags": ["astronomy", "science"],
+    "tags_description": "Astronomy is the scientific study of celestial bodies such as stars, planets, and galaxies, and the universe as a whole."
+  },
+  {
+    "tags": ["climate", "environment"],
+    "tags_description": "Climate refers to the long-term weather patterns and conditions in a particular region, while environmental studies focus on the impacts of human activity."
+  },
+  {
+    "tags": ["architecture", "design"],
+    "tags_description": "Architecture is the art and practice of designing buildings and other physical structures, considering functionality and aesthetic value."
+  },
+  {
+    "tags": ["entertainment", "novels"],
+    "tags_description": "Entertainment and novels include books, movies, TV shows, and other forms of storytelling."
+  },
+  {
+    "tags": ["technology", "gadgets", "software"],
+    "tags_description": "Technology focuses on the latest advancements in gadgets, software, and tech trends."
+  },
+  {
+    "tags": ["fashion", "style", "design"],
+    "tags_description": "Fashion and style include clothing, accessories, trends, and design innovations."
+  },
+  {
+    "tags": ["health", "fitness", "wellness"],
+    "tags_description": "Health and wellness cover topics related to physical and mental well-being, fitness routines, and nutrition."
+  },
+  {
+    "tags": ["food", "recipes", "cooking"],
+    "tags_description": "Food and cooking encompass recipes, restaurant reviews, cooking tips, and food culture."
+  },
+  {
+    "tags": ["travel", "destinations", "adventures"],
+    "tags_description": "Travel includes guides, destination information, tips, and adventure experiences around the world."
+  },
+  {
+    "tags": ["sports", "news", "events"],
+    "tags_description": "Sports covers news, scores, teams, players, and upcoming events in the sports world."
+  },
+  {
+    "tags": ["business", "finance", "entrepreneurship"],
+    "tags_description": "Business and finance include market trends, business advice, entrepreneurship, and investment strategies."
+  },
+  {
+    "tags": ["education", "learning", "courses"],
+    "tags_description": "Education and learning focus on online courses, school resources, self-improvement, and academic topics."
+  },
+  {
+    "tags": ["gaming", "eSports", "reviews"],
+    "tags_description": "Gaming covers video games, eSports events, game reviews, and gaming culture."
+  },
+  {
+    "tags": ["manga", "comics", "anime"],
+    "tags_description": "Manga includes Japanese comic books, graphic novels, and related anime adaptations, covering various genres and stories."
+  },
+  {
+    "tags": ["music", "albums", "concerts"],
+    "tags_description": "Music covers the latest albums, artist news, concerts, and everything related to the music industry."
+  },
+  {
+    "tags": ["movies", "films", "reviews"],
+    "tags_description": "Movies include the latest film releases, reviews, actor information, and entertainment news in the movie industry."
+  },
+  {
+    "tags": ["photography", "art", "design"],
+    "tags_description": "Photography and art include creative visuals, photography techniques, design inspiration, and art exhibitions."
+  },
+  {
+    "tags": ["DIY", "crafts", "home improvement"],
+    "tags_description": "DIY and crafts cover projects, tutorials, and tips on home improvement, crafting, and personal creations."
+  },
+  {
+    "tags": ["pets", "animals", "care"],
+    "tags_description": "Pets and animals focus on pet care, animal behavior, adoption, and everything related to keeping pets."
+  },
+  {
+    "tags": ["parenting", "family", "kids"],
+    "tags_description": "Parenting and family include tips, advice, and resources for raising children and managing family life."
+  },
+  {
+    "tags": ["politics", "news", "current affairs"],
+    "tags_description": "Politics covers the latest political news, government affairs, policies, and global political issues."
+  },
+  {
+    "tags": ["science", "research", "discoveries"],
+    "tags_description": "Science focuses on the latest research, discoveries, scientific breakthroughs, and news in various fields."
+  },
+  {
+    "tags": ["history", "culture", "heritage"],
+    "tags_description": "History and culture explore the past, heritage, historical events, and cultural practices around the world."
+  },
+  {
+    "tags": ["finance", "investing", "cryptocurrency"],
+    "tags_description": "Finance covers personal finance, investing tips, cryptocurrency news, stock markets, and wealth-building strategies."
+  },
+  {
+    "tags": ["automotive", "cars", "motorcycles"],
+    "tags_description": "Automotive focuses on cars, motorcycles, vehicle reviews, maintenance tips, and the latest trends in the automotive industry."
+  },
+  {
+    "tags": ["real estate", "property", "housing"],
+    "tags_description": "Real estate includes property listings, buying/selling tips, market trends, and home improvement advice."
+  },
+  {
+    "tags": ["environment", "sustainability", "nature"],
+    "tags_description": "Environment covers sustainability, green living, nature conservation, and eco-friendly practices."
+  },
+  {
+    "tags": ["psychology", "mental health", "self-help"],
+    "tags_description": "Psychology and mental health focus on emotional well-being, personal growth, therapy, and coping mechanisms."
+  },
+  {
+    "tags": ["startups", "innovation", "entrepreneurship"],
+    "tags_description": "Startups focus on emerging businesses, innovation trends, venture capital, and entrepreneurship."
+  },
+  {
+    "tags": ["literature", "poetry", "writing"],
+    "tags_description": "Literature includes poetry, writing techniques, author interviews, book reviews, and creative writing resources."
+  },
+  {
+    "tags": ["social media", "marketing", "influencers"],
+    "tags_description": "Social media covers trends in digital marketing, influencer culture, social platforms, and online advertising."
+  },
+  {
+    "tags": ["gambling", "casinos", "betting"],
+    "tags_description": "Gambling includes news, tips, and information on casinos, online betting, poker, and other gaming activities."
+  },
+  {
+    "tags": ["space", "astronomy", "astrophysics"],
+    "tags_description": "Space covers topics related to astronomy, space exploration, planets, stars, black holes, and the universe."
+  },
+  {
+    "tags": ["fitness", "nutrition", "exercise"],
+    "tags_description": "Fitness includes workout routines, healthy nutrition advice, and tips for building strength, endurance, and flexibility."
+  },
+  {
+    "tags": ["shopping", "sales", "deals"],
+    "tags_description": "Shopping focuses on product reviews, sales, discounts, online deals, and seasonal offers."
+  },
+  {
+    "tags": ["luxury", "high-end", "lifestyle"],
+    "tags_description": "Luxury and high-end lifestyle covers expensive goods, luxury brands, and experiences for affluent individuals."
+  },
+  {
+    "tags": ["cryptocurrency", "blockchain", "NFTs"],
+    "tags_description": "Cryptocurrency and blockchain include updates on digital currencies, trading, investing, and non-fungible tokens (NFTs)."
+  },
+  {
+    "tags": ["vacation", "holidays", "getaways"],
+    "tags_description": "Vacation and holidays cover travel packages, seasonal getaways, resort reviews, and vacation planning tips."
+  },
+  {
+    "tags": ["design", "interior", "architecture"],
+    "tags_description": "Design, interior, and architecture cover modern living spaces, interior design trends, architecture styles, and home décor."
+  },
+  {
+    "tags": ["weddings", "marriage", "events"],
+    "tags_description": "Weddings include planning tips, bridal fashion, venue selections, and everything related to marriage ceremonies and events."
+  },
+  {
+    "tags": ["comedy", "humor", "funny"],
+    "tags_description": "Comedy and humor include jokes, funny videos, memes, and all things meant to entertain with laughter."
+  },
+  {
+    "tags": ["entertainment", "novels"],
+    "tags_description": "Entertainment and novels include books, movies, TV shows, and other forms of storytelling."
+  },
+  {
+    "tags": ["finance", "banks"],
+    "tags_description": "Finance and banking websites provide information on financial services, investment options, and account management."
+  },
+  {
+    "tags": ["insurance"],
+    "tags_description": "Insurance websites offer policies for health, life, vehicle, and property coverage, along with claim management services."
+  },
+  {
+    "tags": ["education", "universities"],
+    "tags_description": "University and education websites provide academic programs, research opportunities, and admission details for students."
+  },
+  {
+    "tags": ["online learning"],
+    "tags_description": "Online learning platforms offer courses, certifications, and self-paced study programs for various subjects."
+  },
+  {
+    "tags": ["government", "public services"],
+    "tags_description": "Government and public service websites provide official information, citizen services, and policy updates."
+  },
+  {
+    "tags": ["legal", "judiciary"],
+    "tags_description": "Legal and judiciary websites include court systems, legal aid services, and law enforcement resources."
+  },
+  {
+    "tags": ["healthcare", "hospitals"],
+    "tags_description": "Healthcare and hospital websites offer medical services, appointment booking, and patient care information."
+  },
+  {
+    "tags": ["technology", "science"],
+    "tags_description": "Technology and science websites feature innovations, research findings, and advancements in various fields."
+  },
+  {
+    "tags": ["telecommunications"],
+    "tags_description": "Telecommunications websites provide information on internet, mobile, and broadband services."
+  },
+  {
+    "tags": ["news", "media"],
+    "tags_description": "News and media websites cover current events, journalism, and digital publications on various topics."
+  },
+  {
+    "tags": ["nonprofits", "NGOs"],
+    "tags_description": "Nonprofit and NGO websites focus on humanitarian aid, community services, and social impact initiatives."
+  },
+  {
+    "tags": ["environment", "sustainability"],
+    "tags_description": "Environmental and sustainability websites promote conservation, climate action, and green initiatives."
+  },
+  {
+    "tags": ["ecommerce", "online store"],
+    "tags_description": "Ecommerce and online store websites enable businesses to sell products or services directly to consumers through digital platforms."
+  },
+  {
+    "tags": ["business", "corporate"],
+    "tags_description": "Business and corporate websites provide information about a company, its services, and contact details to establish an online presence."
+  },
+  {
+    "tags": ["blog", "personal blog"],
+    "tags_description": "Blogs and personal blogs share articles, opinions, and insights on various topics, often written in a casual or conversational tone."
+  },
+  {
+    "tags": ["portfolio", "creative work"],
+    "tags_description": "Portfolio and creative work websites showcase an individual's or business’s artistic, design, or professional projects in a visually engaging format."
+  },
+  {
+    "tags": ["event", "event promotion"],
+    "tags_description": "Event and event promotion websites provide details about upcoming events, including schedules, locations, and ticketing information."
+  },
+  {
+    "tags": ["personal", "resume"],
+    "tags_description": "Personal and resume websites highlight an individual's professional skills, experiences, and achievements in a digital format."
+  },
+  {
+    "tags": ["membership", "community"],
+    "tags_description": "Membership and community websites create exclusive online spaces where users can register, interact, and access specialized content or services."
+  },
+  {
+    "tags": ["nonprofit", "charity"],
+    "tags_description": "Nonprofit and charity websites represent organizations that support social causes, promote fundraising efforts, and provide information about their mission."
+  },
+  {
+    "tags": ["informational", "education"],
+    "tags_description": "Informational and education websites share knowledge, tutorials, and resources to help users learn about specific subjects or skills."
+  },
+  {
+    "tags": ["forum", "discussion"],
+    "tags_description": "Forums and discussion websites enable users to engage in conversations, ask questions, and share opinions on various topics."
+  },
+  {
+    "tags": ["community", "social network"],
+    "tags_description": "Community and social network websites connect users, allowing them to communicate, share content, and build relationships online."
+  },
+  {
+    "tags": ["startup", "entrepreneur"],
+    "tags_description": "Startup and entrepreneur websites introduce new businesses, describe their products or services, and attract potential investors or customers."
+  },
+  {
+    "tags": ["consulting", "professional services"],
+    "tags_description": "Consulting and professional services websites present expert guidance, specialized advice, and business solutions in various industries."
+  },
+  {
+    "tags": ["booking", "appointments"],
+    "tags_description": "Booking and appointment websites allow users to schedule services, make reservations, and manage appointments online."
+  },
+  {
+    "tags": ["petition", "activism"],
+    "tags_description": "Petition and activism websites encourage users to support causes, sign petitions, and advocate for social or political change."
+  },
+  {
+    "tags": ["school", "education"],
+    "tags_description": "School and education websites provide academic institutions with platforms to share curricula, student resources, and enrollment details."
+  },
+  {
+    "tags": ["hobby", "interest"],
+    "tags_description": "Hobby and interest websites focus on specific pastimes or activities, offering information, resources, and community engagement."
+  },
+  {
+    "tags": ["interactive", "engagement"],
+    "tags_description": "Interactive and engagement websites include tools, quizzes, and interactive media to captivate users and enhance digital experiences."
+  },
+  {
+    "tags": ["entertainment", "media"],
+    "tags_description": "Entertainment and media websites offer content such as movies, music, games, and videos for user enjoyment and engagement."
+  },
+  {
+    "tags": ["wedding", "event planning"],
+    "tags_description": "Wedding and event planning websites provide couples with digital platforms to share event details, manage RSVPs, and plan their special day."
+  },
+  {
+    "tags": ["travel", "tourism"],
+    "tags_description": "Travel and tourism websites offer information on destinations, accommodations, and travel services to help users plan their trips."
+  },
+  {
+    "tags": ["directory", "listing"],
+    "tags_description": "Directory and listing websites organize and display collections of businesses, services, or professionals for easy access and searchability."
+  },
+  {
+    "tags": ["landing page", "marketing"],
+    "tags_description": "Landing page and marketing websites focus on promoting specific products, services, or campaigns to attract and convert visitors."
+  },
+  {
+    "tags": ["news", "magazine"],
+    "tags_description": "News and magazine websites publish articles, updates, and reports on current events, entertainment, and industry trends."
+  },
+  {
+    "tags": ["memorial", "tribute"],
+    "tags_description": "Memorial and tribute websites honor individuals or events by preserving memories, sharing stories, and allowing visitors to pay their respects."
+  },
+  {
+    "tags": ["subscription", "content service"],
+    "tags_description": "Subscription and content service websites provide exclusive access to digital content, such as articles, videos, or premium resources, for a recurring fee."
+  },
+  {
+    "tags": ["kid-friendly", "children"],
+    "tags_description": "Kid-friendly and children’s websites offer age-appropriate content, games, and educational materials designed for young audiences."
+  },
+  {
+    "tags": ["entertainment"],
+    "tags_description": "Entertainment websites include novels, movies, music, gaming, and other forms of media and leisure activities."
+  },
+  {
+    "tags": ["Entertainment", "Novels and Literature"],
+    "tags_description": "Entertainment and novels & literature include book reviews, author interviews, online libraries, and e-book stores."
+  },
+  {
+    "tags": ["Entertainment", "Movies and TV Shows"],
+    "tags_description": "Entertainment and movies & TV shows include streaming services, movie databases, reviews, and fan sites."
+  },
+  {
+    "tags": ["Entertainment", "Music and Audio"],
+    "tags_description": "Entertainment and music & audio include streaming platforms, podcasts, music blogs, and online radio stations."
+  },
+  {
+    "tags": ["Entertainment", "gaming"],
+    "tags_description": "Entertainment and gaming include online game portals, game reviews, esports coverage, and developer blogs."
+  },
+  {
+    "tags": ["Entertainment", "Arts and Culture"],
+    "tags_description": "Entertainment and arts & culture include virtual museums, art galleries, theater productions, and cultural event listings."
+  },
+  {
+    "tags": ["Business", "Finance"],
+    "tags_description": "Business and finance websites include financial services, investment options, and economic news."
+  },
+  {
+    "tags": ["Business", "Finance", "Banks"],
+    "tags_description": "Business, finance, and banks include online banking services, account management, and detailed financial information."
+  },
+  {
+    "tags": ["Business", "Finance", "Insurance"],
+    "tags_description": "Business, finance, and insurance include coverage options for health, life, auto, and property, along with claims management."
+  },
+  {
+    "tags": ["Business", "Finance", "Investment & Trading"],
+    "tags_description": "Business, finance, and investment & trading include stock market analysis, trading platforms, and investment tools."
+  },
+  {
+    "tags": ["Business", "Finance", "E-commerce & Retail"],
+    "tags_description": "Business, finance, and e-commerce & retail include online shopping, marketplaces, and product review sites."
+  },
+  {
+    "tags": ["Business", "Finance", "Real Estate"],
+    "tags_description": "Business, finance, and real estate include property listings, rental information, and commercial real estate details."
+  },
+  {
+    "tags": ["Business", "Finance", "Business Services"],
+    "tags_description": "Business, finance, and business services include consultancy firms, professional services, and trade association websites."
+  },
+  {
+    "tags": ["Education"],
+    "tags_description": "Education websites include academic resources, learning tools, and institutional information for all levels of study."
+  },
+  {
+    "tags": ["Education", "Universities & Colleges"],
+    "tags_description": "Education and universities & colleges include academic program details, admissions information, and research opportunities."
+  },
+  {
+    "tags": ["Education", "K-12 & Schools"],
+    "tags_description": "Education and K-12 & schools include primary and secondary education resources, school district information, and classroom tools."
+  },
+  {
+    "tags": ["Education", "Online Learning & MOOCs"],
+    "tags_description": "Education and online learning & MOOCs include digital courses, certification programs, and self-paced learning opportunities."
+  },
+  {
+    "tags": ["Education", "Professional Development"],
+    "tags_description": "Education and professional development include vocational training, skill enhancement courses, and industry certifications."
+  },
+  {
+    "tags": ["Education", "Educational Resources"],
+    "tags_description": "Education and educational resources include digital libraries, academic journals, and research repositories."
+  },
+  {
+    "tags": ["Government", "Public Services"],
+    "tags_description": "Government and public services websites include official information, policy updates, and community resources."
+  },
+  {
+    "tags": ["Government", "Public Services", "Federal, State, & Local"],
+    "tags_description": "Government, public services, and federal, state, & local websites include official portals, public records, and policy announcements."
+  },
+  {
+    "tags": [
+      "Government",
+      "Public Services",
+      "Public Safety & Law Enforcement"
+    ],
+    "tags_description": "Government, public services, and public safety & law enforcement include police department updates, emergency services, and disaster management information."
+  },
+  {
+    "tags": ["Government", "Public Services", "Judiciary & Legal"],
+    "tags_description": "Government, public services, and judiciary & legal include court systems, legal aid services, and regulatory agency details."
+  },
+  {
+    "tags": [
+      "Government",
+      "Public Services",
+      "Public Utilities & Infrastructure"
+    ],
+    "tags_description": "Government, public services, and public utilities & infrastructure include transportation, public works, and essential service information."
+  },
+  {
+    "tags": ["Government", "Public Services", "Civic Engagement"],
+    "tags_description": "Government, public services, and civic engagement include voting information, public forums, and community initiatives."
+  },
+  {
+    "tags": ["Healthcare"],
+    "tags_description": "Healthcare websites include medical service providers, health information, and wellness resources."
+  },
+  {
+    "tags": ["Healthcare", "Hospitals & Clinics"],
+    "tags_description": "Healthcare and hospitals & clinics include patient care information, appointment scheduling, and service details."
+  },
+  {
+    "tags": ["Healthcare", "Health Information & Wellness"],
+    "tags_description": "Healthcare and health information & wellness include medical advice, health news, and lifestyle tips."
+  },
+  {
+    "tags": ["Healthcare", "Pharmaceutical & Drug Information"],
+    "tags_description": "Healthcare and pharmaceutical & drug information include pharmacy services, medication databases, and research on medicines."
+  },
+  {
+    "tags": ["Healthcare", "Fitness & Lifestyle"],
+    "tags_description": "Healthcare and fitness & lifestyle include workout plans, nutrition guidance, and personal health tracking."
+  },
+  {
+    "tags": ["Healthcare", "Mental Health & Counseling"],
+    "tags_description": "Healthcare and mental health & counseling include therapy services, support resources, and mental well-being advice."
+  },
+  {
+    "tags": ["Technology", "Science"],
+    "tags_description": "Technology and science websites include the latest innovations, research advancements, and detailed product reviews."
+  },
+  {
+    "tags": ["Technology", "Tech Companies & Startups"],
+    "tags_description": "Technology and tech companies & startups include corporate websites, product details, and news on technological innovations."
+  },
+  {
+    "tags": ["Technology", "Research & Development"],
+    "tags_description": "Technology and research & development include academic research, innovation labs, and tech industry breakthroughs."
+  },
+  {
+    "tags": ["Technology", "Gadgets & Reviews"],
+    "tags_description": "Technology and gadgets & reviews include consumer electronics reviews, unboxing experiences, and tech blog insights."
+  },
+  {
+    "tags": ["Technology", "Software & Applications"],
+    "tags_description": "Technology and software & applications include app stores, download platforms, and software development resources."
+  },
+  {
+    "tags": ["Technology", "Scientific Organizations"],
+    "tags_description": "Technology and scientific organizations include research institutions, academic collaborations, and science journal updates."
+  },
+  {
+    "tags": ["News", "Media"],
+    "tags_description": "News and media websites include current events, journalism, and diverse coverage of topics from politics to entertainment."
+  },
+  {
+    "tags": ["News", "General News Portals"],
+    "tags_description": "News and general news portals include national and international news, breaking updates, and comprehensive reports."
+  },
+  {
+    "tags": ["News", "Local & Community News"],
+    "tags_description": "News and local & community news include regional updates, community events, and localized reporting."
+  },
+  {
+    "tags": ["News", "Specialized Magazines & Blogs"],
+    "tags_description": "News and specialized magazines & blogs include niche interest topics, industry-specific insights, and in-depth articles."
+  },
+  {
+    "tags": ["News", "Journalism & Opinion"],
+    "tags_description": "News and journalism & opinion include investigative reports, editorials, and commentary on current issues."
+  },
+  {
+    "tags": ["News", "Entertainment News"],
+    "tags_description": "News and entertainment news include celebrity updates, film and music news, and pop culture trends."
+  },
+  {
+    "tags": ["Social", "Community"],
+    "tags_description": "Social and community websites include networking platforms, discussion forums, and community engagement resources."
+  },
+  {
+    "tags": ["Social", "Community", "Social Networking"],
+    "tags_description": "Social, community, and social networking websites include platforms for connecting, sharing content, and communicating with others."
+  },
+  {
+    "tags": ["Social", "Community", "Online Forums & Discussion Boards"],
+    "tags_description": "Social, community, and online forums & discussion boards include discussion platforms, Q&A sites, and support communities."
+  },
+  {
+    "tags": ["Social", "Community", "Nonprofits & NGOs"],
+    "tags_description": "Social, community, and nonprofits & NGOs include charity organizations, advocacy groups, and community service initiatives."
+  },
+  {
+    "tags": ["Social", "Community", "Cultural & Community Events"],
+    "tags_description": "Social, community, and cultural & community events include event listings, local cultural activities, and community center updates."
+  },
+  {
+    "tags": ["Lifestyle"],
+    "tags_description": "Lifestyle websites include travel, food, fashion, home design, and personal finance topics."
+  },
+  {
+    "tags": ["Lifestyle", "Travel & Tourism"],
+    "tags_description": "Lifestyle and travel & tourism include destination guides, booking services, and tourism board information for travelers."
+  },
+  {
+    "tags": ["Lifestyle", "Food & Dining"],
+    "tags_description": "Lifestyle and food & dining include recipe collections, restaurant reviews, and cooking tutorials."
+  },
+  {
+    "tags": ["Lifestyle", "Fashion & Beauty"],
+    "tags_description": "Lifestyle and fashion & beauty include style guides, product reviews, and trend reports on fashion and cosmetics."
+  },
+  {
+    "tags": ["Lifestyle", "Home & Garden"],
+    "tags_description": "Lifestyle and home & garden include interior design tips, DIY project guides, and gardening advice."
+  },
+  {
+    "tags": ["Lifestyle", "Personal Finance & Lifestyle Management"],
+    "tags_description": "Lifestyle and personal finance & lifestyle management include budgeting tools, financial advice, and tips for managing daily life."
+  },
+  {
+    "tags": ["Sports"],
+    "tags_description": "Sports websites include professional leagues, sports news, analysis, and fan community content."
+  },
+  {
+    "tags": ["Sports", "Professional Leagues & Teams"],
+    "tags_description": "Sports and professional leagues & teams include official team websites, league schedules, and match updates."
+  },
+  {
+    "tags": ["Sports", "Sports News & Analysis"],
+    "tags_description": "Sports and sports news & analysis include match reports, expert commentary, and detailed sports statistics."
+  },
+  {
+    "tags": ["Sports", "Fan Communities & Forums"],
+    "tags_description": "Sports and fan communities & forums include discussion boards, fan clubs, and social media groups for sports enthusiasts."
+  },
+  {
+    "tags": ["Sports", "Fitness & Outdoor Sports"],
+    "tags_description": "Sports and fitness & outdoor sports include workout plans, outdoor activity guides, and sports equipment reviews."
+  },
+  {
+    "tags": ["Legal"],
+    "tags_description": "Legal websites include law firm information, legal resources, and updates on regulations and compliance."
+  },
+  {
+    "tags": ["Legal", "Law Firms & Legal Services"],
+    "tags_description": "Legal and law firms & legal services include consultation services, case studies, and practice details."
+  },
+  {
+    "tags": ["Legal", "Legal Information & Resources"],
+    "tags_description": "Legal and legal information & resources include access to legal databases, research portals, and public records."
+  },
+  {
+    "tags": ["Legal", "Regulatory & Compliance"],
+    "tags_description": "Legal and regulatory & compliance include updates on government regulations, compliance guidelines, and legal news."
+  },
+  {
+    "tags": ["Lifestyle", "Hobbies"],
+    "tags_description": "Lifestyle and hobbies include creative activities, personal interests, and leisure pursuits."
+  },
+  {
+    "tags": ["Lifestyle", "Hobbies", "Arts & Crafts"],
+    "tags_description": "Lifestyle, hobbies, and arts & crafts include DIY projects, craft tutorials, and creative inspiration."
+  },
+  {
+    "tags": ["Lifestyle", "Hobbies", "Photography & Videography"],
+    "tags_description": "Lifestyle, hobbies, and photography & videography include portfolios, tutorials, and equipment reviews."
+  },
+  {
+    "tags": ["Lifestyle", "Hobbies", "Gaming (Hobbyist)"],
+    "tags_description": "Lifestyle, hobbies, and gaming (hobbyist) include strategy guides, retro gaming reviews, and niche gaming communities."
+  },
+  {
+    "tags": ["Lifestyle", "Hobbies", "Automotive"],
+    "tags_description": "Lifestyle, hobbies, and automotive include car reviews, maintenance tips, and forums for auto enthusiasts."
+  }
 ]
