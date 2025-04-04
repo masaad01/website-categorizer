@@ -1,4 +1,5 @@
 import os
+import hashlib
 import requests
 import numpy as np
 from flask import Flask, request, jsonify, send_from_directory
@@ -13,20 +14,26 @@ def load_tags_from_json(file_path="tags.json"):
 # Load tags at the start of the app
 tag_descriptions = load_tags_from_json()
 
-# In-memory cache for tag embeddings (calculated once)
+# In-memory cache for tag embeddings, using hash of text as the key
 embedding_cache = {}
 
 app = Flask(__name__, static_url_path='/static')
+
+# Function to compute the hash of a text
+def compute_hash(text):
+    return hashlib.sha256(text.encode('utf-8')).hexdigest()
 
 # Function to get embeddings from Ollama's 'nomic-embed-text' model
 def get_embeddings(texts):
     embeddings = []
     for text in texts:
-        if text in embedding_cache:
-            # Use cached embeddings if available
-            embeddings.append(embedding_cache[text])
+        text_hash = compute_hash(text)  # Compute the hash of the tag description
+        
+        if text_hash in embedding_cache:
+            # If the hash is in the cache, use the cached embedding
+            embeddings.append(embedding_cache[text_hash])
         else:
-            # Fetch embedding from the API and store it in cache
+            # Fetch the embedding from the API and store it in the cache
             try:
                 response = requests.post(
                     "http://localhost:11434/api/embed",  # Correct Ollama API endpoint
@@ -36,7 +43,7 @@ def get_embeddings(texts):
                 if response.status_code == 200:
                     response_json = response.json()
                     embedding = np.array(response_json['embeddings'][0])
-                    embedding_cache[text] = embedding  # Cache the embedding for later use
+                    embedding_cache[text_hash] = embedding  # Cache the embedding using the hash
                     embeddings.append(embedding)
                 else:
                     print(f"Error in getting embedding for: {text}")
