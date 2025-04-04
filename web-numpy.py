@@ -8,11 +8,11 @@ from bs4 import BeautifulSoup
 import json
 
 # Set up logging configuration
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
+
+# File path for persistent cache
+CACHE_FILE = 'embedding_cache.json'
 
 # Function to load tags from a JSON file
 def load_tags_from_json(file_path="tags.json"):
@@ -22,20 +22,38 @@ def load_tags_from_json(file_path="tags.json"):
 # Load tags at the start of the app
 tag_descriptions = load_tags_from_json()
 
-# File path for persistent cache
-CACHE_FILE = 'embedding_cache.json'
-
 # Load cache from a JSON file if it exists
 def load_cache():
     if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, 'r') as file:
-            return json.load(file)
+        try:
+            with open(CACHE_FILE, 'r') as file:
+                cache = json.load(file)
+                # Convert cached embeddings back to numpy arrays
+                for key, value in cache.items():
+                    cache[key] = np.array(value)
+                logger.info("Cache loaded successfully.")
+                return cache
+        except json.JSONDecodeError as e:
+            logger.error(f"Error decoding JSON from cache file: {e}")
+            logger.info("Cache is corrupted. Starting with an empty cache.")
+        except Exception as e:
+            logger.error(f"Unexpected error while loading cache: {e}")
+    
+    logger.info("Cache file doesn't exist or is empty. Initializing a new cache.")
     return {}
 
 # Save cache to a JSON file
 def save_cache(cache):
-    with open(CACHE_FILE, 'w') as file:
-        json.dump(cache, file, indent=4)
+    try:
+        # Convert numpy arrays to lists for JSON serialization
+        serializable_cache = {
+            key: value.tolist() for key, value in cache.items()
+        }
+        with open(CACHE_FILE, 'w') as file:
+            json.dump(serializable_cache, file, indent=4)
+        logger.info("Cache saved successfully.")
+    except Exception as e:
+        logger.error(f"Error saving cache: {e}")
 
 # In-memory cache for tag embeddings, using hash of text as the key
 embedding_cache = load_cache()
