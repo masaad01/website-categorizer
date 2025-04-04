@@ -122,5 +122,157 @@
     {
         "tags": ["architecture", "design"],
         "tags_description": "Architecture is the art and practice of designing buildings and other physical structures, considering functionality and aesthetic value."
+    },
+    {
+        "tags": ["entertainment", "novels"],
+        "tags_description": "Entertainment and novels include books, movies, TV shows, and other forms of storytelling."
+    },
+    {
+        "tags": ["technology", "gadgets", "software"],
+        "tags_description": "Technology focuses on the latest advancements in gadgets, software, and tech trends."
+    },
+    {
+        "tags": ["fashion", "style", "design"],
+        "tags_description": "Fashion and style include clothing, accessories, trends, and design innovations."
+    },
+    {
+        "tags": ["health", "fitness", "wellness"],
+        "tags_description": "Health and wellness cover topics related to physical and mental well-being, fitness routines, and nutrition."
+    },
+    {
+        "tags": ["food", "recipes", "cooking"],
+        "tags_description": "Food and cooking encompass recipes, restaurant reviews, cooking tips, and food culture."
+    },
+    {
+        "tags": ["travel", "destinations", "adventures"],
+        "tags_description": "Travel includes guides, destination information, tips, and adventure experiences around the world."
+    },
+    {
+        "tags": ["sports", "news", "events"],
+        "tags_description": "Sports covers news, scores, teams, players, and upcoming events in the sports world."
+    },
+    {
+        "tags": ["business", "finance", "entrepreneurship"],
+        "tags_description": "Business and finance include market trends, business advice, entrepreneurship, and investment strategies."
+    },
+    {
+        "tags": ["education", "learning", "courses"],
+        "tags_description": "Education and learning focus on online courses, school resources, self-improvement, and academic topics."
+    },
+    {
+        "tags": ["gaming", "eSports", "reviews"],
+        "tags_description": "Gaming covers video games, eSports events, game reviews, and gaming culture."
+    },
+    {
+        "tags": ["manga", "comics", "anime"],
+        "tags_description": "Manga includes Japanese comic books, graphic novels, and related anime adaptations, covering various genres and stories."
+    },
+    {
+        "tags": ["music", "albums", "concerts"],
+        "tags_description": "Music covers the latest albums, artist news, concerts, and everything related to the music industry."
+    },
+    {
+        "tags": ["movies", "films", "reviews"],
+        "tags_description": "Movies include the latest film releases, reviews, actor information, and entertainment news in the movie industry."
+    },
+    {
+        "tags": ["photography", "art", "design"],
+        "tags_description": "Photography and art include creative visuals, photography techniques, design inspiration, and art exhibitions."
+    },
+    {
+        "tags": ["DIY", "crafts", "home improvement"],
+        "tags_description": "DIY and crafts cover projects, tutorials, and tips on home improvement, crafting, and personal creations."
+    },
+    {
+        "tags": ["pets", "animals", "care"],
+        "tags_description": "Pets and animals focus on pet care, animal behavior, adoption, and everything related to keeping pets."
+    },
+    {
+        "tags": ["parenting", "family", "kids"],
+        "tags_description": "Parenting and family include tips, advice, and resources for raising children and managing family life."
+    },
+    {
+        "tags": ["politics", "news", "current affairs"],
+        "tags_description": "Politics covers the latest political news, government affairs, policies, and global political issues."
+    },
+    {
+        "tags": ["science", "research", "discoveries"],
+        "tags_description": "Science focuses on the latest research, discoveries, scientific breakthroughs, and news in various fields."
+    },
+    {
+        "tags": ["history", "culture", "heritage"],
+        "tags_description": "History and culture explore the past, heritage, historical events, and cultural practices around the world."
+    },
+    {
+        "tags": ["finance", "investing", "cryptocurrency"],
+        "tags_description": "Finance covers personal finance, investing tips, cryptocurrency news, stock markets, and wealth-building strategies."
+    },
+    {
+        "tags": ["automotive", "cars", "motorcycles"],
+        "tags_description": "Automotive focuses on cars, motorcycles, vehicle reviews, maintenance tips, and the latest trends in the automotive industry."
+    },
+    {
+        "tags": ["real estate", "property", "housing"],
+        "tags_description": "Real estate includes property listings, buying/selling tips, market trends, and home improvement advice."
+    },
+    {
+        "tags": ["environment", "sustainability", "nature"],
+        "tags_description": "Environment covers sustainability, green living, nature conservation, and eco-friendly practices."
+    },
+    {
+        "tags": ["psychology", "mental health", "self-help"],
+        "tags_description": "Psychology and mental health focus on emotional well-being, personal growth, therapy, and coping mechanisms."
+    },
+    {
+        "tags": ["startups", "innovation", "entrepreneurship"],
+        "tags_description": "Startups focus on emerging businesses, innovation trends, venture capital, and entrepreneurship."
+    },
+    {
+        "tags": ["literature", "poetry", "writing"],
+        "tags_description": "Literature includes poetry, writing techniques, author interviews, book reviews, and creative writing resources."
+    },
+    {
+        "tags": ["social media", "marketing", "influencers"],
+        "tags_description": "Social media covers trends in digital marketing, influencer culture, social platforms, and online advertising."
+    },
+    {
+        "tags": ["gambling", "casinos", "betting"],
+        "tags_description": "Gambling includes news, tips, and information on casinos, online betting, poker, and other gaming activities."
+    },
+    {
+        "tags": ["space", "astronomy", "astrophysics"],
+        "tags_description": "Space covers topics related to astronomy, space exploration, planets, stars, black holes, and the universe."
+    },
+    {
+        "tags": ["fitness", "nutrition", "exercise"],
+        "tags_description": "Fitness includes workout routines, healthy nutrition advice, and tips for building strength, endurance, and flexibility."
+    },
+    {
+        "tags": ["shopping", "sales", "deals"],
+        "tags_description": "Shopping focuses on product reviews, sales, discounts, online deals, and seasonal offers."
+    },
+    {
+        "tags": ["luxury", "high-end", "lifestyle"],
+        "tags_description": "Luxury and high-end lifestyle covers expensive goods, luxury brands, and experiences for affluent individuals."
+    },
+    {
+        "tags": ["cryptocurrency", "blockchain", "NFTs"],
+        "tags_description": "Cryptocurrency and blockchain include updates on digital currencies, trading, investing, and non-fungible tokens (NFTs)."
+    },
+    {
+        "tags": ["vacation", "holidays", "getaways"],
+        "tags_description": "Vacation and holidays cover travel packages, seasonal getaways, resort reviews, and vacation planning tips."
+    },
+    {
+        "tags": ["design", "interior", "architecture"],
+        "tags_description": "Design, interior, and architecture cover modern living spaces, interior design trends, architecture styles, and home décor."
+    },
+    {
+        "tags": ["weddings", "marriage", "events"],
+        "tags_description": "Weddings include planning tips, bridal fashion, venue selections, and everything related to marriage ceremonies and events."
+    },
+    {
+        "tags": ["comedy", "humor", "funny"],
+        "tags_description": "Comedy and humor include jokes, funny videos, memes, and all things meant to entertain with laughter."
     }
 ]
