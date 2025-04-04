@@ -10,11 +10,17 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # Set up logging configuration
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger()
 
 # File path for persistent cache
 CACHE_FILE = 'embedding_cache.json'
+TOP_N = 10  # Number of top similar tags to return
+SIMILARITY_THRESHOLD = 0.3  # Similarity threshold for filtering tags
+
+OLLAMA_API_URL = "http://localhost:11434/api/embed"  # Correct Ollama API endpoint
+EMBEDDING_MODEL = "nomic-embed-text"  # Model name for embedding
+
 
 # Function to load tags from a JSON file
 def load_tags_from_json(file_path="tags.json"):
@@ -67,7 +73,7 @@ def compute_hash(text):
     return hashlib.sha256(text.encode('utf-8')).hexdigest()
 
 # Function to get embeddings from Ollama's 'nomic-embed-text' model
-def get_embeddings(texts):
+def get_embeddings(texts, save_to_file=False):
     embeddings = []
     for text in texts:
         text_hash = compute_hash(text)  # Compute the hash of the tag description
@@ -80,15 +86,16 @@ def get_embeddings(texts):
             # Fetch the embedding from the API and store it in the cache
             try:
                 response = requests.post(
-                    "http://localhost:11434/api/embed",  # Correct Ollama API endpoint
-                    json={"model": "nomic-embed-text", "input": text}
+                    OLLAMA_API_URL,
+                    json={"model": EMBEDDING_MODEL, "input": text}
                 )
                 response.raise_for_status()  # Will raise an exception for 4xx or 5xx responses
                 if response.status_code == 200:
                     response_json = response.json()
                     embedding = np.array(response_json['embeddings'][0])
                     embedding_cache[text_hash] = embedding  # Cache the embedding using the hash
-                    save_cache(embedding_cache)  # Persist cache to file
+                    if save_to_file:
+                        save_cache(embedding_cache)  # Persist cache to file
                     embeddings.append(embedding)
                 else:
                     logger.error(f"Error in getting embedding for: {text}. Status Code: {response.status_code}")
@@ -142,7 +149,7 @@ def cosine_similarity(vec1, vec2):
     return dot_product / (norm1 * norm2)
 
 # Function to perform similarity search with confidence score and threshold
-def find_most_similar_tags(tag_descriptions, content, threshold=0.3, top_n=3):
+def find_most_similar_tags(tag_descriptions, content, threshold=SIMILARITY_THRESHOLD, top_n=TOP_N):
     # Get embeddings for tag descriptions (calculated once at the start)
     tag_embeddings = get_embeddings([desc['tags_description'] for desc in tag_descriptions])
 
@@ -253,7 +260,7 @@ def process_content():
         return jsonify({"error": "No file or URL provided."}), 400
 
     # Find most similar tags
-    similar_tags = find_most_similar_tags(tag_descriptions, content, threshold=0.4)
+    similar_tags = find_most_similar_tags(tag_descriptions, content, threshold=SIMILARITY_THRESHOLD, top_n=TOP_N)
     return jsonify(similar_tags)
 
 @app.route('/')
@@ -263,6 +270,10 @@ def serve_index():
 if __name__ == '__main__':
     # Precompute and cache the embeddings for tag descriptions once at startup
     logger.info("Precomputing tag embeddings at startup...")
-    get_embeddings([desc['tags_description'] for desc in tag_descriptions])  # Precompute tag embeddings on startup
+    get_embeddings(
+        texts=[desc['tags_description'] for desc in tag_descriptions],
+        save_to_file=True # Save the cache to file after precomputing
+    )
+    # Precompute tag embeddings on startup
     logger.info("Tag embeddings precomputed successfully.")
     app.run(debug=True)
