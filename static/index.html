@@ -116,7 +116,6 @@
       }
 
       async function processUpload(type) {
-        const formData = new FormData();
         const resultsContainer = document.querySelector("#results");
         const loadingIndicator = document.querySelector("#loading");
         const errorMessage = document.querySelector("#errorMessage");
@@ -137,6 +136,7 @@
 
           if (fileInput.files.length === 0) {
             showError("Please select a file to upload.");
+            loadingIndicator.style.display = "none";
             return;
           }
 
@@ -148,6 +148,7 @@
 
           if (urlInput.value.trim() === "") {
             showError("Please enter a valid URL.");
+            loadingIndicator.style.display = "none";
             return;
           }
 
@@ -162,11 +163,22 @@
           });
 
           const result = await response.json();
-          displayResults(result);
-          successMessage.style.display = "block";
+
+          if (!response.ok) {
+            throw new Error(
+              result.error || `HTTP error! Status: ${response.status}`
+            );
+          }
+
+          if (result.error) {
+            showError(result.error);
+          } else {
+            displayResults(result);
+            successMessage.style.display = "block";
+          }
         } catch (error) {
           console.error("Error:", error);
-          showError("An error occurred. Please try again.");
+          showError(error.message || "An error occurred. Please try again.");
         } finally {
           loadingIndicator.style.display = "none";
         }
