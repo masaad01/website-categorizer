@@ -150,11 +150,13 @@ def find_most_similar_tags(tag_descriptions, content, threshold=0.3, top_n=3):
     # Calculate cosine similarity between the content embedding and tag embeddings
     similarities = [cosine_similarity(content_embedding, tag_embedding) for tag_embedding in tag_embeddings]
 
-    # Filter and get indices of top N most similar tags above the threshold
-    top_indices = [i for i, similarity in enumerate(similarities) if similarity >= threshold][:top_n]
-    
+    top_indices = np.argsort(similarities)[-top_n:][::-1]  # Sort indices by similarity (descending)
+
+    # Filter out tags with similarity below the threshold
+    top_indices = [idx for idx in top_indices if similarities[idx] >= threshold]
     if not top_indices:
-        top_indices = np.argsort(similarities)[-top_n:][::-1]  # Sort indices by similarity (descending)
+        logger.warning("No tags found with similarity above the threshold.")
+        return []
 
     most_similar_tags = []
     for idx in top_indices:
