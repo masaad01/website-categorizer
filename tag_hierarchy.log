@@ -1,0 +1,11 @@
+2025-04-06 01:57:30 [INFO] Starting tag hierarchy computation...
+2025-04-06 01:57:30 [INFO] Loaded 713 tags.
+2025-04-06 01:57:30 [INFO] Embedding cache loaded successfully.
+2025-04-06 01:57:30 [INFO] Embeddings computed for all tags.
+2025-04-06 01:57:30 [INFO] Pairwise similarity matrix computed.
+2025-04-06 01:57:30 [INFO] Genericity scores computed for each tag.
+2025-04-06 01:57:31 [INFO] Hierarchy built successfully.
+2025-04-06 01:57:31 [INFO] Hierarchy saved to tag_hierarchy.json
+2025-04-06 01:57:31 [INFO] Hierarchy report saved to tag_hierarchy_report.txt
+2025-04-06 01:57:31 [INFO] Tag hierarchy computation completed in 0.96 seconds.
+2025-04-06 01:57:33 [INFO] Embedding cache saved successfully.

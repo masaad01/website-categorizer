@@ -1,0 +1,197 @@
+Enrichment Report
+-----------------
+Total tags processed: 713
+Average similarity score: 0.6043
+Minimum similarity score: 0.0000
+Maximum similarity score: 0.9176
+
+Tags with low similarity (below 0.5):
+  - ID: 2, Tag: novels, Similarity: 0.0000
+  - ID: 3, Tag: news, Similarity: 0.0000
+  - ID: 4, Tag: social media, Similarity: 0.0000
+  - ID: 5, Tag: learning, Similarity: 0.0000
+  - ID: 8, Tag: media, Similarity: 0.0000
+  - ID: 9, Tag: wiki, Similarity: 0.0000
+  - ID: 10, Tag: information, Similarity: 0.0000
+  - ID: 11, Tag: math, Similarity: 0.0000
+  - ID: 12, Tag: history, Similarity: 0.0000
+  - ID: 13, Tag: technology, Similarity: 0.0000
+  - ID: 14, Tag: innovation, Similarity: 0.0000
+  - ID: 15, Tag: health, Similarity: 0.0000
+  - ID: 16, Tag: wellness, Similarity: 0.0000
+  - ID: 19, Tag: government, Similarity: 0.0000
+  - ID: 21, Tag: finance, Similarity: 0.0000
+  - ID: 22, Tag: music, Similarity: 0.0000
+  - ID: 25, Tag: art, Similarity: 0.0000
+  - ID: 26, Tag: culture, Similarity: 0.0000
+  - ID: 27, Tag: food, Similarity: 0.0000
+  - ID: 29, Tag: sustainability, Similarity: 0.0000
+  - ID: 30, Tag: psychology, Similarity: 0.0000
+  - ID: 31, Tag: philosophy, Similarity: 0.0000
+  - ID: 32, Tag: literature, Similarity: 0.0000
+  - ID: 33, Tag: gaming, Similarity: 0.0000
+  - ID: 34, Tag: comedy, Similarity: 0.0000
+  - ID: 35, Tag: fashion, Similarity: 0.0000
+  - ID: 37, Tag: mathematics, Similarity: 0.0000
+  - ID: 38, Tag: literacy, Similarity: 0.0000
+  - ID: 39, Tag: astronomy, Similarity: 0.0000
+  - ID: 40, Tag: climate, Similarity: 0.0000
+  - ID: 41, Tag: architecture, Similarity: 0.0000
+  - ID: 42, Tag: gadgets, Similarity: 0.0000
+  - ID: 43, Tag: software, Similarity: 0.0000
+  - ID: 44, Tag: style, Similarity: 0.0000
+  - ID: 45, Tag: fitness, Similarity: 0.0000
+  - ID: 46, Tag: recipes, Similarity: 0.0000
+  - ID: 48, Tag: destinations, Similarity: 0.0000
+  - ID: 49, Tag: adventures, Similarity: 0.0000
+  - ID: 50, Tag: events, Similarity: 0.0000
+  - ID: 51, Tag: entrepreneurship, Similarity: 0.0000
+  - ID: 52, Tag: courses, Similarity: 0.0000
+  - ID: 54, Tag: reviews, Similarity: 0.0000
+  - ID: 55, Tag: manga, Similarity: 0.0000
+  - ID: 56, Tag: comics, Similarity: 0.0000
+  - ID: 57, Tag: albums, Similarity: 0.0000
+  - ID: 58, Tag: concerts, Similarity: 0.0000
+  - ID: 60, Tag: films, Similarity: 0.0000
+  - ID: 62, Tag: diy, Similarity: 0.0000
+  - ID: 63, Tag: crafts, Similarity: 0.0000
+  - ID: 66, Tag: animals, Similarity: 0.0000
+  - ID: 67, Tag: care, Similarity: 0.0000
+  - ID: 69, Tag: family, Similarity: 0.0000
+  - ID: 70, Tag: kids, Similarity: 0.0000
+  - ID: 71, Tag: current affairs, Similarity: 0.0000
+  - ID: 72, Tag: research, Similarity: 0.0000
+  - ID: 73, Tag: discoveries, Similarity: 0.0000
+  - ID: 74, Tag: heritage, Similarity: 0.0000
+  - ID: 75, Tag: investing, Similarity: 0.0000
+  - ID: 76, Tag: cryptocurrency, Similarity: 0.0000
+  - ID: 78, Tag: cars, Similarity: 0.0000
+  - ID: 81, Tag: property, Similarity: 0.0000
+  - ID: 82, Tag: housing, Similarity: 0.0000
+  - ID: 83, Tag: nature, Similarity: 0.0000
+  - ID: 85, Tag: self-help, Similarity: 0.0000
+  - ID: 88, Tag: writing, Similarity: 0.0000
+  - ID: 89, Tag: marketing, Similarity: 0.0000
+  - ID: 90, Tag: influencers, Similarity: 0.0000
+  - ID: 91, Tag: gambling, Similarity: 0.0000
+  - ID: 92, Tag: casinos, Similarity: 0.0000
+  - ID: 93, Tag: betting, Similarity: 0.0000
+  - ID: 94, Tag: space, Similarity: 0.0000
+  - ID: 95, Tag: astrophysics, Similarity: 0.0000
+  - ID: 97, Tag: exercise, Similarity: 0.0000
+  - ID: 100, Tag: deals, Similarity: 0.0000
+  - ID: 101, Tag: luxury, Similarity: 0.0000
+  - ID: 102, Tag: high-end, Similarity: 0.0000
+  - ID: 103, Tag: blockchain, Similarity: 0.0000
+  - ID: 104, Tag: nfts, Similarity: 0.0000
+  - ID: 105, Tag: vacation, Similarity: 0.0000
+  - ID: 106, Tag: holidays, Similarity: 0.0000
+  - ID: 107, Tag: getaways, Similarity: 0.0000
+  - ID: 108, Tag: interior, Similarity: 0.0000
+  - ID: 109, Tag: weddings, Similarity: 0.0000
+  - ID: 110, Tag: marriage, Similarity: 0.0000
+  - ID: 111, Tag: humor, Similarity: 0.0000
+  - ID: 112, Tag: funny, Similarity: 0.0000
+  - ID: 113, Tag: banks, Similarity: 0.0000
+  - ID: 115, Tag: universities, Similarity: 0.0000
+  - ID: 117, Tag: public services, Similarity: 0.0000
+  - ID: 119, Tag: judiciary, Similarity: 0.0000
+  - ID: 121, Tag: hospitals, Similarity: 0.0000
+  - ID: 123, Tag: anime, Similarity: 0.0000
+  - ID: 124, Tag: nonprofits, Similarity: 0.0000
+  - ID: 125, Tag: ngos, Similarity: 0.0000
+  - ID: 126, Tag: ecommerce, Similarity: 0.0000
+  - ID: 127, Tag: online store, Similarity: 0.0000
+  - ID: 128, Tag: corporate, Similarity: 0.0000
+  - ID: 129, Tag: blog, Similarity: 0.0000
+  - ID: 130, Tag: personal blog, Similarity: 0.0000
+  - ID: 131, Tag: portfolio, Similarity: 0.0000
+  - ID: 132, Tag: creative work, Similarity: 0.0000
+  - ID: 133, Tag: event, Similarity: 0.0000
+  - ID: 134, Tag: event promotion, Similarity: 0.0000
+  - ID: 135, Tag: personal, Similarity: 0.0000
+  - ID: 136, Tag: resume, Similarity: 0.0000
+  - ID: 137, Tag: membership, Similarity: 0.0000
+  - ID: 138, Tag: community, Similarity: 0.0000
+  - ID: 139, Tag: nonprofit, Similarity: 0.0000
+  - ID: 140, Tag: charity, Similarity: 0.0000
+  - ID: 141, Tag: informational, Similarity: 0.0000
+  - ID: 142, Tag: forum, Similarity: 0.0000
+  - ID: 143, Tag: discussion, Similarity: 0.0000
+  - ID: 144, Tag: social network, Similarity: 0.0000
+  - ID: 145, Tag: startup, Similarity: 0.0000
+  - ID: 146, Tag: entrepreneur, Similarity: 0.0000
+  - ID: 147, Tag: consulting, Similarity: 0.0000
+  - ID: 148, Tag: professional services, Similarity: 0.0000
+  - ID: 149, Tag: booking, Similarity: 0.0000
+  - ID: 150, Tag: appointments, Similarity: 0.0000
+  - ID: 151, Tag: petition, Similarity: 0.0000
+  - ID: 152, Tag: activism, Similarity: 0.0000
+  - ID: 153, Tag: school, Similarity: 0.0000
+  - ID: 154, Tag: hobby, Similarity: 0.0000
+  - ID: 155, Tag: interest, Similarity: 0.0000
+  - ID: 156, Tag: interactive, Similarity: 0.0000
+  - ID: 157, Tag: engagement, Similarity: 0.0000
+  - ID: 158, Tag: wedding, Similarity: 0.0000
+  - ID: 159, Tag: event planning, Similarity: 0.0000
+  - ID: 160, Tag: tourism, Similarity: 0.0000
+  - ID: 161, Tag: directory, Similarity: 0.0000
+  - ID: 162, Tag: listing, Similarity: 0.0000
+  - ID: 163, Tag: landing page, Similarity: 0.0000
+  - ID: 164, Tag: magazine, Similarity: 0.0000
+  - ID: 165, Tag: memorial, Similarity: 0.0000
+  - ID: 166, Tag: tribute, Similarity: 0.0000
+  - ID: 167, Tag: subscription, Similarity: 0.0000
+  - ID: 168, Tag: content service, Similarity: 0.0000
+  - ID: 169, Tag: kid-friendly, Similarity: 0.0000
+  - ID: 170, Tag: children, Similarity: 0.0000
+  - ID: 171, Tag: novels and literature, Similarity: 0.0000
+  - ID: 172, Tag: movies and tv shows, Similarity: 0.0000
+  - ID: 174, Tag: arts and culture, Similarity: 0.0000
+  - ID: 175, Tag: investment & trading, Similarity: 0.0000
+  - ID: 176, Tag: e-commerce & retail, Similarity: 0.0000
+  - ID: 177, Tag: business services, Similarity: 0.0000
+  - ID: 178, Tag: universities & colleges, Similarity: 0.0000
+  - ID: 179, Tag: k-12 & schools, Similarity: 0.0000
+  - ID: 180, Tag: online learning & moocs, Similarity: 0.0000
+  - ID: 181, Tag: professional development, Similarity: 0.0000
+  - ID: 182, Tag: educational resources, Similarity: 0.0000
+  - ID: 183, Tag: federal, state, & local, Similarity: 0.0000
+  - ID: 184, Tag: public safety & law enforcement, Similarity: 0.0000
+  - ID: 185, Tag: judiciary & legal, Similarity: 0.0000
+  - ID: 186, Tag: public utilities & infrastructure, Similarity: 0.0000
+  - ID: 187, Tag: civic engagement, Similarity: 0.0000
+  - ID: 188, Tag: hospitals & clinics, Similarity: 0.0000
+  - ID: 189, Tag: health information & wellness, Similarity: 0.0000
+  - ID: 190, Tag: pharmaceutical & drug information, Similarity: 0.0000
+  - ID: 191, Tag: fitness & lifestyle, Similarity: 0.0000
+  - ID: 192, Tag: mental health & counseling, Similarity: 0.0000
+  - ID: 193, Tag: tech companies & startups, Similarity: 0.0000
+  - ID: 194, Tag: research & development, Similarity: 0.0000
+  - ID: 195, Tag: gadgets & reviews, Similarity: 0.0000
+  - ID: 196, Tag: software & applications, Similarity: 0.0000
+  - ID: 197, Tag: scientific organizations, Similarity: 0.0000
+  - ID: 198, Tag: general news portals, Similarity: 0.0000
+  - ID: 199, Tag: local & community news, Similarity: 0.0000
+  - ID: 200, Tag: specialized magazines & blogs, Similarity: 0.0000
+  - ID: 201, Tag: journalism & opinion, Similarity: 0.0000
+  - ID: 202, Tag: entertainment news, Similarity: 0.0000
+  - ID: 203, Tag: social, Similarity: 0.0000
+  - ID: 205, Tag: online forums & discussion boards, Similarity: 0.0000
+  - ID: 206, Tag: nonprofits & ngos, Similarity: 0.0000
+  - ID: 207, Tag: cultural & community events, Similarity: 0.0000
+  - ID: 208, Tag: travel & tourism, Similarity: 0.0000
+  - ID: 209, Tag: food & dining, Similarity: 0.0000
+  - ID: 210, Tag: fashion & beauty, Similarity: 0.0000
+  - ID: 212, Tag: personal finance & lifestyle management, Similarity: 0.0000
+  - ID: 213, Tag: professional leagues & teams, Similarity: 0.0000
+  - ID: 214, Tag: sports news & analysis, Similarity: 0.0000
+  - ID: 215, Tag: fan communities & forums, Similarity: 0.0000
+  - ID: 216, Tag: fitness & outdoor sports, Similarity: 0.0000
+  - ID: 217, Tag: law firms & legal services, Similarity: 0.0000
+  - ID: 218, Tag: legal information & resources, Similarity: 0.0000
+  - ID: 219, Tag: regulatory & compliance, Similarity: 0.0000
+  - ID: 220, Tag: hobbies, Similarity: 0.0000
+  - ID: 221, Tag: arts & crafts, Similarity: 0.0000
+  - ID: 222, Tag: photography & videography, Similarity: 0.0000
+  - ID: 223, Tag: gaming (hobbyist), Similarity: 0.0000
