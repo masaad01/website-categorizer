@@ -1,0 +1,4967 @@
+[
+    {
+        "tag1": "entertainment",
+        "tag2": "entertainment news",
+        "similarity": 0.8141524690362769
+    },
+    {
+        "tag1": "entertainment",
+        "tag2": "entertainment industry",
+        "similarity": 0.7735169452526088
+    },
+    {
+        "tag1": "entertainment",
+        "tag2": "cinemas and events",
+        "similarity": 0.7102592993431627
+    },
+    {
+        "tag1": "entertainment",
+        "tag2": "home entertaining",
+        "similarity": 0.7385986238993268
+    },
+    {
+        "tag1": "entertainment",
+        "tag2": "children's games and toys",
+        "similarity": 0.7320545770210379
+    },
+    {
+        "tag1": "entertainment",
+        "tag2": "music and party video games",
+        "similarity": 0.7014861714022748
+    },
+    {
+        "tag1": "novels",
+        "tag2": "literature",
+        "similarity": 0.7761784371314268
+    },
+    {
+        "tag1": "novels",
+        "tag2": "novels and literature",
+        "similarity": 0.8584950072547487
+    },
+    {
+        "tag1": "novels",
+        "tag2": "books and literature",
+        "similarity": 0.7226440295605612
+    },
+    {
+        "tag1": "novels",
+        "tag2": "fiction",
+        "similarity": 0.7541548704367049
+    },
+    {
+        "tag1": "news",
+        "tag2": "media",
+        "similarity": 0.7360081491286484
+    },
+    {
+        "tag1": "news",
+        "tag2": "information",
+        "similarity": 0.7002739550799455
+    },
+    {
+        "tag1": "news",
+        "tag2": "local & community news",
+        "similarity": 0.703495130445525
+    },
+    {
+        "tag1": "news",
+        "tag2": "entertainment news",
+        "similarity": 0.8346293056162644
+    },
+    {
+        "tag1": "news",
+        "tag2": "news and politics",
+        "similarity": 0.7562570521571698
+    },
+    {
+        "tag1": "news",
+        "tag2": "international news",
+        "similarity": 0.8068968963910464
+    },
+    {
+        "tag1": "news",
+        "tag2": "local news",
+        "similarity": 0.7497373347681551
+    },
+    {
+        "tag1": "news",
+        "tag2": "national news",
+        "similarity": 0.8411057218238
+    },
+    {
+        "tag1": "social media",
+        "tag2": "social network",
+        "similarity": 0.8021419817264872
+    },
+    {
+        "tag1": "social media",
+        "tag2": "social networking",
+        "similarity": 0.8367870793751431
+    },
+    {
+        "tag1": "learning",
+        "tag2": "online learning",
+        "similarity": 0.7608171423232946
+    },
+    {
+        "tag1": "learning",
+        "tag2": "language learning",
+        "similarity": 0.8263229315712219
+    },
+    {
+        "tag1": "education",
+        "tag2": "school",
+        "similarity": 0.7575540946047046
+    },
+    {
+        "tag1": "education",
+        "tag2": "educational resources",
+        "similarity": 0.7455794489445821
+    },
+    {
+        "tag1": "education",
+        "tag2": "education industry",
+        "similarity": 0.7977992826448754
+    },
+    {
+        "tag1": "education",
+        "tag2": "adult education",
+        "similarity": 0.764154684999706
+    },
+    {
+        "tag1": "education",
+        "tag2": "secondary education",
+        "similarity": 0.761862985805249
+    },
+    {
+        "tag1": "education",
+        "tag2": "special education",
+        "similarity": 0.7485753203243852
+    },
+    {
+        "tag1": "education",
+        "tag2": "college education",
+        "similarity": 0.8604232051022551
+    },
+    {
+        "tag1": "education",
+        "tag2": "early childhood education",
+        "similarity": 0.7339804985098819
+    },
+    {
+        "tag1": "education",
+        "tag2": "online education",
+        "similarity": 0.7576287703761614
+    },
+    {
+        "tag1": "education",
+        "tag2": "primary education",
+        "similarity": 0.7965189576330459
+    },
+    {
+        "tag1": "science",
+        "tag2": "astronomy",
+        "similarity": 0.7491432252114455
+    },
+    {
+        "tag1": "science",
+        "tag2": "astrophysics",
+        "similarity": 0.71667595459252
+    },
+    {
+        "tag1": "science",
+        "tag2": "biological sciences",
+        "similarity": 0.7897164275399758
+    },
+    {
+        "tag1": "science",
+        "tag2": "chemistry",
+        "similarity": 0.7433951898464397
+    },
+    {
+        "tag1": "science",
+        "tag2": "physics",
+        "similarity": 0.801445604416191
+    },
+    {
+        "tag1": "media",
+        "tag2": "entertainment news",
+        "similarity": 0.7340573708970011
+    },
+    {
+        "tag1": "media",
+        "tag2": "media industry",
+        "similarity": 0.8370010816123241
+    },
+    {
+        "tag1": "information",
+        "tag2": "informational",
+        "similarity": 0.854219385926334
+    },
+    {
+        "tag1": "information",
+        "tag2": "pharmaceutical & drug information",
+        "similarity": 0.7517558460203098
+    },
+    {
+        "tag1": "information",
+        "tag2": "legal information & resources",
+        "similarity": 0.7268265191182026
+    },
+    {
+        "tag1": "math",
+        "tag2": "mathematics",
+        "similarity": 0.9094150666585179
+    },
+    {
+        "tag1": "technology",
+        "tag2": "auto infotainment technologies",
+        "similarity": 0.7268567944408367
+    },
+    {
+        "tag1": "technology",
+        "tag2": "technology industry",
+        "similarity": 0.7872223117282023
+    },
+    {
+        "tag1": "technology",
+        "tag2": "technology & computing",
+        "similarity": 0.8195636525240242
+    },
+    {
+        "tag1": "technology",
+        "tag2": "wearable technology",
+        "similarity": 0.7909267489595011
+    },
+    {
+        "tag1": "health",
+        "tag2": "wellness",
+        "similarity": 0.7213823571176619
+    },
+    {
+        "tag1": "health",
+        "tag2": "mental health",
+        "similarity": 0.7388264779991095
+    },
+    {
+        "tag1": "health",
+        "tag2": "healthcare",
+        "similarity": 0.7635757397251639
+    },
+    {
+        "tag1": "health",
+        "tag2": "health information & wellness",
+        "similarity": 0.7503555774794899
+    },
+    {
+        "tag1": "health",
+        "tag2": "healthy living",
+        "similarity": 0.7040446051725832
+    },
+    {
+        "tag1": "health",
+        "tag2": "children's health",
+        "similarity": 0.7562009856361612
+    },
+    {
+        "tag1": "health",
+        "tag2": "men's health",
+        "similarity": 0.7303268526992999
+    },
+    {
+        "tag1": "health",
+        "tag2": "senior health",
+        "similarity": 0.751303637307055
+    },
+    {
+        "tag1": "health",
+        "tag2": "women's health",
+        "similarity": 0.747472361730495
+    },
+    {
+        "tag1": "health",
+        "tag2": "medical health",
+        "similarity": 0.8808065379037413
+    },
+    {
+        "tag1": "health",
+        "tag2": "foot health",
+        "similarity": 0.7598833959595133
+    },
+    {
+        "tag1": "health",
+        "tag2": "lung and respiratory health",
+        "similarity": 0.7260876359140884
+    },
+    {
+        "tag1": "health",
+        "tag2": "reproductive health",
+        "similarity": 0.7401653563587253
+    },
+    {
+        "tag1": "health",
+        "tag2": "sexual health",
+        "similarity": 0.7568136817842177
+    },
+    {
+        "tag1": "health",
+        "tag2": "dental health",
+        "similarity": 0.768382744012539
+    },
+    {
+        "tag1": "wellness",
+        "tag2": "health information & wellness",
+        "similarity": 0.8286255659988777
+    },
+    {
+        "tag1": "wellness",
+        "tag2": "healthy living",
+        "similarity": 0.7162143114798383
+    },
+    {
+        "tag1": "sports",
+        "tag2": "esports",
+        "similarity": 0.7062317804017045
+    },
+    {
+        "tag1": "sports",
+        "tag2": "sports news & analysis",
+        "similarity": 0.7270079703533411
+    },
+    {
+        "tag1": "sports",
+        "tag2": "fitness & outdoor sports",
+        "similarity": 0.7555170294464741
+    },
+    {
+        "tag1": "sports",
+        "tag2": "sporting events",
+        "similarity": 0.8350370615082797
+    },
+    {
+        "tag1": "sports",
+        "tag2": "participant sports",
+        "similarity": 0.8346705814092019
+    },
+    {
+        "tag1": "sports",
+        "tag2": "sports radio",
+        "similarity": 0.737127014492934
+    },
+    {
+        "tag1": "sports",
+        "tag2": "college sports",
+        "similarity": 0.8052827757763827
+    },
+    {
+        "tag1": "sports",
+        "tag2": "disabled sports",
+        "similarity": 0.7528294900597832
+    },
+    {
+        "tag1": "sports",
+        "tag2": "equine sports",
+        "similarity": 0.737002443461459
+    },
+    {
+        "tag1": "sports",
+        "tag2": "extreme sports",
+        "similarity": 0.7316543176892372
+    },
+    {
+        "tag1": "sports",
+        "tag2": "fantasy sports",
+        "similarity": 0.7569902283158547
+    },
+    {
+        "tag1": "sports",
+        "tag2": "fishing sports",
+        "similarity": 0.7996370753016142
+    },
+    {
+        "tag1": "sports",
+        "tag2": "olympic sports",
+        "similarity": 0.8349069874559051
+    },
+    {
+        "tag1": "sports",
+        "tag2": "rugby",
+        "similarity": 0.7131882696049507
+    },
+    {
+        "tag1": "sports",
+        "tag2": "soccer",
+        "similarity": 0.8003872328256858
+    },
+    {
+        "tag1": "sports",
+        "tag2": "tennis",
+        "similarity": 0.7200431660554585
+    },
+    {
+        "tag1": "sports",
+        "tag2": "volleyball",
+        "similarity": 0.7332039378217104
+    },
+    {
+        "tag1": "sports",
+        "tag2": "baseball",
+        "similarity": 0.7422817540657463
+    },
+    {
+        "tag1": "sports",
+        "tag2": "basketball",
+        "similarity": 0.7507475330110739
+    },
+    {
+        "tag1": "sports",
+        "tag2": "sports equipment",
+        "similarity": 0.75424619152116
+    },
+    {
+        "tag1": "sports",
+        "tag2": "sports tv",
+        "similarity": 0.8063466220099325
+    },
+    {
+        "tag1": "sports",
+        "tag2": "sports video games",
+        "similarity": 0.8236024950522665
+    },
+    {
+        "tag1": "politics",
+        "tag2": "political event",
+        "similarity": 0.7608613006258244
+    },
+    {
+        "tag1": "politics",
+        "tag2": "news and politics",
+        "similarity": 0.8394169441663665
+    },
+    {
+        "tag1": "business",
+        "tag2": "entrepreneurship",
+        "similarity": 0.7014987207740716
+    },
+    {
+        "tag1": "business",
+        "tag2": "business services",
+        "similarity": 0.799690236646285
+    },
+    {
+        "tag1": "business",
+        "tag2": "business and finance",
+        "similarity": 0.713772498128426
+    },
+    {
+        "tag1": "business",
+        "tag2": "small and medium-sized business",
+        "similarity": 0.7766834206883516
+    },
+    {
+        "tag1": "business",
+        "tag2": "business administration",
+        "similarity": 0.7379275143802962
+    },
+    {
+        "tag1": "business",
+        "tag2": "business banking & finance",
+        "similarity": 0.7065320508193272
+    },
+    {
+        "tag1": "business",
+        "tag2": "business i.t.",
+        "similarity": 0.750758602174868
+    },
+    {
+        "tag1": "business",
+        "tag2": "business operations",
+        "similarity": 0.8398977358593266
+    },
+    {
+        "tag1": "business",
+        "tag2": "business travel",
+        "similarity": 0.7877493352373087
+    },
+    {
+        "tag1": "finance",
+        "tag2": "business and finance",
+        "similarity": 0.8431659102752749
+    },
+    {
+        "tag1": "finance",
+        "tag2": "business accounting & finance",
+        "similarity": 0.7329814383241509
+    },
+    {
+        "tag1": "finance",
+        "tag2": "business banking & finance",
+        "similarity": 0.7521693760670586
+    },
+    {
+        "tag1": "finance",
+        "tag2": "financial industry",
+        "similarity": 0.7298920748076002
+    },
+    {
+        "tag1": "finance",
+        "tag2": "personal finance",
+        "similarity": 0.7750621613210716
+    },
+    {
+        "tag1": "finance",
+        "tag2": "financial planning",
+        "similarity": 0.7064869593204431
+    },
+    {
+        "tag1": "music",
+        "tag2": "albums",
+        "similarity": 0.7123124575471076
+    },
+    {
+        "tag1": "music",
+        "tag2": "music and audio",
+        "similarity": 0.7701493026019195
+    },
+    {
+        "tag1": "music",
+        "tag2": "concerts & music events",
+        "similarity": 0.7018968328785248
+    },
+    {
+        "tag1": "music",
+        "tag2": "musical instruments",
+        "similarity": 0.7932508047400633
+    },
+    {
+        "tag1": "music",
+        "tag2": "alternative music",
+        "similarity": 0.7278601626389843
+    },
+    {
+        "tag1": "music",
+        "tag2": "children's music",
+        "similarity": 0.8367836211083605
+    },
+    {
+        "tag1": "music",
+        "tag2": "classical music",
+        "similarity": 0.8163143792951856
+    },
+    {
+        "tag1": "music",
+        "tag2": "comedy (music and audio)",
+        "similarity": 0.7472939947321797
+    },
+    {
+        "tag1": "music",
+        "tag2": "country music",
+        "similarity": 0.7847000377605043
+    },
+    {
+        "tag1": "music",
+        "tag2": "dance and electronic music",
+        "similarity": 0.7672307836994311
+    },
+    {
+        "tag1": "music",
+        "tag2": "world/international music",
+        "similarity": 0.7580153703955778
+    },
+    {
+        "tag1": "music",
+        "tag2": "gospel music",
+        "similarity": 0.7529687319756146
+    },
+    {
+        "tag1": "music",
+        "tag2": "hip hop music",
+        "similarity": 0.779693150113315
+    },
+    {
+        "tag1": "music",
+        "tag2": "inspirational/new age music",
+        "similarity": 0.7357469013296083
+    },
+    {
+        "tag1": "music",
+        "tag2": "religious (music and audio)",
+        "similarity": 0.7820512213668875
+    },
+    {
+        "tag1": "music",
+        "tag2": "rock music",
+        "similarity": 0.8249295039809024
+    },
+    {
+        "tag1": "music",
+        "tag2": "soundtracks, tv and showtunes",
+        "similarity": 0.7698277025803492
+    },
+    {
+        "tag1": "music",
+        "tag2": "urban contemporary music",
+        "similarity": 0.7312995791843997
+    },
+    {
+        "tag1": "music",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.7669910422366457
+    },
+    {
+        "tag1": "music",
+        "tag2": "music tv",
+        "similarity": 0.7878409115839147
+    },
+    {
+        "tag1": "travel",
+        "tag2": "destinations",
+        "similarity": 0.707688910864164
+    },
+    {
+        "tag1": "travel",
+        "tag2": "vacation",
+        "similarity": 0.7432448895917836
+    },
+    {
+        "tag1": "travel",
+        "tag2": "tourism",
+        "similarity": 0.7100234548817147
+    },
+    {
+        "tag1": "travel",
+        "tag2": "travel & tourism",
+        "similarity": 0.758597236177043
+    },
+    {
+        "tag1": "travel",
+        "tag2": "travel books",
+        "similarity": 0.7848022559005963
+    },
+    {
+        "tag1": "travel",
+        "tag2": "africa travel",
+        "similarity": 0.7800798248579097
+    },
+    {
+        "tag1": "travel",
+        "tag2": "asia travel",
+        "similarity": 0.7859841394906115
+    },
+    {
+        "tag1": "travel",
+        "tag2": "australia and oceania travel",
+        "similarity": 0.7488500074345958
+    },
+    {
+        "tag1": "travel",
+        "tag2": "europe travel",
+        "similarity": 0.7673158239804719
+    },
+    {
+        "tag1": "travel",
+        "tag2": "north america travel",
+        "similarity": 0.7504119646535777
+    },
+    {
+        "tag1": "travel",
+        "tag2": "polar travel",
+        "similarity": 0.7037736125554286
+    },
+    {
+        "tag1": "travel",
+        "tag2": "south america travel",
+        "similarity": 0.7320164219463967
+    },
+    {
+        "tag1": "travel",
+        "tag2": "travel preparation and advice",
+        "similarity": 0.7203424081371972
+    },
+    {
+        "tag1": "travel",
+        "tag2": "adventure travel",
+        "similarity": 0.8526478457518273
+    },
+    {
+        "tag1": "travel",
+        "tag2": "family travel",
+        "similarity": 0.7749406791754453
+    },
+    {
+        "tag1": "travel",
+        "tag2": "honeymoons and getaways",
+        "similarity": 0.7160967440863308
+    },
+    {
+        "tag1": "travel",
+        "tag2": "rail travel",
+        "similarity": 0.747088259996298
+    },
+    {
+        "tag1": "travel",
+        "tag2": "road trips",
+        "similarity": 0.7102475395683074
+    },
+    {
+        "tag1": "travel",
+        "tag2": "air travel",
+        "similarity": 0.8620578020748233
+    },
+    {
+        "tag1": "travel",
+        "tag2": "beach travel",
+        "similarity": 0.7872414181080378
+    },
+    {
+        "tag1": "travel",
+        "tag2": "budget travel",
+        "similarity": 0.7653668411570133
+    },
+    {
+        "tag1": "travel",
+        "tag2": "business travel",
+        "similarity": 0.8310373376350357
+    },
+    {
+        "tag1": "lifestyle",
+        "tag2": "fitness & lifestyle",
+        "similarity": 0.8146346776882953
+    },
+    {
+        "tag1": "lifestyle",
+        "tag2": "healthy living",
+        "similarity": 0.726563328037351
+    },
+    {
+        "tag1": "lifestyle",
+        "tag2": "frugal living",
+        "similarity": 0.7204866227306744
+    },
+    {
+        "tag1": "art",
+        "tag2": "fine art",
+        "similarity": 0.7989067572149321
+    },
+    {
+        "tag1": "art",
+        "tag2": "digital arts",
+        "similarity": 0.733793172575907
+    },
+    {
+        "tag1": "art",
+        "tag2": "fine art photography",
+        "similarity": 0.7128075002574041
+    },
+    {
+        "tag1": "art",
+        "tag2": "modern art",
+        "similarity": 0.7866899897247783
+    },
+    {
+        "tag1": "art",
+        "tag2": "arts and crafts",
+        "similarity": 0.7166245091222864
+    },
+    {
+        "tag1": "art",
+        "tag2": "painting",
+        "similarity": 0.7390564171089389
+    },
+    {
+        "tag1": "art",
+        "tag2": "body art",
+        "similarity": 0.7092936949383081
+    },
+    {
+        "tag1": "culture",
+        "tag2": "arts and culture",
+        "similarity": 0.8432587945912199
+    },
+    {
+        "tag1": "culture",
+        "tag2": "car culture",
+        "similarity": 0.7699126618448033
+    },
+    {
+        "tag1": "food",
+        "tag2": "cooking",
+        "similarity": 0.7369239091484036
+    },
+    {
+        "tag1": "food",
+        "tag2": "nutrition",
+        "similarity": 0.7367894620086963
+    },
+    {
+        "tag1": "food",
+        "tag2": "food & dining",
+        "similarity": 0.7556882936667483
+    },
+    {
+        "tag1": "food",
+        "tag2": "food industry",
+        "similarity": 0.7108326205030595
+    },
+    {
+        "tag1": "food",
+        "tag2": "food & drink",
+        "similarity": 0.7342495809812668
+    },
+    {
+        "tag1": "food",
+        "tag2": "food movements",
+        "similarity": 0.7459867333368015
+    },
+    {
+        "tag1": "food",
+        "tag2": "healthy cooking and eating",
+        "similarity": 0.7070146850735263
+    },
+    {
+        "tag1": "environment",
+        "tag2": "climate",
+        "similarity": 0.7365762020176876
+    },
+    {
+        "tag1": "literature",
+        "tag2": "poetry",
+        "similarity": 0.7196544305289185
+    },
+    {
+        "tag1": "literature",
+        "tag2": "novels and literature",
+        "similarity": 0.9137904767774734
+    },
+    {
+        "tag1": "literature",
+        "tag2": "books and literature",
+        "similarity": 0.9062638659152766
+    },
+    {
+        "tag1": "literature",
+        "tag2": "children's literature",
+        "similarity": 0.8303737195887833
+    },
+    {
+        "tag1": "literature",
+        "tag2": "fiction",
+        "similarity": 0.7206213446954121
+    },
+    {
+        "tag1": "literature",
+        "tag2": "young adult literature",
+        "similarity": 0.7335917016055633
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "gaming (hobbyist)",
+        "similarity": 0.7543307362730325
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "board games and puzzles",
+        "similarity": 0.7063906789814636
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "card games",
+        "similarity": 0.7014879417072456
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "roleplaying games",
+        "similarity": 0.7163323773084362
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "video gaming",
+        "similarity": 0.8942379676237036
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "console games",
+        "similarity": 0.7948861878884296
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "mobile games",
+        "similarity": 0.7416490046170237
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "pc games",
+        "similarity": 0.8019903871286612
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "action video games",
+        "similarity": 0.7869071232355445
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "role-playing video games",
+        "similarity": 0.7486349125207108
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "simulation video games",
+        "similarity": 0.7452049129856387
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "sports video games",
+        "similarity": 0.8044771345835068
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "strategy video games",
+        "similarity": 0.7735180964501872
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7655006023979791
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "adventure video games",
+        "similarity": 0.7712924327654088
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "casual games",
+        "similarity": 0.7272487377047354
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.748092246659779
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "music and party video games",
+        "similarity": 0.7401156378613037
+    },
+    {
+        "tag1": "gaming",
+        "tag2": "puzzle video games",
+        "similarity": 0.7480372053647828
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "humor",
+        "similarity": 0.8227273401608106
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "funny",
+        "similarity": 0.7941949033779895
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "comedy events",
+        "similarity": 0.7493718259687491
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "comedy movies",
+        "similarity": 0.8498519727947604
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "comedy (music and audio)",
+        "similarity": 0.7683973963996592
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "humor and satire",
+        "similarity": 0.7313888894075555
+    },
+    {
+        "tag1": "comedy",
+        "tag2": "comedy tv",
+        "similarity": 0.815039847733797
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "style",
+        "similarity": 0.7872466981692462
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "fashion & beauty",
+        "similarity": 0.7707039734010075
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "fashion events",
+        "similarity": 0.7910344523411252
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "style & fashion",
+        "similarity": 0.8513199466845682
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "women's clothing",
+        "similarity": 0.7365958905018599
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "designer clothing",
+        "similarity": 0.8041824102451847
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "fashion trends",
+        "similarity": 0.8543152768256675
+    },
+    {
+        "tag1": "fashion",
+        "tag2": "high fashion",
+        "similarity": 0.8221886463929455
+    },
+    {
+        "tag1": "astronomy",
+        "tag2": "astrophysics",
+        "similarity": 0.8225500445451336
+    },
+    {
+        "tag1": "astronomy",
+        "tag2": "astrology",
+        "similarity": 0.7503469072169124
+    },
+    {
+        "tag1": "astronomy",
+        "tag2": "space and astronomy",
+        "similarity": 0.8989518448223562
+    },
+    {
+        "tag1": "climate",
+        "tag2": "weather",
+        "similarity": 0.7962930237973909
+    },
+    {
+        "tag1": "gadgets",
+        "tag2": "gadgets & reviews",
+        "similarity": 0.769833512498943
+    },
+    {
+        "tag1": "software",
+        "tag2": "software & applications",
+        "similarity": 0.8274978752147846
+    },
+    {
+        "tag1": "software",
+        "tag2": "photo editing software",
+        "similarity": 0.7489866758736282
+    },
+    {
+        "tag1": "software",
+        "tag2": "video software",
+        "similarity": 0.840165429824813
+    },
+    {
+        "tag1": "software",
+        "tag2": "antivirus software",
+        "similarity": 0.7451807936442637
+    },
+    {
+        "tag1": "software",
+        "tag2": "graphics software",
+        "similarity": 0.8245230003470346
+    },
+    {
+        "tag1": "style",
+        "tag2": "style & fashion",
+        "similarity": 0.7988295301845987
+    },
+    {
+        "tag1": "style",
+        "tag2": "fashion trends",
+        "similarity": 0.7639871184376149
+    },
+    {
+        "tag1": "style",
+        "tag2": "street style",
+        "similarity": 0.7741437587821238
+    },
+    {
+        "tag1": "fitness",
+        "tag2": "exercise",
+        "similarity": 0.7919722288642165
+    },
+    {
+        "tag1": "fitness",
+        "tag2": "fitness & lifestyle",
+        "similarity": 0.8299761781635131
+    },
+    {
+        "tag1": "fitness",
+        "tag2": "fitness & outdoor sports",
+        "similarity": 0.8087324919005874
+    },
+    {
+        "tag1": "fitness",
+        "tag2": "bodybuilding",
+        "similarity": 0.7042253906974534
+    },
+    {
+        "tag1": "fitness",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7636615427994157
+    },
+    {
+        "tag1": "recipes",
+        "tag2": "cooking",
+        "similarity": 0.8037014349833413
+    },
+    {
+        "tag1": "recipes",
+        "tag2": "cookbooks",
+        "similarity": 0.8001836086213495
+    },
+    {
+        "tag1": "cooking",
+        "tag2": "cookbooks",
+        "similarity": 0.772774069131011
+    },
+    {
+        "tag1": "cooking",
+        "tag2": "barbecues and grilling",
+        "similarity": 0.7190216607642818
+    },
+    {
+        "tag1": "cooking",
+        "tag2": "healthy cooking and eating",
+        "similarity": 0.7385865072716579
+    },
+    {
+        "tag1": "adventures",
+        "tag2": "adventure travel",
+        "similarity": 0.8179953393155414
+    },
+    {
+        "tag1": "adventures",
+        "tag2": "adventure video games",
+        "similarity": 0.7153231735609782
+    },
+    {
+        "tag1": "events",
+        "tag2": "event",
+        "similarity": 0.9272120196915968
+    },
+    {
+        "tag1": "events",
+        "tag2": "event promotion",
+        "similarity": 0.7837127801123281
+    },
+    {
+        "tag1": "events",
+        "tag2": "event planning",
+        "similarity": 0.7581835839486459
+    },
+    {
+        "tag1": "events",
+        "tag2": "cultural & community events",
+        "similarity": 0.7940233959745129
+    },
+    {
+        "tag1": "events",
+        "tag2": "events and attractions",
+        "similarity": 0.8109957279759229
+    },
+    {
+        "tag1": "events",
+        "tag2": "fashion events",
+        "similarity": 0.8271320278585801
+    },
+    {
+        "tag1": "events",
+        "tag2": "personal celebrations & life events",
+        "similarity": 0.7366056585878058
+    },
+    {
+        "tag1": "events",
+        "tag2": "political event",
+        "similarity": 0.8222737697568667
+    },
+    {
+        "tag1": "events",
+        "tag2": "religious events",
+        "similarity": 0.8217611419825166
+    },
+    {
+        "tag1": "events",
+        "tag2": "sporting events",
+        "similarity": 0.8395404077043758
+    },
+    {
+        "tag1": "events",
+        "tag2": "theater venues and events",
+        "similarity": 0.7712785187617934
+    },
+    {
+        "tag1": "events",
+        "tag2": "cinemas and events",
+        "similarity": 0.8331883842696981
+    },
+    {
+        "tag1": "events",
+        "tag2": "comedy events",
+        "similarity": 0.8003448588537182
+    },
+    {
+        "tag1": "events",
+        "tag2": "concerts & music events",
+        "similarity": 0.824947169601683
+    },
+    {
+        "tag1": "entrepreneurship",
+        "tag2": "startups",
+        "similarity": 0.7245109990526353
+    },
+    {
+        "tag1": "entrepreneurship",
+        "tag2": "entrepreneur",
+        "similarity": 0.8890121783926587
+    },
+    {
+        "tag1": "esports",
+        "tag2": "sports video games",
+        "similarity": 0.7226295729263428
+    },
+    {
+        "tag1": "reviews",
+        "tag2": "gadgets & reviews",
+        "similarity": 0.7711253321560899
+    },
+    {
+        "tag1": "manga",
+        "tag2": "anime",
+        "similarity": 0.7270679156505885
+    },
+    {
+        "tag1": "comics",
+        "tag2": "comics and graphic novels",
+        "similarity": 0.7909068867798948
+    },
+    {
+        "tag1": "comics",
+        "tag2": "comic books",
+        "similarity": 0.8959176112814526
+    },
+    {
+        "tag1": "concerts",
+        "tag2": "concerts & music events",
+        "similarity": 0.8346134560409666
+    },
+    {
+        "tag1": "movies",
+        "tag2": "films",
+        "similarity": 0.8916891851948737
+    },
+    {
+        "tag1": "movies",
+        "tag2": "movies and tv shows",
+        "similarity": 0.7557166368536132
+    },
+    {
+        "tag1": "movies",
+        "tag2": "theater",
+        "similarity": 0.7197234697990202
+    },
+    {
+        "tag1": "movies",
+        "tag2": "action and adventure movies",
+        "similarity": 0.823511182518027
+    },
+    {
+        "tag1": "movies",
+        "tag2": "romance movies",
+        "similarity": 0.8325250244515189
+    },
+    {
+        "tag1": "movies",
+        "tag2": "science fiction movies",
+        "similarity": 0.8171654156152369
+    },
+    {
+        "tag1": "movies",
+        "tag2": "indie and arthouse movies",
+        "similarity": 0.7461395029455045
+    },
+    {
+        "tag1": "movies",
+        "tag2": "animation movies",
+        "similarity": 0.8279710947814677
+    },
+    {
+        "tag1": "movies",
+        "tag2": "comedy movies",
+        "similarity": 0.823304394908747
+    },
+    {
+        "tag1": "movies",
+        "tag2": "crime and mystery movies",
+        "similarity": 0.8004653452646334
+    },
+    {
+        "tag1": "movies",
+        "tag2": "documentary movies",
+        "similarity": 0.8016609415754217
+    },
+    {
+        "tag1": "movies",
+        "tag2": "drama movies",
+        "similarity": 0.8054474719448141
+    },
+    {
+        "tag1": "movies",
+        "tag2": "family and children movies",
+        "similarity": 0.8013168510992543
+    },
+    {
+        "tag1": "movies",
+        "tag2": "fantasy movies",
+        "similarity": 0.8198388140636935
+    },
+    {
+        "tag1": "movies",
+        "tag2": "horror movies",
+        "similarity": 0.8557101100200422
+    },
+    {
+        "tag1": "movies",
+        "tag2": "world movies",
+        "similarity": 0.8157875417491475
+    },
+    {
+        "tag1": "films",
+        "tag2": "action and adventure movies",
+        "similarity": 0.7452084928803088
+    },
+    {
+        "tag1": "films",
+        "tag2": "romance movies",
+        "similarity": 0.7835247400942988
+    },
+    {
+        "tag1": "films",
+        "tag2": "science fiction movies",
+        "similarity": 0.7794582292448972
+    },
+    {
+        "tag1": "films",
+        "tag2": "indie and arthouse movies",
+        "similarity": 0.7185989540718519
+    },
+    {
+        "tag1": "films",
+        "tag2": "animation movies",
+        "similarity": 0.7557466603536777
+    },
+    {
+        "tag1": "films",
+        "tag2": "comedy movies",
+        "similarity": 0.7584400821481521
+    },
+    {
+        "tag1": "films",
+        "tag2": "crime and mystery movies",
+        "similarity": 0.7409575887663217
+    },
+    {
+        "tag1": "films",
+        "tag2": "documentary movies",
+        "similarity": 0.8087331213607322
+    },
+    {
+        "tag1": "films",
+        "tag2": "drama movies",
+        "similarity": 0.7525732443614969
+    },
+    {
+        "tag1": "films",
+        "tag2": "family and children movies",
+        "similarity": 0.7319247584707721
+    },
+    {
+        "tag1": "films",
+        "tag2": "fantasy movies",
+        "similarity": 0.7599406947941971
+    },
+    {
+        "tag1": "films",
+        "tag2": "horror movies",
+        "similarity": 0.7888878348144934
+    },
+    {
+        "tag1": "films",
+        "tag2": "world movies",
+        "similarity": 0.7462141068830082
+    },
+    {
+        "tag1": "photography",
+        "tag2": "photography & videography",
+        "similarity": 0.7832099441532558
+    },
+    {
+        "tag1": "photography",
+        "tag2": "art and photography books",
+        "similarity": 0.7484743548052917
+    },
+    {
+        "tag1": "photography",
+        "tag2": "fine art photography",
+        "similarity": 0.8055444045162259
+    },
+    {
+        "tag1": "photography",
+        "tag2": "cameras and camcorders",
+        "similarity": 0.7280620696320925
+    },
+    {
+        "tag1": "crafts",
+        "tag2": "arts & crafts",
+        "similarity": 0.8302979640332008
+    },
+    {
+        "tag1": "crafts",
+        "tag2": "arts and crafts",
+        "similarity": 0.854860006637215
+    },
+    {
+        "tag1": "crafts",
+        "tag2": "woodworking",
+        "similarity": 0.7035318036783567
+    },
+    {
+        "tag1": "pets",
+        "tag2": "animals",
+        "similarity": 0.8993449021154625
+    },
+    {
+        "tag1": "pets",
+        "tag2": "cats",
+        "similarity": 0.7324413322590386
+    },
+    {
+        "tag1": "pets",
+        "tag2": "dogs",
+        "similarity": 0.8884835288243664
+    },
+    {
+        "tag1": "pets",
+        "tag2": "large animals",
+        "similarity": 0.7213728116266351
+    },
+    {
+        "tag1": "pets",
+        "tag2": "pet adoptions",
+        "similarity": 0.7479528965893085
+    },
+    {
+        "tag1": "pets",
+        "tag2": "pet supplies",
+        "similarity": 0.748810318497001
+    },
+    {
+        "tag1": "animals",
+        "tag2": "birds",
+        "similarity": 0.7620966538651363
+    },
+    {
+        "tag1": "animals",
+        "tag2": "cats",
+        "similarity": 0.7042716222448471
+    },
+    {
+        "tag1": "animals",
+        "tag2": "dogs",
+        "similarity": 0.9053497450211727
+    },
+    {
+        "tag1": "animals",
+        "tag2": "large animals",
+        "similarity": 0.8445212732662993
+    },
+    {
+        "tag1": "animals",
+        "tag2": "reptiles",
+        "similarity": 0.732904233737689
+    },
+    {
+        "tag1": "care",
+        "tag2": "oral care",
+        "similarity": 0.7223310383535221
+    },
+    {
+        "tag1": "family",
+        "tag2": "family and relationships",
+        "similarity": 0.8283061786354047
+    },
+    {
+        "tag1": "family",
+        "tag2": "family travel",
+        "similarity": 0.8193690685458771
+    },
+    {
+        "tag1": "kids",
+        "tag2": "kid-friendly",
+        "similarity": 0.738663660771216
+    },
+    {
+        "tag1": "kids",
+        "tag2": "children",
+        "similarity": 0.9246433420670935
+    },
+    {
+        "tag1": "kids",
+        "tag2": "children's health",
+        "similarity": 0.7028363824811488
+    },
+    {
+        "tag1": "kids",
+        "tag2": "children's clothing",
+        "similarity": 0.7260949796136265
+    },
+    {
+        "tag1": "investing",
+        "tag2": "investment & trading",
+        "similarity": 0.802665336310602
+    },
+    {
+        "tag1": "investing",
+        "tag2": "personal investing",
+        "similarity": 0.8114119137934789
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "cars",
+        "similarity": 0.801471101624782
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "car culture",
+        "similarity": 0.7005194139584234
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto buying and selling",
+        "similarity": 0.7064395551406446
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto insurance",
+        "similarity": 0.7062150342886702
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto parts",
+        "similarity": 0.7674664585679722
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto repair",
+        "similarity": 0.7038198106908023
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto safety",
+        "similarity": 0.7031018030060359
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto safety technologies",
+        "similarity": 0.7091660178280743
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "automotive industry",
+        "similarity": 0.8852335858738676
+    },
+    {
+        "tag1": "automotive",
+        "tag2": "auto racing",
+        "similarity": 0.7427868398280968
+    },
+    {
+        "tag1": "cars",
+        "tag2": "car culture",
+        "similarity": 0.7598439497834744
+    },
+    {
+        "tag1": "cars",
+        "tag2": "automotive industry",
+        "similarity": 0.7127722935385508
+    },
+    {
+        "tag1": "cars",
+        "tag2": "auto racing",
+        "similarity": 0.7585558572113336
+    },
+    {
+        "tag1": "motorcycles",
+        "tag2": "scooters",
+        "similarity": 0.725843040171553
+    },
+    {
+        "tag1": "real estate",
+        "tag2": "property",
+        "similarity": 0.8282873962514046
+    },
+    {
+        "tag1": "real estate",
+        "tag2": "real estate industry",
+        "similarity": 0.7930014096972589
+    },
+    {
+        "tag1": "real estate",
+        "tag2": "retail property",
+        "similarity": 0.709066599918311
+    },
+    {
+        "tag1": "real estate",
+        "tag2": "office property",
+        "similarity": 0.7447286494646566
+    },
+    {
+        "tag1": "real estate",
+        "tag2": "real estate buying and selling",
+        "similarity": 0.8193724181464399
+    },
+    {
+        "tag1": "real estate",
+        "tag2": "real estate renting and leasing",
+        "similarity": 0.800969911764553
+    },
+    {
+        "tag1": "property",
+        "tag2": "retail property",
+        "similarity": 0.7917894813999726
+    },
+    {
+        "tag1": "property",
+        "tag2": "vacation properties",
+        "similarity": 0.7824528419956339
+    },
+    {
+        "tag1": "property",
+        "tag2": "hotel properties",
+        "similarity": 0.787946415570555
+    },
+    {
+        "tag1": "property",
+        "tag2": "industrial property",
+        "similarity": 0.7930911632763195
+    },
+    {
+        "tag1": "property",
+        "tag2": "office property",
+        "similarity": 0.8123032197655252
+    },
+    {
+        "tag1": "property",
+        "tag2": "real estate renting and leasing",
+        "similarity": 0.7023290078992918
+    },
+    {
+        "tag1": "housing",
+        "tag2": "apartments",
+        "similarity": 0.7298483667902421
+    },
+    {
+        "tag1": "housing",
+        "tag2": "houses",
+        "similarity": 0.8382832300788918
+    },
+    {
+        "tag1": "nature",
+        "tag2": "parks & nature",
+        "similarity": 0.7679421605824784
+    },
+    {
+        "tag1": "mental health",
+        "tag2": "mental health & counseling",
+        "similarity": 0.8135348790085868
+    },
+    {
+        "tag1": "startups",
+        "tag2": "startup",
+        "similarity": 0.9258105747265623
+    },
+    {
+        "tag1": "startups",
+        "tag2": "entrepreneur",
+        "similarity": 0.711592321303318
+    },
+    {
+        "tag1": "startups",
+        "tag2": "tech companies & startups",
+        "similarity": 0.9007868633269869
+    },
+    {
+        "tag1": "writing",
+        "tag2": "freelance writing",
+        "similarity": 0.7512992868882112
+    },
+    {
+        "tag1": "writing",
+        "tag2": "screenwriting",
+        "similarity": 0.7575007598012117
+    },
+    {
+        "tag1": "marketing",
+        "tag2": "marketing and advertising",
+        "similarity": 0.8635934036940739
+    },
+    {
+        "tag1": "marketing",
+        "tag2": "sales and promotions",
+        "similarity": 0.7150163277907872
+    },
+    {
+        "tag1": "gambling",
+        "tag2": "casinos",
+        "similarity": 0.8049824961715186
+    },
+    {
+        "tag1": "gambling",
+        "tag2": "betting",
+        "similarity": 0.8301248075922383
+    },
+    {
+        "tag1": "gambling",
+        "tag2": "casinos & gambling",
+        "similarity": 0.8748293746796962
+    },
+    {
+        "tag1": "gambling",
+        "tag2": "poker and professional gambling",
+        "similarity": 0.7974318318320966
+    },
+    {
+        "tag1": "casinos",
+        "tag2": "casinos & gambling",
+        "similarity": 0.8750383278997579
+    },
+    {
+        "tag1": "casinos",
+        "tag2": "poker and professional gambling",
+        "similarity": 0.710430200515269
+    },
+    {
+        "tag1": "space",
+        "tag2": "space and astronomy",
+        "similarity": 0.7805698172333014
+    },
+    {
+        "tag1": "astrophysics",
+        "tag2": "astrology",
+        "similarity": 0.7103411849996516
+    },
+    {
+        "tag1": "astrophysics",
+        "tag2": "physics",
+        "similarity": 0.7506603334789956
+    },
+    {
+        "tag1": "astrophysics",
+        "tag2": "space and astronomy",
+        "similarity": 0.7761379158492803
+    },
+    {
+        "tag1": "exercise",
+        "tag2": "fitness & outdoor sports",
+        "similarity": 0.7421067609877222
+    },
+    {
+        "tag1": "exercise",
+        "tag2": "outdoor activities",
+        "similarity": 0.7025900009545983
+    },
+    {
+        "tag1": "exercise",
+        "tag2": "running and jogging",
+        "similarity": 0.7313068105042116
+    },
+    {
+        "tag1": "exercise",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7097997123725124
+    },
+    {
+        "tag1": "shopping",
+        "tag2": "malls & shopping centers",
+        "similarity": 0.7004868314146643
+    },
+    {
+        "tag1": "shopping",
+        "tag2": "flower shopping",
+        "similarity": 0.76988141875286
+    },
+    {
+        "tag1": "shopping",
+        "tag2": "grocery shopping",
+        "similarity": 0.8613269802095098
+    },
+    {
+        "tag1": "shopping",
+        "tag2": "holiday shopping",
+        "similarity": 0.8138678108914175
+    },
+    {
+        "tag1": "sales",
+        "tag2": "sales and promotions",
+        "similarity": 0.7864046700273092
+    },
+    {
+        "tag1": "high-end",
+        "tag2": "high fashion",
+        "similarity": 0.7441027665586439
+    },
+    {
+        "tag1": "vacation",
+        "tag2": "vacation properties",
+        "similarity": 0.7819045410616337
+    },
+    {
+        "tag1": "vacation",
+        "tag2": "honeymoons and getaways",
+        "similarity": 0.7490102531223477
+    },
+    {
+        "tag1": "holidays",
+        "tag2": "national & civic holidays",
+        "similarity": 0.7714507571313522
+    },
+    {
+        "tag1": "holidays",
+        "tag2": "holiday shopping",
+        "similarity": 0.794726376674044
+    },
+    {
+        "tag1": "holidays",
+        "tag2": "holiday tv",
+        "similarity": 0.7911476473013608
+    },
+    {
+        "tag1": "getaways",
+        "tag2": "honeymoons and getaways",
+        "similarity": 0.8123748916846774
+    },
+    {
+        "tag1": "interior",
+        "tag2": "interior decorating",
+        "similarity": 0.7496011461548977
+    },
+    {
+        "tag1": "weddings",
+        "tag2": "marriage",
+        "similarity": 0.8195165217572827
+    },
+    {
+        "tag1": "weddings",
+        "tag2": "wedding",
+        "similarity": 0.9439320297368572
+    },
+    {
+        "tag1": "marriage",
+        "tag2": "engagement",
+        "similarity": 0.7220779254775429
+    },
+    {
+        "tag1": "marriage",
+        "tag2": "wedding",
+        "similarity": 0.826594699219962
+    },
+    {
+        "tag1": "marriage",
+        "tag2": "divorce",
+        "similarity": 0.7164078886002233
+    },
+    {
+        "tag1": "marriage",
+        "tag2": "marriage and civil unions",
+        "similarity": 0.7623787361294105
+    },
+    {
+        "tag1": "humor",
+        "tag2": "funny",
+        "similarity": 0.8300402971275911
+    },
+    {
+        "tag1": "humor",
+        "tag2": "humor and satire",
+        "similarity": 0.8061646911288481
+    },
+    {
+        "tag1": "banks",
+        "tag2": "consumer banking",
+        "similarity": 0.7199707915041487
+    },
+    {
+        "tag1": "insurance",
+        "tag2": "auto insurance",
+        "similarity": 0.8317544871963075
+    },
+    {
+        "tag1": "universities",
+        "tag2": "universities & colleges",
+        "similarity": 0.8271666469735953
+    },
+    {
+        "tag1": "online learning",
+        "tag2": "online learning & moocs",
+        "similarity": 0.7796559075229721
+    },
+    {
+        "tag1": "online learning",
+        "tag2": "online education",
+        "similarity": 0.8844968368827114
+    },
+    {
+        "tag1": "public services",
+        "tag2": "professional services",
+        "similarity": 0.7588775434617265
+    },
+    {
+        "tag1": "public services",
+        "tag2": "business services",
+        "similarity": 0.7204477801639098
+    },
+    {
+        "tag1": "legal",
+        "tag2": "judiciary & legal",
+        "similarity": 0.7860022734282538
+    },
+    {
+        "tag1": "legal",
+        "tag2": "law",
+        "similarity": 0.7494310305154046
+    },
+    {
+        "tag1": "judiciary",
+        "tag2": "judiciary & legal",
+        "similarity": 0.8650207958911407
+    },
+    {
+        "tag1": "healthcare",
+        "tag2": "hospitals",
+        "similarity": 0.7559493179662162
+    },
+    {
+        "tag1": "healthcare",
+        "tag2": "hospitals & clinics",
+        "similarity": 0.7056073002806655
+    },
+    {
+        "tag1": "healthcare",
+        "tag2": "healthcare industry",
+        "similarity": 0.8462922769542935
+    },
+    {
+        "tag1": "healthcare",
+        "tag2": "medical health",
+        "similarity": 0.7935670363513929
+    },
+    {
+        "tag1": "hospitals",
+        "tag2": "hospitals & clinics",
+        "similarity": 0.8147675469347613
+    },
+    {
+        "tag1": "telecommunications",
+        "tag2": "telecommunications industry",
+        "similarity": 0.8676156897397871
+    },
+    {
+        "tag1": "nonprofits",
+        "tag2": "ngos",
+        "similarity": 0.782022755391208
+    },
+    {
+        "tag1": "nonprofits",
+        "tag2": "nonprofit",
+        "similarity": 0.9570205955400075
+    },
+    {
+        "tag1": "nonprofits",
+        "tag2": "charity",
+        "similarity": 0.7304340837617812
+    },
+    {
+        "tag1": "nonprofits",
+        "tag2": "nonprofits & ngos",
+        "similarity": 0.8945673210564268
+    },
+    {
+        "tag1": "nonprofits",
+        "tag2": "non-profit organizations",
+        "similarity": 0.8011003837193755
+    },
+    {
+        "tag1": "ngos",
+        "tag2": "nonprofit",
+        "similarity": 0.7670735216180756
+    },
+    {
+        "tag1": "ngos",
+        "tag2": "charity",
+        "similarity": 0.7003707415001594
+    },
+    {
+        "tag1": "ngos",
+        "tag2": "nonprofits & ngos",
+        "similarity": 0.9068833178126371
+    },
+    {
+        "tag1": "ngos",
+        "tag2": "non-profit organizations",
+        "similarity": 0.7605947150125671
+    },
+    {
+        "tag1": "ecommerce",
+        "tag2": "e-commerce & retail",
+        "similarity": 0.7532737589403811
+    },
+    {
+        "tag1": "blog",
+        "tag2": "personal blog",
+        "similarity": 0.8567664382298446
+    },
+    {
+        "tag1": "blog",
+        "tag2": "specialized magazines & blogs",
+        "similarity": 0.7188609355227679
+    },
+    {
+        "tag1": "personal blog",
+        "tag2": "personal",
+        "similarity": 0.7065429676078263
+    },
+    {
+        "tag1": "event",
+        "tag2": "event promotion",
+        "similarity": 0.8150480149535216
+    },
+    {
+        "tag1": "event",
+        "tag2": "event planning",
+        "similarity": 0.7594030055680803
+    },
+    {
+        "tag1": "event",
+        "tag2": "cultural & community events",
+        "similarity": 0.7534733909973461
+    },
+    {
+        "tag1": "event",
+        "tag2": "events and attractions",
+        "similarity": 0.749234602055183
+    },
+    {
+        "tag1": "event",
+        "tag2": "fashion events",
+        "similarity": 0.7858880335126166
+    },
+    {
+        "tag1": "event",
+        "tag2": "political event",
+        "similarity": 0.864698859591367
+    },
+    {
+        "tag1": "event",
+        "tag2": "religious events",
+        "similarity": 0.7942578149680025
+    },
+    {
+        "tag1": "event",
+        "tag2": "sporting events",
+        "similarity": 0.7828079893736991
+    },
+    {
+        "tag1": "event",
+        "tag2": "cinemas and events",
+        "similarity": 0.7535566253142896
+    },
+    {
+        "tag1": "event",
+        "tag2": "comedy events",
+        "similarity": 0.7451709423070157
+    },
+    {
+        "tag1": "event",
+        "tag2": "concerts & music events",
+        "similarity": 0.7465768641143233
+    },
+    {
+        "tag1": "event promotion",
+        "tag2": "event planning",
+        "similarity": 0.7155201173133081
+    },
+    {
+        "tag1": "event promotion",
+        "tag2": "events and attractions",
+        "similarity": 0.7381586547184025
+    },
+    {
+        "tag1": "event promotion",
+        "tag2": "fashion events",
+        "similarity": 0.7015199339097851
+    },
+    {
+        "tag1": "event promotion",
+        "tag2": "political event",
+        "similarity": 0.7052459568826885
+    },
+    {
+        "tag1": "event promotion",
+        "tag2": "cinemas and events",
+        "similarity": 0.7071986286600834
+    },
+    {
+        "tag1": "event promotion",
+        "tag2": "sales and promotions",
+        "similarity": 0.7723043534168815
+    },
+    {
+        "tag1": "personal",
+        "tag2": "personal debt",
+        "similarity": 0.7301605664427276
+    },
+    {
+        "tag1": "personal",
+        "tag2": "personal investing",
+        "similarity": 0.7317737421244426
+    },
+    {
+        "tag1": "personal",
+        "tag2": "personal taxes",
+        "similarity": 0.7288842345165598
+    },
+    {
+        "tag1": "membership",
+        "tag2": "subscription",
+        "similarity": 0.7190078658188771
+    },
+    {
+        "tag1": "community",
+        "tag2": "local & community news",
+        "similarity": 0.7131546320333334
+    },
+    {
+        "tag1": "nonprofit",
+        "tag2": "charity",
+        "similarity": 0.7521208042235962
+    },
+    {
+        "tag1": "nonprofit",
+        "tag2": "nonprofits & ngos",
+        "similarity": 0.8510917930547888
+    },
+    {
+        "tag1": "nonprofit",
+        "tag2": "non-profit organizations",
+        "similarity": 0.7732306743382718
+    },
+    {
+        "tag1": "charity",
+        "tag2": "nonprofits & ngos",
+        "similarity": 0.7020413602468646
+    },
+    {
+        "tag1": "forum",
+        "tag2": "online forums & discussion boards",
+        "similarity": 0.7672820216268579
+    },
+    {
+        "tag1": "forum",
+        "tag2": "fan communities & forums",
+        "similarity": 0.7366052850741726
+    },
+    {
+        "tag1": "social network",
+        "tag2": "social",
+        "similarity": 0.7203270289510195
+    },
+    {
+        "tag1": "social network",
+        "tag2": "social networking",
+        "similarity": 0.9279054134099793
+    },
+    {
+        "tag1": "startup",
+        "tag2": "tech companies & startups",
+        "similarity": 0.8272484058707985
+    },
+    {
+        "tag1": "consulting",
+        "tag2": "management consulting industry",
+        "similarity": 0.8300189329050021
+    },
+    {
+        "tag1": "professional services",
+        "tag2": "business services",
+        "similarity": 0.7331092035263364
+    },
+    {
+        "tag1": "professional services",
+        "tag2": "professional development",
+        "similarity": 0.7111543190621454
+    },
+    {
+        "tag1": "school",
+        "tag2": "k-12 & schools",
+        "similarity": 0.7504404967809772
+    },
+    {
+        "tag1": "school",
+        "tag2": "private school",
+        "similarity": 0.8037479437503962
+    },
+    {
+        "tag1": "hobby",
+        "tag2": "hobbies",
+        "similarity": 0.8567073318907916
+    },
+    {
+        "tag1": "hobby",
+        "tag2": "gaming (hobbyist)",
+        "similarity": 0.8235997916811162
+    },
+    {
+        "tag1": "hobby",
+        "tag2": "hobbies & interests",
+        "similarity": 0.7292570462054025
+    },
+    {
+        "tag1": "interest",
+        "tag2": "hobbies & interests",
+        "similarity": 0.7435260706453003
+    },
+    {
+        "tag1": "engagement",
+        "tag2": "wedding",
+        "similarity": 0.7287363080729501
+    },
+    {
+        "tag1": "tourism",
+        "tag2": "travel & tourism",
+        "similarity": 0.8684943158928181
+    },
+    {
+        "tag1": "tourism",
+        "tag2": "events and attractions",
+        "similarity": 0.7008393692479985
+    },
+    {
+        "tag1": "magazine",
+        "tag2": "specialized magazines & blogs",
+        "similarity": 0.7361249350021803
+    },
+    {
+        "tag1": "memorial",
+        "tag2": "tribute",
+        "similarity": 0.8065151598250815
+    },
+    {
+        "tag1": "kid-friendly",
+        "tag2": "children",
+        "similarity": 0.7042759946067436
+    },
+    {
+        "tag1": "children",
+        "tag2": "children's literature",
+        "similarity": 0.7071995148437605
+    },
+    {
+        "tag1": "children",
+        "tag2": "children's health",
+        "similarity": 0.7501231207088322
+    },
+    {
+        "tag1": "children",
+        "tag2": "children's music",
+        "similarity": 0.7495048396454225
+    },
+    {
+        "tag1": "children",
+        "tag2": "children's games and toys",
+        "similarity": 0.721811832018064
+    },
+    {
+        "tag1": "children",
+        "tag2": "children's clothing",
+        "similarity": 0.7752643183765563
+    },
+    {
+        "tag1": "children",
+        "tag2": "children's tv",
+        "similarity": 0.7165156805904607
+    },
+    {
+        "tag1": "novels and literature",
+        "tag2": "books and literature",
+        "similarity": 0.9358923618143963
+    },
+    {
+        "tag1": "novels and literature",
+        "tag2": "children's literature",
+        "similarity": 0.7677286333814833
+    },
+    {
+        "tag1": "novels and literature",
+        "tag2": "comics and graphic novels",
+        "similarity": 0.7115656380398303
+    },
+    {
+        "tag1": "novels and literature",
+        "tag2": "fiction",
+        "similarity": 0.7165022175427544
+    },
+    {
+        "tag1": "movies and tv shows",
+        "tag2": "crime and mystery movies",
+        "similarity": 0.7066362377255544
+    },
+    {
+        "tag1": "movies and tv shows",
+        "tag2": "soundtracks, tv and showtunes",
+        "similarity": 0.7972956587128801
+    },
+    {
+        "tag1": "movies and tv shows",
+        "tag2": "television",
+        "similarity": 0.7479065575703882
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "audio production",
+        "similarity": 0.7476455195572552
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "comedy (music and audio)",
+        "similarity": 0.8254019900380265
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "dance and electronic music",
+        "similarity": 0.7093896914223103
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "religious (music and audio)",
+        "similarity": 0.8132530099152503
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "soundtracks, tv and showtunes",
+        "similarity": 0.7412527118027475
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.8641585065065872
+    },
+    {
+        "tag1": "music and audio",
+        "tag2": "digital audio",
+        "similarity": 0.7826229375708453
+    },
+    {
+        "tag1": "arts and culture",
+        "tag2": "arts & crafts",
+        "similarity": 0.7394269631087876
+    },
+    {
+        "tag1": "arts and culture",
+        "tag2": "arts and crafts",
+        "similarity": 0.764019057783762
+    },
+    {
+        "tag1": "e-commerce & retail",
+        "tag2": "retail industry",
+        "similarity": 0.7739231564691031
+    },
+    {
+        "tag1": "business services",
+        "tag2": "business operations",
+        "similarity": 0.7590723373621359
+    },
+    {
+        "tag1": "business services",
+        "tag2": "business travel",
+        "similarity": 0.7136366657951534
+    },
+    {
+        "tag1": "universities & colleges",
+        "tag2": "college education",
+        "similarity": 0.7392771697293676
+    },
+    {
+        "tag1": "online learning & moocs",
+        "tag2": "online education",
+        "similarity": 0.7526949460634584
+    },
+    {
+        "tag1": "pharmaceutical & drug information",
+        "tag2": "pharmaceutical drugs",
+        "similarity": 0.7738476106861853
+    },
+    {
+        "tag1": "fitness & lifestyle",
+        "tag2": "personal finance & lifestyle management",
+        "similarity": 0.7191464729447641
+    },
+    {
+        "tag1": "fitness & lifestyle",
+        "tag2": "fitness & outdoor sports",
+        "similarity": 0.77492354254702
+    },
+    {
+        "tag1": "software & applications",
+        "tag2": "technology & computing",
+        "similarity": 0.7166335407538487
+    },
+    {
+        "tag1": "scientific organizations",
+        "tag2": "non-profit organizations",
+        "similarity": 0.7346968892283964
+    },
+    {
+        "tag1": "local & community news",
+        "tag2": "local news",
+        "similarity": 0.8674330067573188
+    },
+    {
+        "tag1": "entertainment news",
+        "tag2": "entertainment industry",
+        "similarity": 0.7463868097923958
+    },
+    {
+        "tag1": "entertainment news",
+        "tag2": "national news",
+        "similarity": 0.7210413646494839
+    },
+    {
+        "tag1": "social",
+        "tag2": "social networking",
+        "similarity": 0.7001731107631379
+    },
+    {
+        "tag1": "online forums & discussion boards",
+        "tag2": "fan communities & forums",
+        "similarity": 0.7187820140813355
+    },
+    {
+        "tag1": "nonprofits & ngos",
+        "tag2": "non-profit organizations",
+        "similarity": 0.8007503092921039
+    },
+    {
+        "tag1": "cultural & community events",
+        "tag2": "fashion events",
+        "similarity": 0.7018401872749493
+    },
+    {
+        "tag1": "cultural & community events",
+        "tag2": "religious events",
+        "similarity": 0.7247015446522859
+    },
+    {
+        "tag1": "cultural & community events",
+        "tag2": "cinemas and events",
+        "similarity": 0.7164845185032991
+    },
+    {
+        "tag1": "cultural & community events",
+        "tag2": "concerts & music events",
+        "similarity": 0.7628863177988326
+    },
+    {
+        "tag1": "food & dining",
+        "tag2": "bars & restaurants",
+        "similarity": 0.7384699145426081
+    },
+    {
+        "tag1": "food & dining",
+        "tag2": "food & drink",
+        "similarity": 0.7998856685376663
+    },
+    {
+        "tag1": "food & dining",
+        "tag2": "dining out",
+        "similarity": 0.7367428800807563
+    },
+    {
+        "tag1": "fashion & beauty",
+        "tag2": "style & fashion",
+        "similarity": 0.8200790840302582
+    },
+    {
+        "tag1": "fashion & beauty",
+        "tag2": "beauty",
+        "similarity": 0.7986376529980272
+    },
+    {
+        "tag1": "home & garden",
+        "tag2": "gardening",
+        "similarity": 0.7374636745626817
+    },
+    {
+        "tag1": "personal finance & lifestyle management",
+        "tag2": "personal finance",
+        "similarity": 0.7927812741174057
+    },
+    {
+        "tag1": "fitness & outdoor sports",
+        "tag2": "outdoor activities",
+        "similarity": 0.7967575313263854
+    },
+    {
+        "tag1": "fitness & outdoor sports",
+        "tag2": "olympic sports",
+        "similarity": 0.7024198207031169
+    },
+    {
+        "tag1": "fitness & outdoor sports",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7188844068253255
+    },
+    {
+        "tag1": "law firms & legal services",
+        "tag2": "legal services industry",
+        "similarity": 0.8170442405531964
+    },
+    {
+        "tag1": "hobbies",
+        "tag2": "gaming (hobbyist)",
+        "similarity": 0.7422883634247378
+    },
+    {
+        "tag1": "hobbies",
+        "tag2": "hobbies & interests",
+        "similarity": 0.8766731247554723
+    },
+    {
+        "tag1": "arts & crafts",
+        "tag2": "arts and crafts",
+        "similarity": 0.9667748448194289
+    },
+    {
+        "tag1": "photography & videography",
+        "tag2": "video production",
+        "similarity": 0.7226398588765384
+    },
+    {
+        "tag1": "photography & videography",
+        "tag2": "cameras and camcorders",
+        "similarity": 0.7713762737603804
+    },
+    {
+        "tag1": "gaming (hobbyist)",
+        "tag2": "video gaming",
+        "similarity": 0.7144800426578829
+    },
+    {
+        "tag1": "auto buying and selling",
+        "tag2": "real estate buying and selling",
+        "similarity": 0.7587660622274723
+    },
+    {
+        "tag1": "auto insurance",
+        "tag2": "auto parts",
+        "similarity": 0.7065336757068132
+    },
+    {
+        "tag1": "auto insurance",
+        "tag2": "auto repair",
+        "similarity": 0.7405975509784611
+    },
+    {
+        "tag1": "auto insurance",
+        "tag2": "auto safety",
+        "similarity": 0.7497287851979972
+    },
+    {
+        "tag1": "auto parts",
+        "tag2": "auto repair",
+        "similarity": 0.7806821910207683
+    },
+    {
+        "tag1": "auto safety",
+        "tag2": "auto safety technologies",
+        "similarity": 0.8736016138283728
+    },
+    {
+        "tag1": "auto shows",
+        "tag2": "auto racing",
+        "similarity": 0.7103900326578984
+    },
+    {
+        "tag1": "auto infotainment technologies",
+        "tag2": "auto safety technologies",
+        "similarity": 0.7409103854055289
+    },
+    {
+        "tag1": "books and literature",
+        "tag2": "art and photography books",
+        "similarity": 0.7137500193530356
+    },
+    {
+        "tag1": "books and literature",
+        "tag2": "children's literature",
+        "similarity": 0.7946012970992794
+    },
+    {
+        "tag1": "art and photography books",
+        "tag2": "travel books",
+        "similarity": 0.7122501047864651
+    },
+    {
+        "tag1": "art and photography books",
+        "tag2": "fine art photography",
+        "similarity": 0.7214712943584437
+    },
+    {
+        "tag1": "children's literature",
+        "tag2": "young adult literature",
+        "similarity": 0.7170809754202403
+    },
+    {
+        "tag1": "comics and graphic novels",
+        "tag2": "comic books",
+        "similarity": 0.8366785979900175
+    },
+    {
+        "tag1": "travel books",
+        "tag2": "adventure travel",
+        "similarity": 0.7235850830811162
+    },
+    {
+        "tag1": "business and finance",
+        "tag2": "business accounting & finance",
+        "similarity": 0.8687951450806909
+    },
+    {
+        "tag1": "business and finance",
+        "tag2": "business banking & finance",
+        "similarity": 0.8931949341858528
+    },
+    {
+        "tag1": "business accounting & finance",
+        "tag2": "business banking & finance",
+        "similarity": 0.8549690164761932
+    },
+    {
+        "tag1": "logistics",
+        "tag2": "logistics and transportation industry",
+        "similarity": 0.7862412966744231
+    },
+    {
+        "tag1": "marketing and advertising",
+        "tag2": "advertising industry",
+        "similarity": 0.8139515590456388
+    },
+    {
+        "tag1": "marketing and advertising",
+        "tag2": "sales and promotions",
+        "similarity": 0.7730187399413628
+    },
+    {
+        "tag1": "business administration",
+        "tag2": "business operations",
+        "similarity": 0.7094082438922249
+    },
+    {
+        "tag1": "business utilities",
+        "tag2": "home utilities",
+        "similarity": 0.7047254331567697
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "entertainment industry",
+        "similarity": 0.7512739323892476
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "food industry",
+        "similarity": 0.7010589921971659
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.7045264556252895
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "media industry",
+        "similarity": 0.7890136960892443
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "publishing industry",
+        "similarity": 0.7485181443167823
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7107127939718643
+    },
+    {
+        "tag1": "advertising industry",
+        "tag2": "retail industry",
+        "similarity": 0.7069266258521113
+    },
+    {
+        "tag1": "education industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.7092943728324682
+    },
+    {
+        "tag1": "education industry",
+        "tag2": "technology industry",
+        "similarity": 0.718431021169138
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "financial industry",
+        "similarity": 0.7340064790011718
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "food industry",
+        "similarity": 0.7387440884204368
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "healthcare industry",
+        "similarity": 0.7074248907910549
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "hospitality industry",
+        "similarity": 0.7538498986733873
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.738605122927396
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "media industry",
+        "similarity": 0.8166994193842274
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "pharmaceutical industry",
+        "similarity": 0.7179606061975661
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "publishing industry",
+        "similarity": 0.7289185325230445
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "real estate industry",
+        "similarity": 0.7042789920122278
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7291464485450067
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "retail industry",
+        "similarity": 0.7105043619385226
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "technology industry",
+        "similarity": 0.7457142617353479
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "automotive industry",
+        "similarity": 0.7277078793252466
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7342084709222316
+    },
+    {
+        "tag1": "entertainment industry",
+        "tag2": "construction industry",
+        "similarity": 0.7071299300836833
+    },
+    {
+        "tag1": "environmental services industry",
+        "tag2": "information services industry",
+        "similarity": 0.724128503148982
+    },
+    {
+        "tag1": "environmental services industry",
+        "tag2": "legal services industry",
+        "similarity": 0.7529974874103833
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "food industry",
+        "similarity": 0.7061875196838715
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.703262072748333
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "real estate industry",
+        "similarity": 0.7331417458837859
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "technology industry",
+        "similarity": 0.7012638557672904
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "automotive industry",
+        "similarity": 0.7046658191313471
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7035769653533104
+    },
+    {
+        "tag1": "financial industry",
+        "tag2": "construction industry",
+        "similarity": 0.7082355820273594
+    },
+    {
+        "tag1": "food industry",
+        "tag2": "hospitality industry",
+        "similarity": 0.7297244350266047
+    },
+    {
+        "tag1": "food industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.7622176639310505
+    },
+    {
+        "tag1": "food industry",
+        "tag2": "media industry",
+        "similarity": 0.7034334408030719
+    },
+    {
+        "tag1": "food industry",
+        "tag2": "pharmaceutical industry",
+        "similarity": 0.7088300059671725
+    },
+    {
+        "tag1": "food industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7213356222520586
+    },
+    {
+        "tag1": "food industry",
+        "tag2": "technology industry",
+        "similarity": 0.7019191034225157
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "hospitality industry",
+        "similarity": 0.7163526798704409
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.7559546945957804
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "pharmaceutical industry",
+        "similarity": 0.8098905729754844
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7116597977650827
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "retail industry",
+        "similarity": 0.7075891917431774
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "technology industry",
+        "similarity": 0.7407505110038333
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7163256624278938
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "biotech and biomedical industry",
+        "similarity": 0.7509012436101347
+    },
+    {
+        "tag1": "healthcare industry",
+        "tag2": "medical health",
+        "similarity": 0.7093968498057557
+    },
+    {
+        "tag1": "information services industry",
+        "tag2": "legal services industry",
+        "similarity": 0.7725778070544796
+    },
+    {
+        "tag1": "logistics and transportation industry",
+        "tag2": "manufacturing industry",
+        "similarity": 0.7313648144052839
+    },
+    {
+        "tag1": "logistics and transportation industry",
+        "tag2": "mechanical and industrial engineering industry",
+        "similarity": 0.7158412924005934
+    },
+    {
+        "tag1": "logistics and transportation industry",
+        "tag2": "technology industry",
+        "similarity": 0.7220534396131946
+    },
+    {
+        "tag1": "logistics and transportation industry",
+        "tag2": "telecommunications industry",
+        "similarity": 0.7014020276181487
+    },
+    {
+        "tag1": "logistics and transportation industry",
+        "tag2": "automotive industry",
+        "similarity": 0.7410113423466718
+    },
+    {
+        "tag1": "logistics and transportation industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7198556278393575
+    },
+    {
+        "tag1": "agriculture",
+        "tag2": "gardening",
+        "similarity": 0.7266739298251375
+    },
+    {
+        "tag1": "agriculture",
+        "tag2": "land and farms",
+        "similarity": 0.8044431853199042
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "mechanical and industrial engineering industry",
+        "similarity": 0.8224238299140445
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "media industry",
+        "similarity": 0.7131202357229136
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "metals industry",
+        "similarity": 0.7839983660081042
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "pharmaceutical industry",
+        "similarity": 0.7768722958070549
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "power and energy industry",
+        "similarity": 0.7162860112489958
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "publishing industry",
+        "similarity": 0.7347219049183937
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "real estate industry",
+        "similarity": 0.7160714748693959
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7855698238503024
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "retail industry",
+        "similarity": 0.7384397240686301
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "technology industry",
+        "similarity": 0.800895573400863
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "telecommunications industry",
+        "similarity": 0.7030943227836468
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "automotive industry",
+        "similarity": 0.8207370364189388
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7608210022424083
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "biotech and biomedical industry",
+        "similarity": 0.7197578720405139
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.7326668162807517
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "construction industry",
+        "similarity": 0.7743753705910998
+    },
+    {
+        "tag1": "manufacturing industry",
+        "tag2": "defense industry",
+        "similarity": 0.7108022523151627
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "metals industry",
+        "similarity": 0.7566481000890576
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "power and energy industry",
+        "similarity": 0.7356140019897455
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "technology industry",
+        "similarity": 0.7837032615997908
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "automotive industry",
+        "similarity": 0.7671040020388655
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7214400567719458
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "biotech and biomedical industry",
+        "similarity": 0.7059304840025172
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.8270052590861736
+    },
+    {
+        "tag1": "mechanical and industrial engineering industry",
+        "tag2": "construction industry",
+        "similarity": 0.7391703423959796
+    },
+    {
+        "tag1": "media industry",
+        "tag2": "pharmaceutical industry",
+        "similarity": 0.7177487734800598
+    },
+    {
+        "tag1": "media industry",
+        "tag2": "publishing industry",
+        "similarity": 0.7936468266526747
+    },
+    {
+        "tag1": "media industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7256331230402069
+    },
+    {
+        "tag1": "media industry",
+        "tag2": "technology industry",
+        "similarity": 0.7383750885779923
+    },
+    {
+        "tag1": "media industry",
+        "tag2": "telecommunications industry",
+        "similarity": 0.743249343273747
+    },
+    {
+        "tag1": "metals industry",
+        "tag2": "real estate industry",
+        "similarity": 0.7077242682651396
+    },
+    {
+        "tag1": "metals industry",
+        "tag2": "technology industry",
+        "similarity": 0.7457781063533924
+    },
+    {
+        "tag1": "metals industry",
+        "tag2": "automotive industry",
+        "similarity": 0.744728893807026
+    },
+    {
+        "tag1": "metals industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.730345370909205
+    },
+    {
+        "tag1": "metals industry",
+        "tag2": "construction industry",
+        "similarity": 0.7534943854471156
+    },
+    {
+        "tag1": "pharmaceutical industry",
+        "tag2": "publishing industry",
+        "similarity": 0.7188768496244482
+    },
+    {
+        "tag1": "pharmaceutical industry",
+        "tag2": "apparel industry",
+        "similarity": 0.7068543975128811
+    },
+    {
+        "tag1": "pharmaceutical industry",
+        "tag2": "technology industry",
+        "similarity": 0.7492176015632329
+    },
+    {
+        "tag1": "pharmaceutical industry",
+        "tag2": "biotech and biomedical industry",
+        "similarity": 0.7990969415269293
+    },
+    {
+        "tag1": "pharmaceutical industry",
+        "tag2": "pharmaceutical drugs",
+        "similarity": 0.8175698996198696
+    },
+    {
+        "tag1": "power and energy industry",
+        "tag2": "technology industry",
+        "similarity": 0.7301649034028553
+    },
+    {
+        "tag1": "publishing industry",
+        "tag2": "technology industry",
+        "similarity": 0.7229917710784101
+    },
+    {
+        "tag1": "real estate industry",
+        "tag2": "technology industry",
+        "similarity": 0.700288285213771
+    },
+    {
+        "tag1": "real estate industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7130090711974507
+    },
+    {
+        "tag1": "real estate industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.7185563417121702
+    },
+    {
+        "tag1": "real estate industry",
+        "tag2": "construction industry",
+        "similarity": 0.7438522903677084
+    },
+    {
+        "tag1": "real estate industry",
+        "tag2": "real estate buying and selling",
+        "similarity": 0.7244837031813738
+    },
+    {
+        "tag1": "real estate industry",
+        "tag2": "real estate renting and leasing",
+        "similarity": 0.7107492091421908
+    },
+    {
+        "tag1": "apparel industry",
+        "tag2": "retail industry",
+        "similarity": 0.7930877117069257
+    },
+    {
+        "tag1": "apparel industry",
+        "tag2": "technology industry",
+        "similarity": 0.7010313737905942
+    },
+    {
+        "tag1": "apparel industry",
+        "tag2": "automotive industry",
+        "similarity": 0.7208564708850665
+    },
+    {
+        "tag1": "apparel industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7041519578010095
+    },
+    {
+        "tag1": "retail industry",
+        "tag2": "retail property",
+        "similarity": 0.7084240228775567
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "telecommunications industry",
+        "similarity": 0.7876208592366646
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "automotive industry",
+        "similarity": 0.7776284679962595
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "aviation industry",
+        "similarity": 0.758752091863637
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "biotech and biomedical industry",
+        "similarity": 0.7603211572458499
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.7256853081911077
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "construction industry",
+        "similarity": 0.7367191105443052
+    },
+    {
+        "tag1": "technology industry",
+        "tag2": "defense industry",
+        "similarity": 0.7104229967672997
+    },
+    {
+        "tag1": "telecommunications industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7137685387855591
+    },
+    {
+        "tag1": "automotive industry",
+        "tag2": "aviation industry",
+        "similarity": 0.7450308944006139
+    },
+    {
+        "tag1": "automotive industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.7032421101638386
+    },
+    {
+        "tag1": "aviation industry",
+        "tag2": "civil engineering industry",
+        "similarity": 0.7061730785418159
+    },
+    {
+        "tag1": "aviation industry",
+        "tag2": "construction industry",
+        "similarity": 0.7335121446426907
+    },
+    {
+        "tag1": "aviation industry",
+        "tag2": "defense industry",
+        "similarity": 0.7255709878091482
+    },
+    {
+        "tag1": "biotech and biomedical industry",
+        "tag2": "biological sciences",
+        "similarity": 0.7232259099351144
+    },
+    {
+        "tag1": "civil engineering industry",
+        "tag2": "construction industry",
+        "similarity": 0.7931551078283519
+    },
+    {
+        "tag1": "careers",
+        "tag2": "career advice",
+        "similarity": 0.7853913016890601
+    },
+    {
+        "tag1": "careers",
+        "tag2": "career planning",
+        "similarity": 0.7648522336057004
+    },
+    {
+        "tag1": "career advice",
+        "tag2": "career planning",
+        "similarity": 0.805694531366839
+    },
+    {
+        "tag1": "secondary education",
+        "tag2": "primary education",
+        "similarity": 0.7517273294872255
+    },
+    {
+        "tag1": "college education",
+        "tag2": "primary education",
+        "similarity": 0.7141819436330827
+    },
+    {
+        "tag1": "college education",
+        "tag2": "college sports",
+        "similarity": 0.7076498984988261
+    },
+    {
+        "tag1": "early childhood education",
+        "tag2": "primary education",
+        "similarity": 0.7263200651234827
+    },
+    {
+        "tag1": "language learning",
+        "tag2": "programming languages",
+        "similarity": 0.7202988559497729
+    },
+    {
+        "tag1": "events and attractions",
+        "tag2": "amusement and theme parks",
+        "similarity": 0.7349580208381803
+    },
+    {
+        "tag1": "events and attractions",
+        "tag2": "sporting events",
+        "similarity": 0.7004629972565665
+    },
+    {
+        "tag1": "events and attractions",
+        "tag2": "theater venues and events",
+        "similarity": 0.7569300915813135
+    },
+    {
+        "tag1": "events and attractions",
+        "tag2": "cinemas and events",
+        "similarity": 0.8158157274582216
+    },
+    {
+        "tag1": "events and attractions",
+        "tag2": "concerts & music events",
+        "similarity": 0.7727156926969577
+    },
+    {
+        "tag1": "fashion events",
+        "tag2": "sporting events",
+        "similarity": 0.7168766398662155
+    },
+    {
+        "tag1": "fashion events",
+        "tag2": "cinemas and events",
+        "similarity": 0.7109942346219262
+    },
+    {
+        "tag1": "fashion events",
+        "tag2": "concerts & music events",
+        "similarity": 0.7306955542572555
+    },
+    {
+        "tag1": "fashion events",
+        "tag2": "fashion trends",
+        "similarity": 0.7262099892048867
+    },
+    {
+        "tag1": "museums & galleries",
+        "tag2": "zoos & aquariums",
+        "similarity": 0.730995426143148
+    },
+    {
+        "tag1": "outdoor activities",
+        "tag2": "outdoor decorating",
+        "similarity": 0.767789199079816
+    },
+    {
+        "tag1": "personal celebrations & life events",
+        "tag2": "concerts & music events",
+        "similarity": 0.713322774942505
+    },
+    {
+        "tag1": "political event",
+        "tag2": "religious events",
+        "similarity": 0.7286250537063629
+    },
+    {
+        "tag1": "political event",
+        "tag2": "news and politics",
+        "similarity": 0.7003913625036929
+    },
+    {
+        "tag1": "religious events",
+        "tag2": "sporting events",
+        "similarity": 0.7431582991656369
+    },
+    {
+        "tag1": "religious events",
+        "tag2": "cinemas and events",
+        "similarity": 0.7231315860957497
+    },
+    {
+        "tag1": "religious events",
+        "tag2": "concerts & music events",
+        "similarity": 0.7355331646136591
+    },
+    {
+        "tag1": "religious events",
+        "tag2": "religious (music and audio)",
+        "similarity": 0.7096441031345045
+    },
+    {
+        "tag1": "sporting events",
+        "tag2": "cinemas and events",
+        "similarity": 0.7509455242665715
+    },
+    {
+        "tag1": "sporting events",
+        "tag2": "concerts & music events",
+        "similarity": 0.7284375491815506
+    },
+    {
+        "tag1": "sporting events",
+        "tag2": "participant sports",
+        "similarity": 0.7832189004361191
+    },
+    {
+        "tag1": "sporting events",
+        "tag2": "olympic sports",
+        "similarity": 0.7570474812129333
+    },
+    {
+        "tag1": "sporting events",
+        "tag2": "soccer",
+        "similarity": 0.7033272348679935
+    },
+    {
+        "tag1": "sporting events",
+        "tag2": "sports video games",
+        "similarity": 0.7056402098130399
+    },
+    {
+        "tag1": "theater venues and events",
+        "tag2": "cinemas and events",
+        "similarity": 0.8518637216544565
+    },
+    {
+        "tag1": "theater venues and events",
+        "tag2": "concerts & music events",
+        "similarity": 0.7866654606879467
+    },
+    {
+        "tag1": "theater venues and events",
+        "tag2": "theater",
+        "similarity": 0.763809774347745
+    },
+    {
+        "tag1": "zoos & aquariums",
+        "tag2": "fish and aquariums",
+        "similarity": 0.8744778897480848
+    },
+    {
+        "tag1": "bars & restaurants",
+        "tag2": "food & drink",
+        "similarity": 0.7002161288300535
+    },
+    {
+        "tag1": "casinos & gambling",
+        "tag2": "poker and professional gambling",
+        "similarity": 0.7682877643357928
+    },
+    {
+        "tag1": "cinemas and events",
+        "tag2": "comedy events",
+        "similarity": 0.7270767192672203
+    },
+    {
+        "tag1": "cinemas and events",
+        "tag2": "concerts & music events",
+        "similarity": 0.8006203320894438
+    },
+    {
+        "tag1": "fine art",
+        "tag2": "fine art photography",
+        "similarity": 0.8696675712795585
+    },
+    {
+        "tag1": "food & drink",
+        "tag2": "alcoholic beverages",
+        "similarity": 0.707479741817228
+    },
+    {
+        "tag1": "alcoholic beverages",
+        "tag2": "non-alcoholic beverages",
+        "similarity": 0.8708034590952335
+    },
+    {
+        "tag1": "vegan diets",
+        "tag2": "vegetarian diets",
+        "similarity": 0.8611650417429701
+    },
+    {
+        "tag1": "food allergies",
+        "tag2": "allergies",
+        "similarity": 0.921550701316388
+    },
+    {
+        "tag1": "healthy cooking and eating",
+        "tag2": "healthy living",
+        "similarity": 0.7560544286924457
+    },
+    {
+        "tag1": "participant sports",
+        "tag2": "college sports",
+        "similarity": 0.7070391559514638
+    },
+    {
+        "tag1": "participant sports",
+        "tag2": "disabled sports",
+        "similarity": 0.7086271179401933
+    },
+    {
+        "tag1": "participant sports",
+        "tag2": "extreme sports",
+        "similarity": 0.7089143361831959
+    },
+    {
+        "tag1": "participant sports",
+        "tag2": "fishing sports",
+        "similarity": 0.7171660507203721
+    },
+    {
+        "tag1": "participant sports",
+        "tag2": "olympic sports",
+        "similarity": 0.7714902940408488
+    },
+    {
+        "tag1": "participant sports",
+        "tag2": "sports video games",
+        "similarity": 0.7155402796045388
+    },
+    {
+        "tag1": "men's health",
+        "tag2": "women's health",
+        "similarity": 0.7465420581433431
+    },
+    {
+        "tag1": "men's health",
+        "tag2": "medical health",
+        "similarity": 0.7081640242931995
+    },
+    {
+        "tag1": "alternative medicine",
+        "tag2": "alternative music",
+        "similarity": 0.7267249963864674
+    },
+    {
+        "tag1": "women's health",
+        "tag2": "reproductive health",
+        "similarity": 0.7472678559016876
+    },
+    {
+        "tag1": "model toys",
+        "tag2": "children's games and toys",
+        "similarity": 0.7052955949651553
+    },
+    {
+        "tag1": "musical instruments",
+        "tag2": "classical music",
+        "similarity": 0.7152646072403065
+    },
+    {
+        "tag1": "beadwork",
+        "tag2": "needlework",
+        "similarity": 0.735084048174314
+    },
+    {
+        "tag1": "birdwatching",
+        "tag2": "birds",
+        "similarity": 0.8406284742450657
+    },
+    {
+        "tag1": "audio production",
+        "tag2": "video production",
+        "similarity": 0.7740330973883701
+    },
+    {
+        "tag1": "audio production",
+        "tag2": "digital audio",
+        "similarity": 0.7091331775226509
+    },
+    {
+        "tag1": "board games and puzzles",
+        "tag2": "card games",
+        "similarity": 0.7329158831055913
+    },
+    {
+        "tag1": "board games and puzzles",
+        "tag2": "children's games and toys",
+        "similarity": 0.7358563147133688
+    },
+    {
+        "tag1": "board games and puzzles",
+        "tag2": "puzzle video games",
+        "similarity": 0.7929256980063272
+    },
+    {
+        "tag1": "card games",
+        "tag2": "lotteries and scratchcards",
+        "similarity": 0.7003952384864383
+    },
+    {
+        "tag1": "roleplaying games",
+        "tag2": "role-playing video games",
+        "similarity": 0.9146886407056445
+    },
+    {
+        "tag1": "roleplaying games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7081661977581283
+    },
+    {
+        "tag1": "roleplaying games",
+        "tag2": "adventure video games",
+        "similarity": 0.7247791725246736
+    },
+    {
+        "tag1": "gardening",
+        "tag2": "landscaping",
+        "similarity": 0.7485160716553578
+    },
+    {
+        "tag1": "home appliances",
+        "tag2": "home utilities",
+        "similarity": 0.7765780849772681
+    },
+    {
+        "tag1": "home appliances",
+        "tag2": "home entertainment systems",
+        "similarity": 0.7009410473243489
+    },
+    {
+        "tag1": "home entertaining",
+        "tag2": "home entertainment systems",
+        "similarity": 0.7265845785220325
+    },
+    {
+        "tag1": "interior decorating",
+        "tag2": "outdoor decorating",
+        "similarity": 0.7320545009989028
+    },
+    {
+        "tag1": "medical health",
+        "tag2": "sexual health",
+        "similarity": 0.7123690481978913
+    },
+    {
+        "tag1": "medical health",
+        "tag2": "dental health",
+        "similarity": 0.7321602849550198
+    },
+    {
+        "tag1": "medical health",
+        "tag2": "medical tests",
+        "similarity": 0.7573577106321465
+    },
+    {
+        "tag1": "ear, nose and throat conditions",
+        "tag2": "eye and vision conditions",
+        "similarity": 0.7303914879857057
+    },
+    {
+        "tag1": "endocrine and metabolic diseases",
+        "tag2": "heart and cardiovascular diseases",
+        "similarity": 0.7307786367991201
+    },
+    {
+        "tag1": "heart and cardiovascular diseases",
+        "tag2": "infectious diseases",
+        "similarity": 0.7025694008536962
+    },
+    {
+        "tag1": "heart and cardiovascular diseases",
+        "tag2": "blood disorders",
+        "similarity": 0.7198625436910391
+    },
+    {
+        "tag1": "reproductive health",
+        "tag2": "sexual health",
+        "similarity": 0.7639376815996679
+    },
+    {
+        "tag1": "blood disorders",
+        "tag2": "brain and nervous system disorders",
+        "similarity": 0.7533607378210943
+    },
+    {
+        "tag1": "blood disorders",
+        "tag2": "digestive disorders",
+        "similarity": 0.7227621118253431
+    },
+    {
+        "tag1": "sleep disorders",
+        "tag2": "brain and nervous system disorders",
+        "similarity": 0.7446032632535019
+    },
+    {
+        "tag1": "sleep disorders",
+        "tag2": "digestive disorders",
+        "similarity": 0.714935353024066
+    },
+    {
+        "tag1": "brain and nervous system disorders",
+        "tag2": "digestive disorders",
+        "similarity": 0.7310612771354675
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "romance movies",
+        "similarity": 0.7268554668364062
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "science fiction movies",
+        "similarity": 0.7114656120360116
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "animation movies",
+        "similarity": 0.7153458710054573
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "comedy movies",
+        "similarity": 0.7011530354614215
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "crime and mystery movies",
+        "similarity": 0.7617830215290681
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "drama movies",
+        "similarity": 0.7153564987839611
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "fantasy movies",
+        "similarity": 0.7702633008240707
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "horror movies",
+        "similarity": 0.7310012720342786
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "world movies",
+        "similarity": 0.7134101694570095
+    },
+    {
+        "tag1": "action and adventure movies",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7159831296824333
+    },
+    {
+        "tag1": "romance movies",
+        "tag2": "science fiction movies",
+        "similarity": 0.7296872644925921
+    },
+    {
+        "tag1": "romance movies",
+        "tag2": "comedy movies",
+        "similarity": 0.7370086004096252
+    },
+    {
+        "tag1": "romance movies",
+        "tag2": "crime and mystery movies",
+        "similarity": 0.7187849329699171
+    },
+    {
+        "tag1": "romance movies",
+        "tag2": "drama movies",
+        "similarity": 0.7987595825338829
+    },
+    {
+        "tag1": "romance movies",
+        "tag2": "fantasy movies",
+        "similarity": 0.7455269662314389
+    },
+    {
+        "tag1": "romance movies",
+        "tag2": "horror movies",
+        "similarity": 0.7287045900780404
+    },
+    {
+        "tag1": "science fiction movies",
+        "tag2": "animation movies",
+        "similarity": 0.7006347905532535
+    },
+    {
+        "tag1": "science fiction movies",
+        "tag2": "documentary movies",
+        "similarity": 0.7210737759726856
+    },
+    {
+        "tag1": "science fiction movies",
+        "tag2": "fantasy movies",
+        "similarity": 0.7589090265850562
+    },
+    {
+        "tag1": "science fiction movies",
+        "tag2": "horror movies",
+        "similarity": 0.7244927229850376
+    },
+    {
+        "tag1": "animation movies",
+        "tag2": "comedy movies",
+        "similarity": 0.731927681254941
+    },
+    {
+        "tag1": "animation movies",
+        "tag2": "family and children movies",
+        "similarity": 0.7081159443843577
+    },
+    {
+        "tag1": "animation movies",
+        "tag2": "fantasy movies",
+        "similarity": 0.7445806606408182
+    },
+    {
+        "tag1": "animation movies",
+        "tag2": "horror movies",
+        "similarity": 0.7325097088555258
+    },
+    {
+        "tag1": "animation movies",
+        "tag2": "computer animation",
+        "similarity": 0.7167304174416342
+    },
+    {
+        "tag1": "comedy movies",
+        "tag2": "horror movies",
+        "similarity": 0.7174290427301269
+    },
+    {
+        "tag1": "crime and mystery movies",
+        "tag2": "drama movies",
+        "similarity": 0.7425604777232878
+    },
+    {
+        "tag1": "crime and mystery movies",
+        "tag2": "horror movies",
+        "similarity": 0.7487012730762534
+    },
+    {
+        "tag1": "documentary movies",
+        "tag2": "drama movies",
+        "similarity": 0.7161880085313777
+    },
+    {
+        "tag1": "documentary movies",
+        "tag2": "horror movies",
+        "similarity": 0.7323031197047656
+    },
+    {
+        "tag1": "drama movies",
+        "tag2": "fantasy movies",
+        "similarity": 0.7087031781106565
+    },
+    {
+        "tag1": "drama movies",
+        "tag2": "horror movies",
+        "similarity": 0.7294123188133796
+    },
+    {
+        "tag1": "drama movies",
+        "tag2": "drama tv",
+        "similarity": 0.7274469001110351
+    },
+    {
+        "tag1": "fantasy movies",
+        "tag2": "horror movies",
+        "similarity": 0.7502530938516816
+    },
+    {
+        "tag1": "fantasy movies",
+        "tag2": "world movies",
+        "similarity": 0.7127441474088124
+    },
+    {
+        "tag1": "soft ac music",
+        "tag2": "urban ac music",
+        "similarity": 0.799422233232582
+    },
+    {
+        "tag1": "urban ac music",
+        "tag2": "urban contemporary music",
+        "similarity": 0.8240978441429943
+    },
+    {
+        "tag1": "adult album alternative",
+        "tag2": "alternative music",
+        "similarity": 0.7583774286219621
+    },
+    {
+        "tag1": "children's music",
+        "tag2": "classical music",
+        "similarity": 0.7091599828661552
+    },
+    {
+        "tag1": "children's music",
+        "tag2": "religious (music and audio)",
+        "similarity": 0.7053562896250596
+    },
+    {
+        "tag1": "children's music",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.7000698146265216
+    },
+    {
+        "tag1": "college radio",
+        "tag2": "sports radio",
+        "similarity": 0.7444416612859839
+    },
+    {
+        "tag1": "comedy (music and audio)",
+        "tag2": "religious (music and audio)",
+        "similarity": 0.7398571035936863
+    },
+    {
+        "tag1": "comedy (music and audio)",
+        "tag2": "soundtracks, tv and showtunes",
+        "similarity": 0.7031324048371491
+    },
+    {
+        "tag1": "comedy (music and audio)",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.7741799889141968
+    },
+    {
+        "tag1": "country music",
+        "tag2": "gospel music",
+        "similarity": 0.7198146759098377
+    },
+    {
+        "tag1": "dance and electronic music",
+        "tag2": "soundtracks, tv and showtunes",
+        "similarity": 0.7011500984974488
+    },
+    {
+        "tag1": "dance and electronic music",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.7181106659606532
+    },
+    {
+        "tag1": "dance and electronic music",
+        "tag2": "music and party video games",
+        "similarity": 0.7354102274316929
+    },
+    {
+        "tag1": "gospel music",
+        "tag2": "religious (music and audio)",
+        "similarity": 0.7369179393046741
+    },
+    {
+        "tag1": "hip hop music",
+        "tag2": "urban contemporary music",
+        "similarity": 0.7140281087183866
+    },
+    {
+        "tag1": "religious (music and audio)",
+        "tag2": "soundtracks, tv and showtunes",
+        "similarity": 0.7261941149451944
+    },
+    {
+        "tag1": "religious (music and audio)",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.775209275932675
+    },
+    {
+        "tag1": "religious (music and audio)",
+        "tag2": "religion & spirituality",
+        "similarity": 0.7034122872866678
+    },
+    {
+        "tag1": "soundtracks, tv and showtunes",
+        "tag2": "variety (music and audio)",
+        "similarity": 0.7588903855276494
+    },
+    {
+        "tag1": "soundtracks, tv and showtunes",
+        "tag2": "television",
+        "similarity": 0.719685442832598
+    },
+    {
+        "tag1": "soundtracks, tv and showtunes",
+        "tag2": "music tv",
+        "similarity": 0.8024308504115873
+    },
+    {
+        "tag1": "sports radio",
+        "tag2": "talk radio",
+        "similarity": 0.7343630791542912
+    },
+    {
+        "tag1": "sports radio",
+        "tag2": "sports tv",
+        "similarity": 0.8234107210662096
+    },
+    {
+        "tag1": "news and politics",
+        "tag2": "national news",
+        "similarity": 0.7033531235676935
+    },
+    {
+        "tag1": "international news",
+        "tag2": "national news",
+        "similarity": 0.7831044590818947
+    },
+    {
+        "tag1": "local news",
+        "tag2": "national news",
+        "similarity": 0.7323523848921222
+    },
+    {
+        "tag1": "personal finance",
+        "tag2": "personal debt",
+        "similarity": 0.7766836167861371
+    },
+    {
+        "tag1": "personal finance",
+        "tag2": "personal investing",
+        "similarity": 0.7557678012127986
+    },
+    {
+        "tag1": "personal finance",
+        "tag2": "personal taxes",
+        "similarity": 0.7261102000100853
+    },
+    {
+        "tag1": "financial planning",
+        "tag2": "retirement planning",
+        "similarity": 0.7177672866774064
+    },
+    {
+        "tag1": "personal debt",
+        "tag2": "personal taxes",
+        "similarity": 0.7222102839062841
+    },
+    {
+        "tag1": "dogs",
+        "tag2": "large animals",
+        "similarity": 0.7534478934576074
+    },
+    {
+        "tag1": "pet supplies",
+        "tag2": "household supplies",
+        "similarity": 0.7030082259052274
+    },
+    {
+        "tag1": "retail property",
+        "tag2": "hotel properties",
+        "similarity": 0.7095128537155877
+    },
+    {
+        "tag1": "retail property",
+        "tag2": "industrial property",
+        "similarity": 0.703903762622724
+    },
+    {
+        "tag1": "retail property",
+        "tag2": "office property",
+        "similarity": 0.7272841759505075
+    },
+    {
+        "tag1": "vacation properties",
+        "tag2": "hotel properties",
+        "similarity": 0.8141301923183165
+    },
+    {
+        "tag1": "hotel properties",
+        "tag2": "hotels and motels",
+        "similarity": 0.7631768680449726
+    },
+    {
+        "tag1": "industrial property",
+        "tag2": "office property",
+        "similarity": 0.7247428980093816
+    },
+    {
+        "tag1": "real estate buying and selling",
+        "tag2": "real estate renting and leasing",
+        "similarity": 0.7859116012293976
+    },
+    {
+        "tag1": "religion & spirituality",
+        "tag2": "spirituality",
+        "similarity": 0.8740590042644606
+    },
+    {
+        "tag1": "geography",
+        "tag2": "geology",
+        "similarity": 0.7256418465313357
+    },
+    {
+        "tag1": "grocery shopping",
+        "tag2": "holiday shopping",
+        "similarity": 0.7413343487881856
+    },
+    {
+        "tag1": "holiday shopping",
+        "tag2": "holiday tv",
+        "similarity": 0.7171944244711026
+    },
+    {
+        "tag1": "american football",
+        "tag2": "australian rules football",
+        "similarity": 0.8114175345852404
+    },
+    {
+        "tag1": "boxing",
+        "tag2": "martial arts",
+        "similarity": 0.702266205953517
+    },
+    {
+        "tag1": "field hockey",
+        "tag2": "ice hockey",
+        "similarity": 0.7565365235676023
+    },
+    {
+        "tag1": "figure skating",
+        "tag2": "inline skating",
+        "similarity": 0.7839784265514014
+    },
+    {
+        "tag1": "fishing sports",
+        "tag2": "olympic sports",
+        "similarity": 0.712951819897719
+    },
+    {
+        "tag1": "snooker/pool/billiards",
+        "tag2": "table tennis",
+        "similarity": 0.7183789876270013
+    },
+    {
+        "tag1": "softball",
+        "tag2": "baseball",
+        "similarity": 0.713777058591569
+    },
+    {
+        "tag1": "table tennis",
+        "tag2": "tennis",
+        "similarity": 0.785281001905146
+    },
+    {
+        "tag1": "volleyball",
+        "tag2": "beach volleyball",
+        "similarity": 0.8421139393388003
+    },
+    {
+        "tag1": "beach volleyball",
+        "tag2": "beach travel",
+        "similarity": 0.7285321118824376
+    },
+    {
+        "tag1": "sports equipment",
+        "tag2": "sports video games",
+        "similarity": 0.7107438848604326
+    },
+    {
+        "tag1": "style & fashion",
+        "tag2": "fashion trends",
+        "similarity": 0.7680570863828707
+    },
+    {
+        "tag1": "style & fashion",
+        "tag2": "high fashion",
+        "similarity": 0.7050362539850774
+    },
+    {
+        "tag1": "women's accessories",
+        "tag2": "women's clothing",
+        "similarity": 0.7435677796523267
+    },
+    {
+        "tag1": "women's accessories",
+        "tag2": "women's shoes and footwear",
+        "similarity": 0.7208243692937433
+    },
+    {
+        "tag1": "women's accessories",
+        "tag2": "men's accessories",
+        "similarity": 0.8041623215360668
+    },
+    {
+        "tag1": "women's clothing",
+        "tag2": "women's shoes and footwear",
+        "similarity": 0.8014317520667349
+    },
+    {
+        "tag1": "women's clothing",
+        "tag2": "children's clothing",
+        "similarity": 0.746254671177391
+    },
+    {
+        "tag1": "women's clothing",
+        "tag2": "designer clothing",
+        "similarity": 0.7391350107496201
+    },
+    {
+        "tag1": "women's clothing",
+        "tag2": "men's clothing",
+        "similarity": 0.7653144654293493
+    },
+    {
+        "tag1": "women's shoes and footwear",
+        "tag2": "men's shoes and footwear",
+        "similarity": 0.8187569083481137
+    },
+    {
+        "tag1": "children's clothing",
+        "tag2": "men's clothing",
+        "similarity": 0.717975319984753
+    },
+    {
+        "tag1": "designer clothing",
+        "tag2": "fashion trends",
+        "similarity": 0.7120089021803231
+    },
+    {
+        "tag1": "designer clothing",
+        "tag2": "high fashion",
+        "similarity": 0.7062265178060899
+    },
+    {
+        "tag1": "designer clothing",
+        "tag2": "men's clothing",
+        "similarity": 0.7246192675400147
+    },
+    {
+        "tag1": "fashion trends",
+        "tag2": "high fashion",
+        "similarity": 0.7004051863262883
+    },
+    {
+        "tag1": "men's accessories",
+        "tag2": "men's clothing",
+        "similarity": 0.7493543297223825
+    },
+    {
+        "tag1": "men's accessories",
+        "tag2": "men's shoes and footwear",
+        "similarity": 0.7172458448548235
+    },
+    {
+        "tag1": "men's clothing",
+        "tag2": "men's shoes and footwear",
+        "similarity": 0.8004050760283714
+    },
+    {
+        "tag1": "augmented reality",
+        "tag2": "virtual reality",
+        "similarity": 0.7338180295756901
+    },
+    {
+        "tag1": "computer peripherals",
+        "tag2": "laptops",
+        "similarity": 0.7026161278322963
+    },
+    {
+        "tag1": "photo editing software",
+        "tag2": "video software",
+        "similarity": 0.720115728239402
+    },
+    {
+        "tag1": "photo editing software",
+        "tag2": "graphics software",
+        "similarity": 0.7253886256564845
+    },
+    {
+        "tag1": "video software",
+        "tag2": "graphics software",
+        "similarity": 0.7653209529200988
+    },
+    {
+        "tag1": "computer animation",
+        "tag2": "animation tv",
+        "similarity": 0.7209611509316816
+    },
+    {
+        "tag1": "desktop publishing",
+        "tag2": "desktops",
+        "similarity": 0.7439842146961689
+    },
+    {
+        "tag1": "desktops",
+        "tag2": "laptops",
+        "similarity": 0.7012128388774893
+    },
+    {
+        "tag1": "internet",
+        "tag2": "internet of things",
+        "similarity": 0.7107361291034521
+    },
+    {
+        "tag1": "web development",
+        "tag2": "web design and html",
+        "similarity": 0.7952639658796526
+    },
+    {
+        "tag1": "smartphones",
+        "tag2": "mobile games",
+        "similarity": 0.7283593143814778
+    },
+    {
+        "tag1": "television",
+        "tag2": "animation tv",
+        "similarity": 0.7859535551056539
+    },
+    {
+        "tag1": "television",
+        "tag2": "soap opera tv",
+        "similarity": 0.7875999272235692
+    },
+    {
+        "tag1": "television",
+        "tag2": "special interest tv",
+        "similarity": 0.7380986973390545
+    },
+    {
+        "tag1": "television",
+        "tag2": "sports tv",
+        "similarity": 0.7917876494515134
+    },
+    {
+        "tag1": "television",
+        "tag2": "children's tv",
+        "similarity": 0.7873504326177593
+    },
+    {
+        "tag1": "television",
+        "tag2": "comedy tv",
+        "similarity": 0.773624655759212
+    },
+    {
+        "tag1": "television",
+        "tag2": "drama tv",
+        "similarity": 0.7916294727049802
+    },
+    {
+        "tag1": "television",
+        "tag2": "factual tv",
+        "similarity": 0.7788816593601409
+    },
+    {
+        "tag1": "television",
+        "tag2": "holiday tv",
+        "similarity": 0.713328761092203
+    },
+    {
+        "tag1": "television",
+        "tag2": "music tv",
+        "similarity": 0.7975014590120815
+    },
+    {
+        "tag1": "television",
+        "tag2": "science fiction tv",
+        "similarity": 0.8037665380713165
+    },
+    {
+        "tag1": "animation tv",
+        "tag2": "children's tv",
+        "similarity": 0.7952301254704468
+    },
+    {
+        "tag1": "animation tv",
+        "tag2": "comedy tv",
+        "similarity": 0.7039291158341905
+    },
+    {
+        "tag1": "animation tv",
+        "tag2": "science fiction tv",
+        "similarity": 0.7030930965370354
+    },
+    {
+        "tag1": "soap opera tv",
+        "tag2": "drama tv",
+        "similarity": 0.78784708295979
+    },
+    {
+        "tag1": "soap opera tv",
+        "tag2": "science fiction tv",
+        "similarity": 0.7577480085613505
+    },
+    {
+        "tag1": "sports tv",
+        "tag2": "factual tv",
+        "similarity": 0.7016646606870618
+    },
+    {
+        "tag1": "sports tv",
+        "tag2": "music tv",
+        "similarity": 0.7316508281979432
+    },
+    {
+        "tag1": "sports tv",
+        "tag2": "sports video games",
+        "similarity": 0.7317424422031782
+    },
+    {
+        "tag1": "children's tv",
+        "tag2": "music tv",
+        "similarity": 0.7062937794469475
+    },
+    {
+        "tag1": "children's tv",
+        "tag2": "science fiction tv",
+        "similarity": 0.7085382767673654
+    },
+    {
+        "tag1": "drama tv",
+        "tag2": "music tv",
+        "similarity": 0.705450132382522
+    },
+    {
+        "tag1": "drama tv",
+        "tag2": "science fiction tv",
+        "similarity": 0.7278868159921141
+    },
+    {
+        "tag1": "factual tv",
+        "tag2": "reality tv",
+        "similarity": 0.7607360346434144
+    },
+    {
+        "tag1": "factual tv",
+        "tag2": "science fiction tv",
+        "similarity": 0.7118263678547323
+    },
+    {
+        "tag1": "africa travel",
+        "tag2": "south america travel",
+        "similarity": 0.7401374213831514
+    },
+    {
+        "tag1": "africa travel",
+        "tag2": "adventure travel",
+        "similarity": 0.7073446163860186
+    },
+    {
+        "tag1": "asia travel",
+        "tag2": "south america travel",
+        "similarity": 0.7151011485640721
+    },
+    {
+        "tag1": "asia travel",
+        "tag2": "adventure travel",
+        "similarity": 0.7151332260185693
+    },
+    {
+        "tag1": "north america travel",
+        "tag2": "south america travel",
+        "similarity": 0.7787984952388443
+    },
+    {
+        "tag1": "adventure travel",
+        "tag2": "honeymoons and getaways",
+        "similarity": 0.7003104884993516
+    },
+    {
+        "tag1": "adventure travel",
+        "tag2": "air travel",
+        "similarity": 0.7588948587562059
+    },
+    {
+        "tag1": "adventure travel",
+        "tag2": "beach travel",
+        "similarity": 0.7052763361557195
+    },
+    {
+        "tag1": "adventure travel",
+        "tag2": "business travel",
+        "similarity": 0.7190955821041303
+    },
+    {
+        "tag1": "road trips",
+        "tag2": "day trips",
+        "similarity": 0.7181252409093515
+    },
+    {
+        "tag1": "air travel",
+        "tag2": "business travel",
+        "similarity": 0.7302612878090051
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "console games",
+        "similarity": 0.7792650972814147
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "pc games",
+        "similarity": 0.7621886456164938
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "action video games",
+        "similarity": 0.8135817133229515
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "role-playing video games",
+        "similarity": 0.771398300311473
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "simulation video games",
+        "similarity": 0.7666910913176586
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "sports video games",
+        "similarity": 0.8225699338518306
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "strategy video games",
+        "similarity": 0.7919969547164573
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "action-adventure video games",
+        "similarity": 0.791722938186038
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "adventure video games",
+        "similarity": 0.7991007221121634
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "educational video games",
+        "similarity": 0.7574211854655147
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7836922206750174
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "music and party video games",
+        "similarity": 0.7827975075322151
+    },
+    {
+        "tag1": "video gaming",
+        "tag2": "puzzle video games",
+        "similarity": 0.7856244380376428
+    },
+    {
+        "tag1": "console games",
+        "tag2": "mobile games",
+        "similarity": 0.7110612162877683
+    },
+    {
+        "tag1": "console games",
+        "tag2": "pc games",
+        "similarity": 0.7627721165652115
+    },
+    {
+        "tag1": "console games",
+        "tag2": "action video games",
+        "similarity": 0.7621913549641577
+    },
+    {
+        "tag1": "console games",
+        "tag2": "role-playing video games",
+        "similarity": 0.7165976277482463
+    },
+    {
+        "tag1": "console games",
+        "tag2": "simulation video games",
+        "similarity": 0.7273287984557004
+    },
+    {
+        "tag1": "console games",
+        "tag2": "sports video games",
+        "similarity": 0.7624859102489512
+    },
+    {
+        "tag1": "console games",
+        "tag2": "strategy video games",
+        "similarity": 0.7296648984921379
+    },
+    {
+        "tag1": "console games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7440580544035408
+    },
+    {
+        "tag1": "console games",
+        "tag2": "adventure video games",
+        "similarity": 0.7347588462171152
+    },
+    {
+        "tag1": "console games",
+        "tag2": "educational video games",
+        "similarity": 0.7061691820356643
+    },
+    {
+        "tag1": "console games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.707010949397612
+    },
+    {
+        "tag1": "console games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7498917032948638
+    },
+    {
+        "tag1": "mobile games",
+        "tag2": "action video games",
+        "similarity": 0.7078222210120544
+    },
+    {
+        "tag1": "mobile games",
+        "tag2": "sports video games",
+        "similarity": 0.7043351686292149
+    },
+    {
+        "tag1": "mobile games",
+        "tag2": "adventure video games",
+        "similarity": 0.7047140270609196
+    },
+    {
+        "tag1": "mobile games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7119141958193349
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "action video games",
+        "similarity": 0.7165332948268333
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "simulation video games",
+        "similarity": 0.7112368299742443
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "sports video games",
+        "similarity": 0.7268714865333697
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "strategy video games",
+        "similarity": 0.7045988429228759
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7157531664538086
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "adventure video games",
+        "similarity": 0.7327545372667953
+    },
+    {
+        "tag1": "pc games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7090897389073295
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "role-playing video games",
+        "similarity": 0.7650154168792049
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "simulation video games",
+        "similarity": 0.7659251048754868
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "sports video games",
+        "similarity": 0.7989754999163348
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "strategy video games",
+        "similarity": 0.7796606508228565
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.9447422698104969
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "adventure video games",
+        "similarity": 0.8214373070493055
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "educational video games",
+        "similarity": 0.7237816614009271
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.796814308850175
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "music and party video games",
+        "similarity": 0.7288541523848752
+    },
+    {
+        "tag1": "action video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7567278612683322
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "simulation video games",
+        "similarity": 0.759996906719801
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "sports video games",
+        "similarity": 0.7216341279370005
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "strategy video games",
+        "similarity": 0.7580622032345988
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.8128347425319387
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "adventure video games",
+        "similarity": 0.8157064710021591
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "educational video games",
+        "similarity": 0.7009855881830799
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7077995011940463
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "music and party video games",
+        "similarity": 0.7113427922974105
+    },
+    {
+        "tag1": "role-playing video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7231398612722317
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "sports video games",
+        "similarity": 0.7434815479095931
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "strategy video games",
+        "similarity": 0.7738505041904109
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7512162751964365
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "adventure video games",
+        "similarity": 0.7341987674613077
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "educational video games",
+        "similarity": 0.7472673635578299
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7251723092059985
+    },
+    {
+        "tag1": "simulation video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7173306331112917
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "strategy video games",
+        "similarity": 0.7622290895088056
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7677522704170643
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "adventure video games",
+        "similarity": 0.7475676515881104
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "educational video games",
+        "similarity": 0.7325981346053502
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.8055871728595658
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "music and party video games",
+        "similarity": 0.7275126780291226
+    },
+    {
+        "tag1": "sports video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7416404429899781
+    },
+    {
+        "tag1": "strategy video games",
+        "tag2": "action-adventure video games",
+        "similarity": 0.7694790348659917
+    },
+    {
+        "tag1": "strategy video games",
+        "tag2": "adventure video games",
+        "similarity": 0.752028126368961
+    },
+    {
+        "tag1": "strategy video games",
+        "tag2": "educational video games",
+        "similarity": 0.7204129117956131
+    },
+    {
+        "tag1": "strategy video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.725660260577573
+    },
+    {
+        "tag1": "strategy video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7497198400526117
+    },
+    {
+        "tag1": "action-adventure video games",
+        "tag2": "adventure video games",
+        "similarity": 0.8857633249171518
+    },
+    {
+        "tag1": "action-adventure video games",
+        "tag2": "educational video games",
+        "similarity": 0.7265632792337032
+    },
+    {
+        "tag1": "action-adventure video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7930882962364406
+    },
+    {
+        "tag1": "action-adventure video games",
+        "tag2": "music and party video games",
+        "similarity": 0.7290196890794447
+    },
+    {
+        "tag1": "action-adventure video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7581756990027827
+    },
+    {
+        "tag1": "adventure video games",
+        "tag2": "educational video games",
+        "similarity": 0.7788923287392713
+    },
+    {
+        "tag1": "adventure video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7718762583252559
+    },
+    {
+        "tag1": "adventure video games",
+        "tag2": "music and party video games",
+        "similarity": 0.7442549672102624
+    },
+    {
+        "tag1": "adventure video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7924055838748014
+    },
+    {
+        "tag1": "educational video games",
+        "tag2": "exercise and fitness video games",
+        "similarity": 0.7327542126052877
+    },
+    {
+        "tag1": "educational video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7462518882258156
+    },
+    {
+        "tag1": "exercise and fitness video games",
+        "tag2": "music and party video games",
+        "similarity": 0.7063172635403501
+    },
+    {
+        "tag1": "exercise and fitness video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.72827913624315
+    },
+    {
+        "tag1": "music and party video games",
+        "tag2": "puzzle video games",
+        "similarity": 0.7097463727215938
+    }
+]

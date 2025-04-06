@@ -1,0 +1,33 @@
+2025-04-06 19:14:35 [INFO] Starting tag relations computation...
+2025-04-06 19:14:35 [INFO] Loaded 713 tags.
+2025-04-06 19:14:36 [INFO] Embedding cache loaded successfully.
+2025-04-06 19:14:36 [INFO] Embeddings computed for all tags.
+2025-04-06 19:14:36 [INFO] Similarity matrix computed.
+2025-04-06 19:14:36 [INFO] Found 3793 strong tag relationships.
+2025-04-06 19:14:36 [INFO] Relations saved to tag_relations.json
+2025-04-06 19:14:36 [INFO] Graphviz DOT file saved to tag_relations.dot
+2025-04-06 19:14:36 [INFO] Relations report saved to tag_relations_report.txt
+2025-04-06 19:14:36 [INFO] Tag relations computation completed in 0.82 seconds.
+2025-04-06 19:14:39 [INFO] Embedding cache saved successfully.
+2025-04-06 19:44:35 [INFO] Starting tag relations computation...
+2025-04-06 19:44:35 [INFO] Loaded 713 tags.
+2025-04-06 19:44:35 [INFO] Embedding cache loaded successfully.
+2025-04-06 19:44:36 [INFO] Embeddings computed for all tags.
+2025-04-06 19:44:36 [INFO] Similarity matrix computed.
+2025-04-06 19:44:36 [INFO] Found 993 strong tag relationships.
+2025-04-06 19:44:36 [INFO] Relations saved to tag_relations2.json
+2025-04-06 19:44:36 [INFO] Graphviz DOT file saved to tag_relations2.dot
+2025-04-06 19:44:36 [INFO] Relations report saved to tag_relations_report2.txt
+2025-04-06 19:44:36 [INFO] Tag relations computation completed in 0.76 seconds.
+2025-04-06 19:44:38 [INFO] Embedding cache saved successfully.
+2025-04-06 19:54:54 [INFO] Starting tag relations computation...
+2025-04-06 19:54:54 [INFO] Loaded 713 tags.
+2025-04-06 19:54:55 [INFO] Embedding cache loaded successfully.
+2025-04-06 19:54:55 [INFO] Embeddings computed for all tags.
+2025-04-06 19:54:55 [INFO] Similarity matrix computed.
+2025-04-06 19:54:55 [INFO] Found 196 strong tag relationships.
+2025-04-06 19:54:55 [INFO] Relations saved to tag_relations3.json
+2025-04-06 19:54:55 [INFO] Graphviz DOT file saved to tag_relations4.dot
+2025-04-06 19:54:55 [INFO] Relations report saved to tag_relations_report3.txt
+2025-04-06 19:54:55 [INFO] Tag relations computation completed in 0.75 seconds.
+2025-04-06 19:54:58 [INFO] Embedding cache saved successfully.

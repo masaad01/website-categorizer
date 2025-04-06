@@ -1,720 +1,720 @@
 Tag Hierarchy Report
 ====================
 
-Genericity scores for each tag:
-ID 1 - entertainment: Genericity 0.4966
-ID 2 - novels: Genericity 0.4252
-ID 3 - news: Genericity 0.4673
-ID 4 - social media: Genericity 0.3984
-ID 5 - learning: Genericity 0.4348
-ID 6 - education: Genericity 0.4425
-ID 7 - science: Genericity 0.4516
-ID 8 - media: Genericity 0.4538
-ID 9 - wiki: Genericity 0.3843
-ID 10 - information: Genericity 0.4602
-ID 11 - math: Genericity 0.4344
-ID 12 - history: Genericity 0.4257
-ID 13 - technology: Genericity 0.4520
-ID 14 - innovation: Genericity 0.4222
-ID 15 - health: Genericity 0.4434
-ID 16 - wellness: Genericity 0.4240
-ID 17 - sports: Genericity 0.4692
-ID 18 - politics: Genericity 0.4388
-ID 19 - government: Genericity 0.4059
-ID 20 - business: Genericity 0.4550
-ID 21 - finance: Genericity 0.4299
-ID 22 - music: Genericity 0.4754
-ID 23 - travel: Genericity 0.4519
-ID 24 - lifestyle: Genericity 0.4462
-ID 25 - art: Genericity 0.4286
-ID 26 - culture: Genericity 0.4258
-ID 27 - food: Genericity 0.4450
-ID 28 - environment: Genericity 0.4433
-ID 29 - sustainability: Genericity 0.3804
-ID 30 - psychology: Genericity 0.4276
-ID 31 - philosophy: Genericity 0.4318
-ID 32 - literature: Genericity 0.4296
-ID 33 - gaming: Genericity 0.4584
-ID 34 - comedy: Genericity 0.4244
-ID 35 - fashion: Genericity 0.4368
-ID 36 - design: Genericity 0.4140
-ID 37 - mathematics: Genericity 0.4319
-ID 38 - literacy: Genericity 0.4128
-ID 39 - astronomy: Genericity 0.4482
-ID 40 - climate: Genericity 0.4037
-ID 41 - architecture: Genericity 0.4122
-ID 42 - gadgets: Genericity 0.4230
-ID 43 - software: Genericity 0.4361
-ID 44 - style: Genericity 0.4268
-ID 45 - fitness: Genericity 0.4513
-ID 46 - recipes: Genericity 0.4230
-ID 47 - cooking: Genericity 0.4377
-ID 48 - destinations: Genericity 0.4357
-ID 49 - adventures: Genericity 0.4480
-ID 50 - events: Genericity 0.4677
-ID 51 - entrepreneurship: Genericity 0.4029
-ID 52 - courses: Genericity 0.4486
-ID 53 - esports: Genericity 0.4062
-ID 54 - reviews: Genericity 0.4211
-ID 55 - manga: Genericity 0.4221
-ID 56 - comics: Genericity 0.4234
-ID 57 - albums: Genericity 0.4380
-ID 58 - concerts: Genericity 0.4297
-ID 59 - movies: Genericity 0.4490
-ID 60 - films: Genericity 0.4446
-ID 61 - photography: Genericity 0.4566
-ID 62 - diy: Genericity 0.3948
-ID 63 - crafts: Genericity 0.4536
-ID 64 - home improvement: Genericity 0.3855
-ID 65 - pets: Genericity 0.4120
-ID 66 - animals: Genericity 0.4597
-ID 67 - care: Genericity 0.4189
-ID 68 - parenting: Genericity 0.4132
-ID 69 - family: Genericity 0.4218
-ID 70 - kids: Genericity 0.4240
-ID 71 - current affairs: Genericity 0.3881
-ID 72 - research: Genericity 0.4330
-ID 73 - discoveries: Genericity 0.4416
-ID 74 - heritage: Genericity 0.4175
-ID 75 - investing: Genericity 0.4158
-ID 76 - cryptocurrency: Genericity 0.4257
-ID 77 - automotive: Genericity 0.4322
-ID 78 - cars: Genericity 0.4526
-ID 79 - motorcycles: Genericity 0.4290
-ID 80 - real estate: Genericity 0.4036
-ID 81 - property: Genericity 0.4163
-ID 82 - housing: Genericity 0.3948
-ID 83 - nature: Genericity 0.4458
-ID 84 - mental health: Genericity 0.3966
-ID 85 - self-help: Genericity 0.4298
-ID 86 - startups: Genericity 0.4085
-ID 87 - poetry: Genericity 0.4256
-ID 88 - writing: Genericity 0.4207
-ID 89 - marketing: Genericity 0.4520
-ID 90 - influencers: Genericity 0.3882
-ID 91 - gambling: Genericity 0.4181
-ID 92 - casinos: Genericity 0.4219
-ID 93 - betting: Genericity 0.4346
-ID 94 - space: Genericity 0.4022
-ID 95 - astrophysics: Genericity 0.3960
-ID 96 - nutrition: Genericity 0.4246
-ID 97 - exercise: Genericity 0.4526
-ID 98 - shopping: Genericity 0.4279
-ID 99 - sales: Genericity 0.4278
-ID 100 - deals: Genericity 0.4015
-ID 101 - luxury: Genericity 0.4065
-ID 102 - high-end: Genericity 0.3845
-ID 103 - blockchain: Genericity 0.3893
-ID 104 - nfts: Genericity 0.3918
-ID 105 - vacation: Genericity 0.4066
-ID 106 - holidays: Genericity 0.3956
-ID 107 - getaways: Genericity 0.4131
-ID 108 - interior: Genericity 0.3630
-ID 109 - weddings: Genericity 0.4172
-ID 110 - marriage: Genericity 0.4236
-ID 111 - humor: Genericity 0.4391
-ID 112 - funny: Genericity 0.3919
-ID 113 - banks: Genericity 0.4408
-ID 114 - insurance: Genericity 0.4220
-ID 115 - universities: Genericity 0.4206
-ID 116 - online learning: Genericity 0.4058
-ID 117 - public services: Genericity 0.4227
-ID 118 - legal: Genericity 0.4319
-ID 119 - judiciary: Genericity 0.3917
-ID 120 - healthcare: Genericity 0.4436
-ID 121 - hospitals: Genericity 0.4286
-ID 122 - telecommunications: Genericity 0.4121
-ID 123 - anime: Genericity 0.4196
-ID 124 - nonprofits: Genericity 0.3998
-ID 125 - ngos: Genericity 0.3818
-ID 126 - ecommerce: Genericity 0.4141
-ID 127 - online store: Genericity 0.3920
-ID 128 - corporate: Genericity 0.4187
-ID 129 - blog: Genericity 0.4175
-ID 130 - personal blog: Genericity 0.3685
-ID 131 - portfolio: Genericity 0.3985
-ID 132 - creative work: Genericity 0.4041
-ID 133 - event: Genericity 0.4695
-ID 134 - event promotion: Genericity 0.4254
-ID 135 - personal: Genericity 0.4076
-ID 136 - resume: Genericity 0.3876
-ID 137 - membership: Genericity 0.4068
-ID 138 - community: Genericity 0.4320
-ID 139 - nonprofit: Genericity 0.3949
-ID 140 - charity: Genericity 0.4374
-ID 141 - informational: Genericity 0.4323
-ID 142 - forum: Genericity 0.4032
-ID 143 - discussion: Genericity 0.4126
-ID 144 - social network: Genericity 0.3977
-ID 145 - startup: Genericity 0.3878
-ID 146 - entrepreneur: Genericity 0.3959
-ID 147 - consulting: Genericity 0.4126
-ID 148 - professional services: Genericity 0.4075
-ID 149 - booking: Genericity 0.4262
-ID 150 - appointments: Genericity 0.4035
-ID 151 - petition: Genericity 0.4010
-ID 152 - activism: Genericity 0.4028
-ID 153 - school: Genericity 0.4436
-ID 154 - hobby: Genericity 0.4565
-ID 155 - interest: Genericity 0.4331
-ID 156 - interactive: Genericity 0.4371
-ID 157 - engagement: Genericity 0.3958
-ID 158 - wedding: Genericity 0.4139
-ID 159 - event planning: Genericity 0.4255
-ID 160 - tourism: Genericity 0.4465
-ID 161 - directory: Genericity 0.3906
-ID 162 - listing: Genericity 0.4326
-ID 163 - landing page: Genericity 0.3760
-ID 164 - magazine: Genericity 0.4369
-ID 165 - memorial: Genericity 0.4022
-ID 166 - tribute: Genericity 0.3975
-ID 167 - subscription: Genericity 0.4227
-ID 168 - content service: Genericity 0.4152
-ID 169 - kid-friendly: Genericity 0.3960
-ID 170 - children: Genericity 0.4289
-ID 171 - novels and literature: Genericity 0.4281
-ID 172 - movies and tv shows: Genericity 0.4598
-ID 173 - music and audio: Genericity 0.4415
-ID 174 - arts and culture: Genericity 0.4292
-ID 175 - investment & trading: Genericity 0.3814
-ID 176 - e-commerce & retail: Genericity 0.4344
-ID 177 - business services: Genericity 0.4040
-ID 178 - universities & colleges: Genericity 0.4340
-ID 179 - k-12 & schools: Genericity 0.4289
-ID 180 - online learning & moocs: Genericity 0.4294
-ID 181 - professional development: Genericity 0.3952
-ID 182 - educational resources: Genericity 0.4290
-ID 183 - federal, state, & local: Genericity 0.4208
-ID 184 - public safety & law enforcement: Genericity 0.3859
-ID 185 - judiciary & legal: Genericity 0.3989
-ID 186 - public utilities & infrastructure: Genericity 0.3714
-ID 187 - civic engagement: Genericity 0.3743
-ID 188 - hospitals & clinics: Genericity 0.4357
-ID 189 - health information & wellness: Genericity 0.4074
-ID 190 - pharmaceutical & drug information: Genericity 0.3979
-ID 191 - fitness & lifestyle: Genericity 0.4361
-ID 192 - mental health & counseling: Genericity 0.3981
-ID 193 - tech companies & startups: Genericity 0.4109
-ID 194 - research & development: Genericity 0.4103
-ID 195 - gadgets & reviews: Genericity 0.3949
-ID 196 - software & applications: Genericity 0.4333
-ID 197 - scientific organizations: Genericity 0.3960
-ID 198 - general news portals: Genericity 0.4096
-ID 199 - local & community news: Genericity 0.4015
-ID 200 - specialized magazines & blogs: Genericity 0.4017
-ID 201 - journalism & opinion: Genericity 0.3860
-ID 202 - entertainment news: Genericity 0.4487
-ID 203 - social: Genericity 0.4261
-ID 204 - social networking: Genericity 0.3954
-ID 205 - online forums & discussion boards: Genericity 0.4035
-ID 206 - nonprofits & ngos: Genericity 0.4095
-ID 207 - cultural & community events: Genericity 0.4149
-ID 208 - travel & tourism: Genericity 0.4207
-ID 209 - food & dining: Genericity 0.3917
-ID 210 - fashion & beauty: Genericity 0.4046
-ID 211 - home & garden: Genericity 0.3905
-ID 212 - personal finance & lifestyle management: Genericity 0.3976
-ID 213 - professional leagues & teams: Genericity 0.4308
-ID 214 - sports news & analysis: Genericity 0.4007
-ID 215 - fan communities & forums: Genericity 0.3730
-ID 216 - fitness & outdoor sports: Genericity 0.4521
-ID 217 - law firms & legal services: Genericity 0.3873
-ID 218 - legal information & resources: Genericity 0.3782
-ID 219 - regulatory & compliance: Genericity 0.3808
-ID 220 - hobbies: Genericity 0.4648
-ID 221 - arts & crafts: Genericity 0.4432
-ID 222 - photography & videography: Genericity 0.4411
-ID 223 - gaming (hobbyist): Genericity 0.4369
-ID 224 - uncategorized: Genericity 0.3530
-ID 225 - car culture: Genericity 0.4060
-ID 226 - road-side assistance: Genericity 0.3956
-ID 227 - scooters: Genericity 0.4221
-ID 228 - auto buying and selling: Genericity 0.4075
-ID 229 - auto insurance: Genericity 0.3782
-ID 230 - auto parts: Genericity 0.4101
-ID 231 - auto recalls: Genericity 0.3686
-ID 232 - auto repair: Genericity 0.3868
-ID 233 - auto safety: Genericity 0.3717
-ID 234 - auto shows: Genericity 0.3904
-ID 235 - auto infotainment technologies: Genericity 0.3989
-ID 236 - auto navigation systems: Genericity 0.3975
-ID 237 - auto safety technologies: Genericity 0.4028
-ID 238 - auto rentals: Genericity 0.3932
-ID 239 - books and literature: Genericity 0.4220
-ID 240 - art and photography books: Genericity 0.4228
-ID 241 - biographies: Genericity 0.3862
-ID 242 - children's literature: Genericity 0.4117
-ID 243 - comics and graphic novels: Genericity 0.4185
-ID 244 - cookbooks: Genericity 0.4188
-ID 245 - fiction: Genericity 0.4491
-ID 246 - travel books: Genericity 0.4064
-ID 247 - young adult literature: Genericity 0.3665
-ID 248 - business and finance: Genericity 0.4220
-ID 249 - business accounting & finance: Genericity 0.3953
-ID 250 - human resources: Genericity 0.3931
-ID 251 - logistics: Genericity 0.4161
-ID 252 - marketing and advertising: Genericity 0.4528
-ID 253 - small and medium-sized business: Genericity 0.4323
-ID 254 - business administration: Genericity 0.3702
-ID 255 - business banking & finance: Genericity 0.4053
-ID 256 - business i.t.: Genericity 0.4215
-ID 257 - business operations: Genericity 0.4056
-ID 258 - consumer issues: Genericity 0.4102
-ID 259 - executive leadership & management: Genericity 0.3737
-ID 260 - green solutions: Genericity 0.3917
-ID 261 - business utilities: Genericity 0.3959
-ID 262 - economy: Genericity 0.4235
-ID 263 - advertising industry: Genericity 0.4155
-ID 264 - education industry: Genericity 0.4042
-ID 265 - entertainment industry: Genericity 0.4651
-ID 266 - environmental services industry: Genericity 0.3838
-ID 267 - financial industry: Genericity 0.4148
-ID 268 - food industry: Genericity 0.4205
-ID 269 - healthcare industry: Genericity 0.4230
-ID 270 - hospitality industry: Genericity 0.4177
-ID 271 - information services industry: Genericity 0.3795
-ID 272 - legal services industry: Genericity 0.3912
-ID 273 - logistics and transportation industry: Genericity 0.4137
-ID 274 - agriculture: Genericity 0.4414
-ID 275 - management consulting industry: Genericity 0.3716
-ID 276 - manufacturing industry: Genericity 0.4263
-ID 277 - mechanical and industrial engineering industry: Genericity 0.4124
-ID 278 - media industry: Genericity 0.4098
-ID 279 - metals industry: Genericity 0.4082
-ID 280 - non-profit organizations: Genericity 0.4174
-ID 281 - pharmaceutical industry: Genericity 0.4141
-ID 282 - power and energy industry: Genericity 0.4242
-ID 283 - publishing industry: Genericity 0.4199
-ID 284 - real estate industry: Genericity 0.4247
-ID 285 - apparel industry: Genericity 0.4287
-ID 286 - retail industry: Genericity 0.4215
-ID 287 - technology industry: Genericity 0.4168
-ID 288 - telecommunications industry: Genericity 0.4088
-ID 289 - automotive industry: Genericity 0.4344
-ID 290 - aviation industry: Genericity 0.4304
-ID 291 - biotech and biomedical industry: Genericity 0.4301
-ID 292 - civil engineering industry: Genericity 0.3980
-ID 293 - construction industry: Genericity 0.4161
-ID 294 - defense industry: Genericity 0.3872
-ID 295 - careers: Genericity 0.4469
-ID 296 - apprenticeships: Genericity 0.4059
-ID 297 - career advice: Genericity 0.3851
-ID 298 - career planning: Genericity 0.3778
-ID 299 - job search: Genericity 0.3970
-ID 300 - remote working: Genericity 0.3912
-ID 301 - vocational training: Genericity 0.3670
-ID 302 - adult education: Genericity 0.3775
-ID 303 - private school: Genericity 0.3770
-ID 304 - secondary education: Genericity 0.3778
-ID 305 - special education: Genericity 0.3712
-ID 306 - college education: Genericity 0.4148
-ID 307 - postgraduate education: Genericity 0.3536
-ID 308 - early childhood education: Genericity 0.3758
-ID 309 - educational assessment: Genericity 0.3661
-ID 310 - homeschooling: Genericity 0.3837
-ID 311 - homework and study: Genericity 0.4094
-ID 312 - language learning: Genericity 0.4085
-ID 313 - online education: Genericity 0.4032
-ID 314 - primary education: Genericity 0.4008
-ID 315 - events and attractions: Genericity 0.4404
-ID 316 - amusement and theme parks: Genericity 0.4506
-ID 317 - fashion events: Genericity 0.4343
-ID 318 - historic site and landmark tours: Genericity 0.3904
-ID 319 - malls & shopping centers: Genericity 0.3771
-ID 320 - museums & galleries: Genericity 0.4150
-ID 321 - musicals: Genericity 0.3795
-ID 322 - national & civic holidays: Genericity 0.3693
-ID 323 - nightclubs: Genericity 0.4498
-ID 324 - outdoor activities: Genericity 0.4650
-ID 325 - parks & nature: Genericity 0.4025
-ID 326 - party supplies and decorations: Genericity 0.4138
-ID 327 - awards shows: Genericity 0.4143
-ID 328 - personal celebrations & life events: Genericity 0.4033
-ID 329 - political event: Genericity 0.4304
-ID 330 - religious events: Genericity 0.4358
-ID 331 - sporting events: Genericity 0.4480
-ID 332 - theater venues and events: Genericity 0.4372
-ID 333 - zoos & aquariums: Genericity 0.4499
-ID 334 - bars & restaurants: Genericity 0.4312
-ID 335 - business expos & conferences: Genericity 0.4003
-ID 336 - casinos & gambling: Genericity 0.4254
-ID 337 - cinemas and events: Genericity 0.4624
-ID 338 - comedy events: Genericity 0.4175
-ID 339 - concerts & music events: Genericity 0.4503
-ID 340 - fan conventions: Genericity 0.3697
-ID 341 - family and relationships: Genericity 0.4198
-ID 342 - bereavement: Genericity 0.3862
-ID 343 - dating: Genericity 0.4239
-ID 344 - divorce: Genericity 0.3862
-ID 345 - eldercare: Genericity 0.3742
-ID 346 - marriage and civil unions: Genericity 0.4027
-ID 347 - fine art: Genericity 0.3919
-ID 348 - costume: Genericity 0.4026
-ID 349 - dance: Genericity 0.4324
-ID 350 - digital arts: Genericity 0.4042
-ID 351 - fine art photography: Genericity 0.4130
-ID 352 - modern art: Genericity 0.3993
-ID 353 - opera: Genericity 0.3852
-ID 354 - theater: Genericity 0.4244
-ID 355 - food & drink: Genericity 0.4057
-ID 356 - alcoholic beverages: Genericity 0.4256
-ID 357 - vegan diets: Genericity 0.3877
-ID 358 - vegetarian diets: Genericity 0.3901
-ID 359 - world cuisines: Genericity 0.3993
-ID 360 - barbecues and grilling: Genericity 0.4332
-ID 361 - desserts and baking: Genericity 0.4206
-ID 362 - dining out: Genericity 0.3980
-ID 363 - food allergies: Genericity 0.3988
-ID 364 - food movements: Genericity 0.4190
-ID 365 - healthy cooking and eating: Genericity 0.4023
-ID 366 - non-alcoholic beverages: Genericity 0.4112
-ID 367 - healthy living: Genericity 0.4016
-ID 368 - children's health: Genericity 0.4073
-ID 369 - participant sports: Genericity 0.4431
-ID 370 - running and jogging: Genericity 0.3978
-ID 371 - men's health: Genericity 0.3881
-ID 372 - senior health: Genericity 0.3695
-ID 373 - weight loss: Genericity 0.3821
-ID 374 - alternative medicine: Genericity 0.4141
-ID 375 - physical therapy: Genericity 0.4016
-ID 376 - smoking cessation: Genericity 0.4006
-ID 377 - women's health: Genericity 0.3912
-ID 378 - hobbies & interests: Genericity 0.4435
-ID 379 - antiquing and antiques: Genericity 0.3901
-ID 380 - magic and illusion: Genericity 0.4089
-ID 381 - model toys: Genericity 0.3893
-ID 382 - musical instruments: Genericity 0.4335
-ID 383 - paranormal phenomena: Genericity 0.4104
-ID 384 - radio control: Genericity 0.3684
-ID 385 - sci-fi and fantasy: Genericity 0.4457
-ID 386 - workshops and classes: Genericity 0.4428
-ID 387 - arts and crafts: Genericity 0.4587
-ID 388 - beadwork: Genericity 0.3784
-ID 389 - candle and soap making: Genericity 0.4148
-ID 390 - drawing and sketching: Genericity 0.4261
-ID 391 - needlework: Genericity 0.3695
-ID 392 - painting: Genericity 0.4158
-ID 393 - woodworking: Genericity 0.4253
-ID 394 - beekeeping: Genericity 0.3959
-ID 395 - birdwatching: Genericity 0.4292
-ID 396 - cigars: Genericity 0.4208
-ID 397 - comic books: Genericity 0.4048
-ID 398 - stamps and coins: Genericity 0.4077
-ID 399 - audio production: Genericity 0.4026
-ID 400 - freelance writing: Genericity 0.3599
-ID 401 - screenwriting: Genericity 0.3928
-ID 402 - video production: Genericity 0.4126
-ID 403 - board games and puzzles: Genericity 0.4469
-ID 404 - card games: Genericity 0.4381
-ID 405 - roleplaying games: Genericity 0.4341
-ID 406 - genealogy and ancestry: Genericity 0.4140
-ID 407 - gardening: Genericity 0.4185
-ID 408 - remodeling & construction: Genericity 0.4045
-ID 409 - smart home: Genericity 0.3587
-ID 410 - home appliances: Genericity 0.3805
-ID 411 - home entertaining: Genericity 0.3956
-ID 412 - home security: Genericity 0.3619
-ID 413 - indoor environmental quality: Genericity 0.3886
-ID 414 - interior decorating: Genericity 0.4132
-ID 415 - landscaping: Genericity 0.3923
-ID 416 - outdoor decorating: Genericity 0.4286
-ID 417 - medical health: Genericity 0.4247
-ID 418 - allergies: Genericity 0.3855
-ID 419 - ear, nose and throat conditions: Genericity 0.4026
-ID 420 - endocrine and metabolic diseases: Genericity 0.3827
-ID 421 - eye and vision conditions: Genericity 0.4210
-ID 422 - foot health: Genericity 0.4135
-ID 423 - heart and cardiovascular diseases: Genericity 0.4334
-ID 424 - infectious diseases: Genericity 0.4008
-ID 425 - injuries: Genericity 0.4265
-ID 426 - lung and respiratory health: Genericity 0.4025
-ID 427 - reproductive health: Genericity 0.3914
-ID 428 - blood disorders: Genericity 0.3984
-ID 429 - sexual health: Genericity 0.4002
-ID 430 - skin and dermatology: Genericity 0.4413
-ID 431 - sleep disorders: Genericity 0.3726
-ID 432 - substance abuse: Genericity 0.3984
-ID 433 - bone and joint conditions: Genericity 0.4244
-ID 434 - brain and nervous system disorders: Genericity 0.3979
-ID 435 - cancer: Genericity 0.4039
-ID 436 - cold and flu: Genericity 0.3861
-ID 437 - dental health: Genericity 0.3910
-ID 438 - diabetes: Genericity 0.3891
-ID 439 - digestive disorders: Genericity 0.4044
-ID 440 - medical tests: Genericity 0.4153
-ID 441 - pharmaceutical drugs: Genericity 0.4058
-ID 442 - surgery: Genericity 0.4091
-ID 443 - vaccines: Genericity 0.3899
-ID 444 - cosmetic medical services: Genericity 0.4168
-ID 445 - action and adventure movies: Genericity 0.4230
-ID 446 - romance movies: Genericity 0.4232
-ID 447 - science fiction movies: Genericity 0.3967
-ID 448 - indie and arthouse movies: Genericity 0.3925
-ID 449 - animation movies: Genericity 0.3935
-ID 450 - comedy movies: Genericity 0.3929
-ID 451 - crime and mystery movies: Genericity 0.4044
-ID 452 - documentary movies: Genericity 0.4207
-ID 453 - drama movies: Genericity 0.4111
-ID 454 - family and children movies: Genericity 0.4074
-ID 455 - fantasy movies: Genericity 0.4093
-ID 456 - horror movies: Genericity 0.4050
-ID 457 - world movies: Genericity 0.3886
-ID 458 - soft ac music: Genericity 0.3823
-ID 459 - urban ac music: Genericity 0.3639
-ID 460 - adult album alternative: Genericity 0.3783
-ID 461 - alternative music: Genericity 0.4142
-ID 462 - children's music: Genericity 0.4410
-ID 463 - classic hits: Genericity 0.3694
-ID 464 - classical music: Genericity 0.4368
-ID 465 - college radio: Genericity 0.3837
-ID 466 - comedy (music and audio): Genericity 0.4345
-ID 467 - contemporary hits/pop/top 40: Genericity 0.4104
-ID 468 - country music: Genericity 0.4297
-ID 469 - dance and electronic music: Genericity 0.4589
-ID 470 - world/international music: Genericity 0.4246
-ID 471 - songwriters/folk: Genericity 0.3781
-ID 472 - gospel music: Genericity 0.4116
-ID 473 - hip hop music: Genericity 0.4261
-ID 474 - inspirational/new age music: Genericity 0.4055
-ID 475 - jazz: Genericity 0.4231
-ID 476 - oldies/adult standards: Genericity 0.4005
-ID 477 - reggae: Genericity 0.4023
-ID 478 - blues: Genericity 0.4033
-ID 479 - religious (music and audio): Genericity 0.4536
-ID 480 - r&b/soul/funk: Genericity 0.4026
-ID 481 - rock music: Genericity 0.4388
-ID 482 - soundtracks, tv and showtunes: Genericity 0.4566
-ID 483 - sports radio: Genericity 0.4038
-ID 484 - talk radio: Genericity 0.3885
-ID 485 - urban contemporary music: Genericity 0.3991
-ID 486 - variety (music and audio): Genericity 0.4560
-ID 487 - news and politics: Genericity 0.4240
-ID 488 - crime: Genericity 0.4223
-ID 489 - disasters: Genericity 0.4314
-ID 490 - international news: Genericity 0.3875
-ID 491 - law: Genericity 0.3960
-ID 492 - local news: Genericity 0.4057
-ID 493 - national news: Genericity 0.4075
-ID 494 - weather: Genericity 0.4460
-ID 495 - personal finance: Genericity 0.3845
-ID 496 - consumer banking: Genericity 0.3933
-ID 497 - financial assistance: Genericity 0.4004
-ID 498 - financial planning: Genericity 0.3740
-ID 499 - frugal living: Genericity 0.3673
-ID 500 - personal debt: Genericity 0.3457
-ID 501 - personal investing: Genericity 0.3731
-ID 502 - personal taxes: Genericity 0.3520
-ID 503 - retirement planning: Genericity 0.3689
-ID 504 - home utilities: Genericity 0.3499
-ID 505 - birds: Genericity 0.4338
-ID 506 - cats: Genericity 0.3959
-ID 507 - dogs: Genericity 0.4235
-ID 508 - fish and aquariums: Genericity 0.4616
-ID 509 - large animals: Genericity 0.4073
-ID 510 - pet adoptions: Genericity 0.3881
-ID 511 - reptiles: Genericity 0.3954
-ID 512 - veterinary medicine: Genericity 0.4076
-ID 513 - pet supplies: Genericity 0.4045
-ID 514 - pop culture: Genericity 0.4143
-ID 515 - humor and satire: Genericity 0.4159
-ID 516 - apartments: Genericity 0.4136
-ID 517 - retail property: Genericity 0.3796
-ID 518 - vacation properties: Genericity 0.3930
-ID 519 - developmental sites: Genericity 0.4022
-ID 520 - hotel properties: Genericity 0.4121
-ID 521 - houses: Genericity 0.4174
-ID 522 - industrial property: Genericity 0.3808
-ID 523 - land and farms: Genericity 0.4055
-ID 524 - office property: Genericity 0.3728
-ID 525 - real estate buying and selling: Genericity 0.4093
-ID 526 - real estate renting and leasing: Genericity 0.4146
-ID 527 - religion & spirituality: Genericity 0.4176
-ID 528 - agnosticism: Genericity 0.3830
-ID 529 - spirituality: Genericity 0.3984
-ID 530 - astrology: Genericity 0.4074
-ID 531 - atheism: Genericity 0.4041
-ID 532 - buddhism: Genericity 0.4155
-ID 533 - christianity: Genericity 0.4303
-ID 534 - hinduism: Genericity 0.4157
-ID 535 - islam: Genericity 0.4003
-ID 536 - judaism: Genericity 0.4054
-ID 537 - sikhism: Genericity 0.3831
-ID 538 - biological sciences: Genericity 0.4063
-ID 539 - chemistry: Genericity 0.4272
-ID 540 - genetics: Genericity 0.4148
-ID 541 - geography: Genericity 0.4264
-ID 542 - geology: Genericity 0.4205
-ID 543 - physics: Genericity 0.4404
-ID 544 - space and astronomy: Genericity 0.4371
-ID 545 - coupons and discounts: Genericity 0.4032
-ID 546 - flower shopping: Genericity 0.3826
-ID 547 - gifts and greetings cards: Genericity 0.4216
-ID 548 - grocery shopping: Genericity 0.4061
-ID 549 - holiday shopping: Genericity 0.3871
-ID 550 - household supplies: Genericity 0.4032
-ID 551 - lotteries and scratchcards: Genericity 0.4246
-ID 552 - sales and promotions: Genericity 0.4130
-ID 553 - children's games and toys: Genericity 0.4680
-ID 554 - american football: Genericity 0.4073
-ID 555 - boxing: Genericity 0.4318
-ID 556 - cheerleading: Genericity 0.3796
-ID 557 - college sports: Genericity 0.4162
-ID 558 - cricket: Genericity 0.4376
-ID 559 - cycling: Genericity 0.4182
-ID 560 - darts: Genericity 0.4019
-ID 561 - disabled sports: Genericity 0.4111
-ID 562 - diving: Genericity 0.4047
-ID 563 - equine sports: Genericity 0.4346
-ID 564 - extreme sports: Genericity 0.4175
-ID 565 - australian rules football: Genericity 0.4090
-ID 566 - fantasy sports: Genericity 0.4319
-ID 567 - field hockey: Genericity 0.4107
-ID 568 - figure skating: Genericity 0.4299
-ID 569 - fishing sports: Genericity 0.4272
-ID 570 - golf: Genericity 0.4381
-ID 571 - gymnastics: Genericity 0.4307
-ID 572 - hunting and shooting: Genericity 0.4370
-ID 573 - ice hockey: Genericity 0.4152
-ID 574 - inline skating: Genericity 0.3920
-ID 575 - lacrosse: Genericity 0.3895
-ID 576 - auto racing: Genericity 0.4478
-ID 577 - martial arts: Genericity 0.4550
-ID 578 - olympic sports: Genericity 0.4150
-ID 579 - poker and professional gambling: Genericity 0.4431
-ID 580 - rodeo: Genericity 0.4105
-ID 581 - rowing: Genericity 0.3995
-ID 582 - rugby: Genericity 0.4120
-ID 583 - sailing: Genericity 0.4167
-ID 584 - skiing: Genericity 0.4337
-ID 585 - snooker/pool/billiards: Genericity 0.4564
-ID 586 - soccer: Genericity 0.4437
-ID 587 - badminton: Genericity 0.4296
-ID 588 - softball: Genericity 0.3954
-ID 589 - squash: Genericity 0.4036
-ID 590 - swimming: Genericity 0.4196
-ID 591 - table tennis: Genericity 0.4064
-ID 592 - tennis: Genericity 0.4400
-ID 593 - track and field: Genericity 0.4217
-ID 594 - volleyball: Genericity 0.4238
-ID 595 - walking: Genericity 0.4197
-ID 596 - water polo: Genericity 0.4081
-ID 597 - weightlifting: Genericity 0.3922
-ID 598 - baseball: Genericity 0.4332
-ID 599 - wrestling: Genericity 0.4036
-ID 600 - basketball: Genericity 0.4394
-ID 601 - beach volleyball: Genericity 0.4029
-ID 602 - bodybuilding: Genericity 0.4017
-ID 603 - bowling: Genericity 0.4096
-ID 604 - sports equipment: Genericity 0.4275
-ID 605 - style & fashion: Genericity 0.3981
-ID 606 - beauty: Genericity 0.4014
-ID 607 - women's accessories: Genericity 0.3969
-ID 608 - women's clothing: Genericity 0.4123
-ID 609 - women's shoes and footwear: Genericity 0.4288
-ID 610 - body art: Genericity 0.3956
-ID 611 - children's clothing: Genericity 0.4150
-ID 612 - designer clothing: Genericity 0.4037
-ID 613 - fashion trends: Genericity 0.4198
-ID 614 - high fashion: Genericity 0.3841
-ID 615 - men's accessories: Genericity 0.4029
-ID 616 - men's clothing: Genericity 0.4140
-ID 617 - men's shoes and footwear: Genericity 0.4282
-ID 618 - bath and shower: Genericity 0.4036
-ID 619 - deodorant and antiperspirant: Genericity 0.4094
-ID 620 - oral care: Genericity 0.3799
-ID 621 - shaving: Genericity 0.3946
-ID 622 - street style: Genericity 0.3989
-ID 623 - technology & computing: Genericity 0.4273
-ID 624 - artificial intelligence: Genericity 0.3926
-ID 625 - augmented reality: Genericity 0.3960
-ID 626 - computer networking: Genericity 0.3997
-ID 627 - computer peripherals: Genericity 0.4257
-ID 628 - 3-d graphics: Genericity 0.3846
-ID 629 - photo editing software: Genericity 0.4028
-ID 630 - shareware and freeware: Genericity 0.4103
-ID 631 - video software: Genericity 0.4061
-ID 632 - web conferencing: Genericity 0.4146
-ID 633 - antivirus software: Genericity 0.3889
-ID 634 - browsers: Genericity 0.4244
-ID 635 - computer animation: Genericity 0.3954
-ID 636 - databases: Genericity 0.4183
-ID 637 - desktop publishing: Genericity 0.3828
-ID 638 - digital audio: Genericity 0.3941
-ID 639 - graphics software: Genericity 0.4144
-ID 640 - operating systems: Genericity 0.3862
-ID 641 - data storage and warehousing: Genericity 0.4032
-ID 642 - desktops: Genericity 0.4343
-ID 643 - information and network security: Genericity 0.3798
-ID 644 - internet: Genericity 0.4111
-ID 645 - cloud computing: Genericity 0.3851
-ID 646 - web development: Genericity 0.4250
-ID 647 - web hosting: Genericity 0.3695
-ID 648 - email: Genericity 0.3978
-ID 649 - internet of things: Genericity 0.3917
-ID 650 - web design and html: Genericity 0.4134
-ID 651 - laptops: Genericity 0.4171
-ID 652 - programming languages: Genericity 0.4047
-ID 653 - cameras and camcorders: Genericity 0.4402
-ID 654 - home entertainment systems: Genericity 0.4145
-ID 655 - smartphones: Genericity 0.4258
-ID 656 - tablets and e-readers: Genericity 0.4221
-ID 657 - wearable technology: Genericity 0.4294
-ID 658 - robotics: Genericity 0.3993
-ID 659 - virtual reality: Genericity 0.4125
-ID 660 - television: Genericity 0.4523
-ID 661 - animation tv: Genericity 0.4029
-ID 662 - soap opera tv: Genericity 0.4173
-ID 663 - special interest tv: Genericity 0.4012
-ID 664 - sports tv: Genericity 0.4296
-ID 665 - children's tv: Genericity 0.4066
-ID 666 - comedy tv: Genericity 0.4228
-ID 667 - drama tv: Genericity 0.4135
-ID 668 - factual tv: Genericity 0.4312
-ID 669 - holiday tv: Genericity 0.3829
-ID 670 - music tv: Genericity 0.4302
-ID 671 - reality tv: Genericity 0.4289
-ID 672 - science fiction tv: Genericity 0.4128
-ID 673 - africa travel: Genericity 0.3879
-ID 674 - asia travel: Genericity 0.3884
-ID 675 - australia and oceania travel: Genericity 0.4143
-ID 676 - europe travel: Genericity 0.3556
-ID 677 - north america travel: Genericity 0.3674
-ID 678 - polar travel: Genericity 0.3683
-ID 679 - south america travel: Genericity 0.3654
-ID 680 - travel preparation and advice: Genericity 0.3816
-ID 681 - adventure travel: Genericity 0.4215
-ID 682 - family travel: Genericity 0.3876
-ID 683 - honeymoons and getaways: Genericity 0.4256
-ID 684 - hotels and motels: Genericity 0.4204
-ID 685 - rail travel: Genericity 0.3985
-ID 686 - road trips: Genericity 0.3955
-ID 687 - spas: Genericity 0.3975
-ID 688 - air travel: Genericity 0.4230
-ID 689 - beach travel: Genericity 0.4079
-ID 690 - bed & breakfasts: Genericity 0.3980
-ID 691 - budget travel: Genericity 0.3522
-ID 692 - business travel: Genericity 0.3924
-ID 693 - camping: Genericity 0.4037
-ID 694 - cruises: Genericity 0.4042
-ID 695 - day trips: Genericity 0.3871
-ID 696 - video gaming: Genericity 0.4412
-ID 697 - console games: Genericity 0.4096
-ID 698 - mobile games: Genericity 0.4201
-ID 699 - pc games: Genericity 0.4182
-ID 700 - action video games: Genericity 0.4255
-ID 701 - role-playing video games: Genericity 0.4257
-ID 702 - simulation video games: Genericity 0.4191
-ID 703 - sports video games: Genericity 0.4399
-ID 704 - strategy video games: Genericity 0.4121
-ID 705 - action-adventure video games: Genericity 0.4318
-ID 706 - adventure video games: Genericity 0.4288
-ID 707 - casual games: Genericity 0.4169
-ID 708 - educational video games: Genericity 0.4261
-ID 709 - exercise and fitness video games: Genericity 0.4352
-ID 710 - mmos: Genericity 0.3952
-ID 711 - music and party video games: Genericity 0.4336
-ID 712 - puzzle video games: Genericity 0.4176
-ID 713 - sensitive topics: Genericity 0.3889
+Genericity scores:
+entertainment: 0.4966
+novels: 0.4252
+news: 0.4673
+social media: 0.3984
+learning: 0.4348
+education: 0.4425
+science: 0.4516
+media: 0.4538
+wiki: 0.3843
+information: 0.4602
+math: 0.4344
+history: 0.4257
+technology: 0.4520
+innovation: 0.4222
+health: 0.4434
+wellness: 0.4240
+sports: 0.4692
+politics: 0.4388
+government: 0.4059
+business: 0.4550
+finance: 0.4299
+music: 0.4754
+travel: 0.4519
+lifestyle: 0.4462
+art: 0.4286
+culture: 0.4258
+food: 0.4450
+environment: 0.4433
+sustainability: 0.3804
+psychology: 0.4276
+philosophy: 0.4318
+literature: 0.4296
+gaming: 0.4584
+comedy: 0.4244
+fashion: 0.4368
+design: 0.4140
+mathematics: 0.4319
+literacy: 0.4128
+astronomy: 0.4482
+climate: 0.4037
+architecture: 0.4122
+gadgets: 0.4230
+software: 0.4361
+style: 0.4268
+fitness: 0.4513
+recipes: 0.4230
+cooking: 0.4377
+destinations: 0.4357
+adventures: 0.4480
+events: 0.4677
+entrepreneurship: 0.4029
+courses: 0.4486
+esports: 0.4062
+reviews: 0.4211
+manga: 0.4221
+comics: 0.4234
+albums: 0.4380
+concerts: 0.4297
+movies: 0.4490
+films: 0.4446
+photography: 0.4566
+diy: 0.3948
+crafts: 0.4536
+home improvement: 0.3855
+pets: 0.4120
+animals: 0.4597
+care: 0.4189
+parenting: 0.4132
+family: 0.4218
+kids: 0.4240
+current affairs: 0.3881
+research: 0.4330
+discoveries: 0.4416
+heritage: 0.4175
+investing: 0.4158
+cryptocurrency: 0.4257
+automotive: 0.4322
+cars: 0.4526
+motorcycles: 0.4290
+real estate: 0.4036
+property: 0.4163
+housing: 0.3948
+nature: 0.4458
+mental health: 0.3966
+self-help: 0.4298
+startups: 0.4085
+poetry: 0.4256
+writing: 0.4207
+marketing: 0.4520
+influencers: 0.3882
+gambling: 0.4181
+casinos: 0.4219
+betting: 0.4346
+space: 0.4022
+astrophysics: 0.3960
+nutrition: 0.4246
+exercise: 0.4526
+shopping: 0.4279
+sales: 0.4278
+deals: 0.4015
+luxury: 0.4065
+high-end: 0.3845
+blockchain: 0.3893
+nfts: 0.3918
+vacation: 0.4066
+holidays: 0.3956
+getaways: 0.4131
+interior: 0.3630
+weddings: 0.4172
+marriage: 0.4236
+humor: 0.4391
+funny: 0.3919
+banks: 0.4408
+insurance: 0.4220
+universities: 0.4206
+online learning: 0.4058
+public services: 0.4227
+legal: 0.4319
+judiciary: 0.3917
+healthcare: 0.4436
+hospitals: 0.4286
+telecommunications: 0.4121
+anime: 0.4196
+nonprofits: 0.3998
+ngos: 0.3818
+ecommerce: 0.4141
+online store: 0.3920
+corporate: 0.4187
+blog: 0.4175
+personal blog: 0.3685
+portfolio: 0.3985
+creative work: 0.4041
+event: 0.4695
+event promotion: 0.4254
+personal: 0.4076
+resume: 0.3876
+membership: 0.4068
+community: 0.4320
+nonprofit: 0.3949
+charity: 0.4374
+informational: 0.4323
+forum: 0.4032
+discussion: 0.4126
+social network: 0.3977
+startup: 0.3878
+entrepreneur: 0.3959
+consulting: 0.4126
+professional services: 0.4075
+booking: 0.4262
+appointments: 0.4035
+petition: 0.4010
+activism: 0.4028
+school: 0.4436
+hobby: 0.4565
+interest: 0.4331
+interactive: 0.4371
+engagement: 0.3958
+wedding: 0.4139
+event planning: 0.4255
+tourism: 0.4465
+directory: 0.3906
+listing: 0.4326
+landing page: 0.3760
+magazine: 0.4369
+memorial: 0.4022
+tribute: 0.3975
+subscription: 0.4227
+content service: 0.4152
+kid-friendly: 0.3960
+children: 0.4289
+novels and literature: 0.4281
+movies and tv shows: 0.4598
+music and audio: 0.4415
+arts and culture: 0.4292
+investment & trading: 0.3814
+e-commerce & retail: 0.4344
+business services: 0.4040
+universities & colleges: 0.4340
+k-12 & schools: 0.4289
+online learning & moocs: 0.4294
+professional development: 0.3952
+educational resources: 0.4290
+federal, state, & local: 0.4208
+public safety & law enforcement: 0.3859
+judiciary & legal: 0.3989
+public utilities & infrastructure: 0.3714
+civic engagement: 0.3743
+hospitals & clinics: 0.4357
+health information & wellness: 0.4074
+pharmaceutical & drug information: 0.3979
+fitness & lifestyle: 0.4361
+mental health & counseling: 0.3981
+tech companies & startups: 0.4109
+research & development: 0.4103
+gadgets & reviews: 0.3949
+software & applications: 0.4333
+scientific organizations: 0.3960
+general news portals: 0.4096
+local & community news: 0.4015
+specialized magazines & blogs: 0.4017
+journalism & opinion: 0.3860
+entertainment news: 0.4487
+social: 0.4261
+social networking: 0.3954
+online forums & discussion boards: 0.4035
+nonprofits & ngos: 0.4095
+cultural & community events: 0.4149
+travel & tourism: 0.4207
+food & dining: 0.3917
+fashion & beauty: 0.4046
+home & garden: 0.3905
+personal finance & lifestyle management: 0.3976
+professional leagues & teams: 0.4308
+sports news & analysis: 0.4007
+fan communities & forums: 0.3730
+fitness & outdoor sports: 0.4521
+law firms & legal services: 0.3873
+legal information & resources: 0.3782
+regulatory & compliance: 0.3808
+hobbies: 0.4648
+arts & crafts: 0.4432
+photography & videography: 0.4411
+gaming (hobbyist): 0.4369
+uncategorized: 0.3530
+car culture: 0.4060
+road-side assistance: 0.3956
+scooters: 0.4221
+auto buying and selling: 0.4075
+auto insurance: 0.3782
+auto parts: 0.4101
+auto recalls: 0.3686
+auto repair: 0.3868
+auto safety: 0.3717
+auto shows: 0.3904
+auto infotainment technologies: 0.3989
+auto navigation systems: 0.3975
+auto safety technologies: 0.4028
+auto rentals: 0.3932
+books and literature: 0.4220
+art and photography books: 0.4228
+biographies: 0.3862
+children's literature: 0.4117
+comics and graphic novels: 0.4185
+cookbooks: 0.4188
+fiction: 0.4491
+travel books: 0.4064
+young adult literature: 0.3665
+business and finance: 0.4220
+business accounting & finance: 0.3953
+human resources: 0.3931
+logistics: 0.4161
+marketing and advertising: 0.4528
+small and medium-sized business: 0.4323
+business administration: 0.3702
+business banking & finance: 0.4053
+business i.t.: 0.4215
+business operations: 0.4056
+consumer issues: 0.4102
+executive leadership & management: 0.3737
+green solutions: 0.3917
+business utilities: 0.3959
+economy: 0.4235
+advertising industry: 0.4155
+education industry: 0.4042
+entertainment industry: 0.4651
+environmental services industry: 0.3838
+financial industry: 0.4148
+food industry: 0.4205
+healthcare industry: 0.4230
+hospitality industry: 0.4177
+information services industry: 0.3795
+legal services industry: 0.3912
+logistics and transportation industry: 0.4137
+agriculture: 0.4414
+management consulting industry: 0.3716
+manufacturing industry: 0.4263
+mechanical and industrial engineering industry: 0.4124
+media industry: 0.4098
+metals industry: 0.4082
+non-profit organizations: 0.4174
+pharmaceutical industry: 0.4141
+power and energy industry: 0.4242
+publishing industry: 0.4199
+real estate industry: 0.4247
+apparel industry: 0.4287
+retail industry: 0.4215
+technology industry: 0.4168
+telecommunications industry: 0.4088
+automotive industry: 0.4344
+aviation industry: 0.4304
+biotech and biomedical industry: 0.4301
+civil engineering industry: 0.3980
+construction industry: 0.4161
+defense industry: 0.3872
+careers: 0.4469
+apprenticeships: 0.4059
+career advice: 0.3851
+career planning: 0.3778
+job search: 0.3970
+remote working: 0.3912
+vocational training: 0.3670
+adult education: 0.3775
+private school: 0.3770
+secondary education: 0.3778
+special education: 0.3712
+college education: 0.4148
+postgraduate education: 0.3536
+early childhood education: 0.3758
+educational assessment: 0.3661
+homeschooling: 0.3837
+homework and study: 0.4094
+language learning: 0.4085
+online education: 0.4032
+primary education: 0.4008
+events and attractions: 0.4404
+amusement and theme parks: 0.4506
+fashion events: 0.4343
+historic site and landmark tours: 0.3904
+malls & shopping centers: 0.3771
+museums & galleries: 0.4150
+musicals: 0.3795
+national & civic holidays: 0.3693
+nightclubs: 0.4498
+outdoor activities: 0.4650
+parks & nature: 0.4025
+party supplies and decorations: 0.4138
+awards shows: 0.4143
+personal celebrations & life events: 0.4033
+political event: 0.4304
+religious events: 0.4358
+sporting events: 0.4480
+theater venues and events: 0.4372
+zoos & aquariums: 0.4499
+bars & restaurants: 0.4312
+business expos & conferences: 0.4003
+casinos & gambling: 0.4254
+cinemas and events: 0.4624
+comedy events: 0.4175
+concerts & music events: 0.4503
+fan conventions: 0.3697
+family and relationships: 0.4198
+bereavement: 0.3862
+dating: 0.4239
+divorce: 0.3862
+eldercare: 0.3742
+marriage and civil unions: 0.4027
+fine art: 0.3919
+costume: 0.4026
+dance: 0.4324
+digital arts: 0.4042
+fine art photography: 0.4130
+modern art: 0.3993
+opera: 0.3852
+theater: 0.4244
+food & drink: 0.4057
+alcoholic beverages: 0.4256
+vegan diets: 0.3877
+vegetarian diets: 0.3901
+world cuisines: 0.3993
+barbecues and grilling: 0.4332
+desserts and baking: 0.4206
+dining out: 0.3980
+food allergies: 0.3988
+food movements: 0.4190
+healthy cooking and eating: 0.4023
+non-alcoholic beverages: 0.4112
+healthy living: 0.4016
+children's health: 0.4073
+participant sports: 0.4431
+running and jogging: 0.3978
+men's health: 0.3881
+senior health: 0.3695
+weight loss: 0.3821
+alternative medicine: 0.4141
+physical therapy: 0.4016
+smoking cessation: 0.4006
+women's health: 0.3912
+hobbies & interests: 0.4435
+antiquing and antiques: 0.3901
+magic and illusion: 0.4089
+model toys: 0.3893
+musical instruments: 0.4335
+paranormal phenomena: 0.4104
+radio control: 0.3684
+sci-fi and fantasy: 0.4457
+workshops and classes: 0.4428
+arts and crafts: 0.4587
+beadwork: 0.3784
+candle and soap making: 0.4148
+drawing and sketching: 0.4261
+needlework: 0.3695
+painting: 0.4158
+woodworking: 0.4253
+beekeeping: 0.3959
+birdwatching: 0.4292
+cigars: 0.4208
+comic books: 0.4048
+stamps and coins: 0.4077
+audio production: 0.4026
+freelance writing: 0.3599
+screenwriting: 0.3928
+video production: 0.4126
+board games and puzzles: 0.4469
+card games: 0.4381
+roleplaying games: 0.4341
+genealogy and ancestry: 0.4140
+gardening: 0.4185
+remodeling & construction: 0.4045
+smart home: 0.3587
+home appliances: 0.3805
+home entertaining: 0.3956
+home security: 0.3619
+indoor environmental quality: 0.3886
+interior decorating: 0.4132
+landscaping: 0.3923
+outdoor decorating: 0.4286
+medical health: 0.4247
+allergies: 0.3855
+ear, nose and throat conditions: 0.4026
+endocrine and metabolic diseases: 0.3827
+eye and vision conditions: 0.4210
+foot health: 0.4135
+heart and cardiovascular diseases: 0.4334
+infectious diseases: 0.4008
+injuries: 0.4265
+lung and respiratory health: 0.4025
+reproductive health: 0.3914
+blood disorders: 0.3984
+sexual health: 0.4002
+skin and dermatology: 0.4413
+sleep disorders: 0.3726
+substance abuse: 0.3984
+bone and joint conditions: 0.4244
+brain and nervous system disorders: 0.3979
+cancer: 0.4039
+cold and flu: 0.3861
+dental health: 0.3910
+diabetes: 0.3891
+digestive disorders: 0.4044
+medical tests: 0.4153
+pharmaceutical drugs: 0.4058
+surgery: 0.4091
+vaccines: 0.3899
+cosmetic medical services: 0.4168
+action and adventure movies: 0.4230
+romance movies: 0.4232
+science fiction movies: 0.3967
+indie and arthouse movies: 0.3925
+animation movies: 0.3935
+comedy movies: 0.3929
+crime and mystery movies: 0.4044
+documentary movies: 0.4207
+drama movies: 0.4111
+family and children movies: 0.4074
+fantasy movies: 0.4093
+horror movies: 0.4050
+world movies: 0.3886
+soft ac music: 0.3823
+urban ac music: 0.3639
+adult album alternative: 0.3783
+alternative music: 0.4142
+children's music: 0.4410
+classic hits: 0.3694
+classical music: 0.4368
+college radio: 0.3837
+comedy (music and audio): 0.4345
+contemporary hits/pop/top 40: 0.4104
+country music: 0.4297
+dance and electronic music: 0.4589
+world/international music: 0.4246
+songwriters/folk: 0.3781
+gospel music: 0.4116
+hip hop music: 0.4261
+inspirational/new age music: 0.4055
+jazz: 0.4231
+oldies/adult standards: 0.4005
+reggae: 0.4023
+blues: 0.4033
+religious (music and audio): 0.4536
+r&b/soul/funk: 0.4026
+rock music: 0.4388
+soundtracks, tv and showtunes: 0.4566
+sports radio: 0.4038
+talk radio: 0.3885
+urban contemporary music: 0.3991
+variety (music and audio): 0.4560
+news and politics: 0.4240
+crime: 0.4223
+disasters: 0.4314
+international news: 0.3875
+law: 0.3960
+local news: 0.4057
+national news: 0.4075
+weather: 0.4460
+personal finance: 0.3845
+consumer banking: 0.3933
+financial assistance: 0.4004
+financial planning: 0.3740
+frugal living: 0.3673
+personal debt: 0.3457
+personal investing: 0.3731
+personal taxes: 0.3520
+retirement planning: 0.3689
+home utilities: 0.3499
+birds: 0.4338
+cats: 0.3959
+dogs: 0.4235
+fish and aquariums: 0.4616
+large animals: 0.4073
+pet adoptions: 0.3881
+reptiles: 0.3954
+veterinary medicine: 0.4076
+pet supplies: 0.4045
+pop culture: 0.4143
+humor and satire: 0.4159
+apartments: 0.4136
+retail property: 0.3796
+vacation properties: 0.3930
+developmental sites: 0.4022
+hotel properties: 0.4121
+houses: 0.4174
+industrial property: 0.3808
+land and farms: 0.4055
+office property: 0.3728
+real estate buying and selling: 0.4093
+real estate renting and leasing: 0.4146
+religion & spirituality: 0.4176
+agnosticism: 0.3830
+spirituality: 0.3984
+astrology: 0.4074
+atheism: 0.4041
+buddhism: 0.4155
+christianity: 0.4303
+hinduism: 0.4157
+islam: 0.4003
+judaism: 0.4054
+sikhism: 0.3831
+biological sciences: 0.4063
+chemistry: 0.4272
+genetics: 0.4148
+geography: 0.4264
+geology: 0.4205
+physics: 0.4404
+space and astronomy: 0.4371
+coupons and discounts: 0.4032
+flower shopping: 0.3826
+gifts and greetings cards: 0.4216
+grocery shopping: 0.4061
+holiday shopping: 0.3871
+household supplies: 0.4032
+lotteries and scratchcards: 0.4246
+sales and promotions: 0.4130
+children's games and toys: 0.4680
+american football: 0.4073
+boxing: 0.4318
+cheerleading: 0.3796
+college sports: 0.4162
+cricket: 0.4376
+cycling: 0.4182
+darts: 0.4019
+disabled sports: 0.4111
+diving: 0.4047
+equine sports: 0.4346
+extreme sports: 0.4175
+australian rules football: 0.4090
+fantasy sports: 0.4319
+field hockey: 0.4107
+figure skating: 0.4299
+fishing sports: 0.4272
+golf: 0.4381
+gymnastics: 0.4307
+hunting and shooting: 0.4370
+ice hockey: 0.4152
+inline skating: 0.3920
+lacrosse: 0.3895
+auto racing: 0.4478
+martial arts: 0.4550
+olympic sports: 0.4150
+poker and professional gambling: 0.4431
+rodeo: 0.4105
+rowing: 0.3995
+rugby: 0.4120
+sailing: 0.4167
+skiing: 0.4337
+snooker/pool/billiards: 0.4564
+soccer: 0.4437
+badminton: 0.4296
+softball: 0.3954
+squash: 0.4036
+swimming: 0.4196
+table tennis: 0.4064
+tennis: 0.4400
+track and field: 0.4217
+volleyball: 0.4238
+walking: 0.4197
+water polo: 0.4081
+weightlifting: 0.3922
+baseball: 0.4332
+wrestling: 0.4036
+basketball: 0.4394
+beach volleyball: 0.4029
+bodybuilding: 0.4017
+bowling: 0.4096
+sports equipment: 0.4275
+style & fashion: 0.3981
+beauty: 0.4014
+women's accessories: 0.3969
+women's clothing: 0.4123
+women's shoes and footwear: 0.4288
+body art: 0.3956
+children's clothing: 0.4150
+designer clothing: 0.4037
+fashion trends: 0.4198
+high fashion: 0.3841
+men's accessories: 0.4029
+men's clothing: 0.4140
+men's shoes and footwear: 0.4282
+bath and shower: 0.4036
+deodorant and antiperspirant: 0.4094
+oral care: 0.3799
+shaving: 0.3946
+street style: 0.3989
+technology & computing: 0.4273
+artificial intelligence: 0.3926
+augmented reality: 0.3960
+computer networking: 0.3997
+computer peripherals: 0.4257
+3-d graphics: 0.3846
+photo editing software: 0.4028
+shareware and freeware: 0.4103
+video software: 0.4061
+web conferencing: 0.4146
+antivirus software: 0.3889
+browsers: 0.4244
+computer animation: 0.3954
+databases: 0.4183
+desktop publishing: 0.3828
+digital audio: 0.3941
+graphics software: 0.4144
+operating systems: 0.3862
+data storage and warehousing: 0.4032
+desktops: 0.4343
+information and network security: 0.3798
+internet: 0.4111
+cloud computing: 0.3851
+web development: 0.4250
+web hosting: 0.3695
+email: 0.3978
+internet of things: 0.3917
+web design and html: 0.4134
+laptops: 0.4171
+programming languages: 0.4047
+cameras and camcorders: 0.4402
+home entertainment systems: 0.4145
+smartphones: 0.4258
+tablets and e-readers: 0.4221
+wearable technology: 0.4294
+robotics: 0.3993
+virtual reality: 0.4125
+television: 0.4523
+animation tv: 0.4029
+soap opera tv: 0.4173
+special interest tv: 0.4012
+sports tv: 0.4296
+children's tv: 0.4066
+comedy tv: 0.4228
+drama tv: 0.4135
+factual tv: 0.4312
+holiday tv: 0.3829
+music tv: 0.4302
+reality tv: 0.4289
+science fiction tv: 0.4128
+africa travel: 0.3879
+asia travel: 0.3884
+australia and oceania travel: 0.4143
+europe travel: 0.3556
+north america travel: 0.3674
+polar travel: 0.3683
+south america travel: 0.3654
+travel preparation and advice: 0.3816
+adventure travel: 0.4215
+family travel: 0.3876
+honeymoons and getaways: 0.4256
+hotels and motels: 0.4204
+rail travel: 0.3985
+road trips: 0.3955
+spas: 0.3975
+air travel: 0.4230
+beach travel: 0.4079
+bed & breakfasts: 0.3980
+budget travel: 0.3522
+business travel: 0.3924
+camping: 0.4037
+cruises: 0.4042
+day trips: 0.3871
+video gaming: 0.4412
+console games: 0.4096
+mobile games: 0.4201
+pc games: 0.4182
+action video games: 0.4255
+role-playing video games: 0.4257
+simulation video games: 0.4191
+sports video games: 0.4399
+strategy video games: 0.4121
+action-adventure video games: 0.4318
+adventure video games: 0.4288
+casual games: 0.4169
+educational video games: 0.4261
+exercise and fitness video games: 0.4352
+mmos: 0.3952
+music and party video games: 0.4336
+puzzle video games: 0.4176
+sensitive topics: 0.3889
 
 Parent assignments (child -> parent):
 entertainment -> None (top-level)
@@ -1430,718 +1430,3 @@ mmos -> role-playing video games (similarity: 0.6323)
 music and party video games -> video gaming (similarity: 0.7828)
 puzzle video games -> board games and puzzles (similarity: 0.7929)
 sensitive topics -> discussion (similarity: 0.6220)
-
-Hierarchy Tree (Indented):
-- entertainment (ID 1)
-  - sports (ID 17)
-    - sports news & analysis (ID 214)
-      - journalism & opinion (ID 201)
-    - participant sports (ID 369)
-    - college sports (ID 557)
-    - disabled sports (ID 561)
-    - equine sports (ID 563)
-    - extreme sports (ID 564)
-    - fantasy sports (ID 566)
-      - professional leagues & teams (ID 213)
-    - fishing sports (ID 569)
-      - swimming (ID 590)
-        - diving (ID 562)
-        - water polo (ID 596)
-    - lacrosse (ID 575)
-    - martial arts (ID 577)
-      - boxing (ID 555)
-      - wrestling (ID 599)
-    - olympic sports (ID 578)
-    - rugby (ID 582)
-      - australian rules football (ID 565)
-        - american football (ID 554)
-    - snooker/pool/billiards (ID 585)
-      - poker and professional gambling (ID 579)
-        - betting (ID 93)
-        - casinos & gambling (ID 336)
-          - gambling (ID 91)
-          - casinos (ID 92)
-    - soccer (ID 586)
-    - tennis (ID 592)
-      - table tennis (ID 591)
-    - volleyball (ID 594)
-      - beach volleyball (ID 601)
-    - baseball (ID 598)
-      - softball (ID 588)
-    - basketball (ID 600)
-      - cricket (ID 558)
-      - badminton (ID 587)
-        - darts (ID 560)
-        - bowling (ID 603)
-    - sports equipment (ID 604)
-    - sports tv (ID 664)
-      - sports radio (ID 483)
-        - college radio (ID 465)
-        - talk radio (ID 484)
-          - radio control (ID 384)
-    - sports video games (ID 703)
-      - esports (ID 53)
-      - exercise and fitness video games (ID 709)
-        - action-adventure video games (ID 705)
-          - action video games (ID 700)
-          - adventure video games (ID 706)
-            - educational video games (ID 708)
-  - music (ID 22)
-    - albums (ID 57)
-    - musical instruments (ID 382)
-    - soft ac music (ID 458)
-    - alternative music (ID 461)
-      - alternative medicine (ID 374)
-      - adult album alternative (ID 460)
-    - children's music (ID 462)
-      - children (ID 170)
-        - kids (ID 70)
-          - parenting (ID 68)
-          - kid-friendly (ID 169)
-        - children's clothing (ID 611)
-    - classical music (ID 464)
-      - opera (ID 353)
-    - contemporary hits/pop/top 40 (ID 467)
-      - classic hits (ID 463)
-    - country music (ID 468)
-      - songwriters/folk (ID 471)
-    - dance and electronic music (ID 469)
-      - dance (ID 349)
-        - figure skating (ID 568)
-          - ice hockey (ID 573)
-            - field hockey (ID 567)
-          - inline skating (ID 574)
-      - r&b/soul/funk (ID 480)
-    - world/international music (ID 470)
-    - gospel music (ID 472)
-    - hip hop music (ID 473)
-    - inspirational/new age music (ID 474)
-    - jazz (ID 475)
-    - reggae (ID 477)
-    - religious (music and audio) (ID 479)
-      - religion & spirituality (ID 527)
-        - spirituality (ID 529)
-        - hinduism (ID 534)
-          - buddhism (ID 532)
-          - islam (ID 535)
-          - sikhism (ID 537)
-      - christianity (ID 533)
-        - atheism (ID 531)
-          - agnosticism (ID 528)
-        - judaism (ID 536)
-    - rock music (ID 481)
-    - urban contemporary music (ID 485)
-      - urban ac music (ID 459)
-    - variety (music and audio) (ID 486)
-      - music and audio (ID 173)
-        - comedy (music and audio) (ID 466)
-        - digital audio (ID 638)
-  - gaming (ID 33)
-    - roleplaying games (ID 405)
-      - role-playing video games (ID 701)
-        - mmos (ID 710)
-    - video gaming (ID 696)
-      - home entertainment systems (ID 654)
-        - home appliances (ID 410)
-          - home utilities (ID 504)
-      - virtual reality (ID 659)
-        - augmented reality (ID 625)
-          - artificial intelligence (ID 624)
-      - simulation video games (ID 702)
-      - strategy video games (ID 704)
-      - music and party video games (ID 711)
-        - party supplies and decorations (ID 326)
-    - console games (ID 697)
-    - mobile games (ID 698)
-    - pc games (ID 699)
-    - casual games (ID 707)
-  - humor (ID 111)
-    - comedy (ID 34)
-      - comics (ID 56)
-        - manga (ID 55)
-          - anime (ID 123)
-        - comics and graphic novels (ID 243)
-        - comic books (ID 397)
-      - comedy movies (ID 450)
-      - comedy tv (ID 666)
-    - funny (ID 112)
-    - humor and satire (ID 515)
-  - event (ID 133)
-    - news (ID 3)
-      - media (ID 8)
-        - magazine (ID 164)
-          - subscription (ID 167)
-            - membership (ID 137)
-            - content service (ID 168)
-          - specialized magazines & blogs (ID 200)
-        - media industry (ID 278)
-      - information (ID 10)
-        - wiki (ID 9)
-        - informational (ID 141)
-        - listing (ID 162)
-        - legal information & resources (ID 218)
-        - databases (ID 636)
-          - directory (ID 161)
-          - data storage and warehousing (ID 641)
-      - general news portals (ID 198)
-      - entertainment news (ID 202)
-      - international news (ID 490)
-      - local news (ID 492)
-        - local & community news (ID 199)
-      - national news (ID 493)
-    - events (ID 50)
-      - cultural & community events (ID 207)
-      - fashion events (ID 317)
-      - outdoor activities (ID 324)
-        - adventures (ID 49)
-        - photography (ID 61)
-          - photography & videography (ID 222)
-            - video production (ID 402)
-              - audio production (ID 399)
-            - cameras and camcorders (ID 653)
-          - art and photography books (ID 240)
-          - fine art photography (ID 351)
-            - fine art (ID 347)
-          - hunting and shooting (ID 572)
-        - nature (ID 83)
-          - parks & nature (ID 325)
-        - exercise (ID 97)
-          - running and jogging (ID 370)
-          - gymnastics (ID 571)
-            - cheerleading (ID 556)
-        - fitness & outdoor sports (ID 216)
-          - fitness (ID 45)
-            - fitness & lifestyle (ID 191)
-              - personal finance & lifestyle management (ID 212)
-                - personal finance (ID 495)
-                  - personal debt (ID 500)
-            - bodybuilding (ID 602)
-              - weightlifting (ID 597)
-          - track and field (ID 593)
-        - hobbies (ID 220)
-          - lifestyle (ID 24)
-            - fashion (ID 35)
-              - style (ID 44)
-                - design (ID 36)
-                - street style (ID 622)
-              - fashion & beauty (ID 210)
-                - beauty (ID 606)
-              - costume (ID 348)
-              - style & fashion (ID 605)
-              - women's shoes and footwear (ID 609)
-                - women's clothing (ID 608)
-                - men's shoes and footwear (ID 617)
-                  - men's clothing (ID 616)
-                    - men's accessories (ID 615)
-                      - women's accessories (ID 607)
-              - designer clothing (ID 612)
-              - fashion trends (ID 613)
-              - high fashion (ID 614)
-            - luxury (ID 101)
-              - high-end (ID 102)
-            - frugal living (ID 499)
-          - hobby (ID 154)
-            - gaming (hobbyist) (ID 223)
-          - careers (ID 295)
-            - apprenticeships (ID 296)
-              - vocational training (ID 301)
-            - career advice (ID 297)
-              - career planning (ID 298)
-            - job search (ID 299)
-          - hobbies & interests (ID 378)
-            - interest (ID 155)
-        - outdoor decorating (ID 416)
-          - interior decorating (ID 414)
-            - interior (ID 108)
-        - camping (ID 693)
-      - personal celebrations & life events (ID 328)
-      - religious events (ID 330)
-      - sporting events (ID 331)
-      - business expos & conferences (ID 335)
-      - cinemas and events (ID 337)
-        - events and attractions (ID 315)
-          - historic site and landmark tours (ID 318)
-        - nightclubs (ID 323)
-          - bars & restaurants (ID 334)
-        - theater venues and events (ID 332)
-          - theater (ID 354)
-            - musicals (ID 321)
-      - comedy events (ID 338)
-      - concerts & music events (ID 339)
-        - concerts (ID 58)
-          - awards shows (ID 327)
-      - disasters (ID 489)
-        - injuries (ID 425)
-    - event promotion (ID 134)
-    - event planning (ID 159)
-    - memorial (ID 165)
-      - tribute (ID 166)
-      - bereavement (ID 342)
-    - political event (ID 329)
-  - interactive (ID 156)
-  - movies and tv shows (ID 172)
-    - movies (ID 59)
-      - films (ID 60)
-        - documentary movies (ID 452)
-      - action and adventure movies (ID 445)
-      - romance movies (ID 446)
-      - science fiction movies (ID 447)
-      - indie and arthouse movies (ID 448)
-      - animation movies (ID 449)
-      - crime and mystery movies (ID 451)
-      - drama movies (ID 453)
-      - family and children movies (ID 454)
-      - fantasy movies (ID 455)
-      - horror movies (ID 456)
-      - world movies (ID 457)
-    - soundtracks, tv and showtunes (ID 482)
-      - music tv (ID 670)
-    - pop culture (ID 514)
-    - television (ID 660)
-      - soap opera tv (ID 662)
-      - special interest tv (ID 663)
-      - children's tv (ID 665)
-        - animation tv (ID 661)
-          - computer animation (ID 635)
-      - drama tv (ID 667)
-      - factual tv (ID 668)
-        - reality tv (ID 671)
-      - science fiction tv (ID 672)
-  - entertainment industry (ID 265)
-    - financial industry (ID 267)
-    - hospitality industry (ID 270)
-    - apparel industry (ID 285)
-      - retail industry (ID 286)
-    - automotive industry (ID 289)
-      - automotive (ID 77)
-        - auto parts (ID 230)
-          - auto repair (ID 232)
-        - auto safety technologies (ID 237)
-          - auto safety (ID 233)
-            - auto recalls (ID 231)
-          - auto infotainment technologies (ID 235)
-            - auto navigation systems (ID 236)
-      - manufacturing industry (ID 276)
-        - food industry (ID 268)
-        - mechanical and industrial engineering industry (ID 277)
-          - civil engineering industry (ID 292)
-        - metals industry (ID 279)
-        - power and energy industry (ID 282)
-        - publishing industry (ID 283)
-        - real estate industry (ID 284)
-          - real estate renting and leasing (ID 526)
-            - auto rentals (ID 238)
-            - apartments (ID 516)
-            - real estate buying and selling (ID 525)
-              - auto buying and selling (ID 228)
-        - technology industry (ID 287)
-        - construction industry (ID 293)
-          - remodeling & construction (ID 408)
-      - aviation industry (ID 290)
-        - defense industry (ID 294)
-      - biotech and biomedical industry (ID 291)
-  - amusement and theme parks (ID 316)
-  - home entertaining (ID 411)
-    - home improvement (ID 64)
-    - home security (ID 412)
-      - smart home (ID 409)
-  - children's games and toys (ID 553)
-    - model toys (ID 381)
-    - arts and crafts (ID 387)
-      - art (ID 25)
-        - digital arts (ID 350)
-        - modern art (ID 352)
-        - painting (ID 392)
-        - body art (ID 610)
-      - crafts (ID 63)
-        - diy (ID 62)
-        - creative work (ID 132)
-        - beadwork (ID 388)
-          - needlework (ID 391)
-        - candle and soap making (ID 389)
-          - bath and shower (ID 618)
-        - woodworking (ID 393)
-      - arts and culture (ID 174)
-        - culture (ID 26)
-          - car culture (ID 225)
-      - arts & crafts (ID 221)
-      - antiquing and antiques (ID 379)
-      - drawing and sketching (ID 390)
-    - board games and puzzles (ID 403)
-      - card games (ID 404)
-        - gifts and greetings cards (ID 547)
-        - lotteries and scratchcards (ID 551)
-          - stamps and coins (ID 398)
-      - puzzle video games (ID 712)
-    - fish and aquariums (ID 508)
-      - animals (ID 66)
-        - pets (ID 65)
-          - cats (ID 506)
-          - pet adoptions (ID 510)
-          - pet supplies (ID 513)
-            - household supplies (ID 550)
-        - cars (ID 78)
-          - motorcycles (ID 79)
-            - scooters (ID 227)
-            - cycling (ID 559)
-          - auto racing (ID 576)
-            - auto shows (ID 234)
-        - birds (ID 505)
-          - birdwatching (ID 395)
-        - dogs (ID 507)
-        - large animals (ID 509)
-        - reptiles (ID 511)
-        - veterinary medicine (ID 512)
-        - rodeo (ID 580)
-      - zoos & aquariums (ID 333)
-        - museums & galleries (ID 320)
-- history (ID 12)
-  - heritage (ID 74)
-  - biographies (ID 241)
-- technology (ID 13)
-  - science (ID 7)
-    - psychology (ID 30)
-      - physical therapy (ID 375)
-      - paranormal phenomena (ID 383)
-        - magic and illusion (ID 380)
-    - astronomy (ID 39)
-      - astrophysics (ID 95)
-      - astrology (ID 530)
-      - space and astronomy (ID 544)
-        - space (ID 94)
-    - research (ID 72)
-      - research & development (ID 194)
-    - discoveries (ID 73)
-    - biological sciences (ID 538)
-    - chemistry (ID 539)
-    - genetics (ID 540)
-      - genealogy and ancestry (ID 406)
-    - physics (ID 543)
-      - math (ID 11)
-        - mathematics (ID 37)
-  - innovation (ID 14)
-  - software (ID 43)
-    - software & applications (ID 196)
-      - tech companies & startups (ID 193)
-        - startups (ID 86)
-          - entrepreneurship (ID 51)
-            - entrepreneur (ID 146)
-          - startup (ID 145)
-    - photo editing software (ID 629)
-    - shareware and freeware (ID 630)
-    - video software (ID 631)
-    - antivirus software (ID 633)
-    - graphics software (ID 639)
-      - 3-d graphics (ID 628)
-    - operating systems (ID 640)
-  - technology & computing (ID 623)
-    - cloud computing (ID 645)
-  - smartphones (ID 655)
-    - telecommunications (ID 122)
-      - telecommunications industry (ID 288)
-    - tablets and e-readers (ID 656)
-  - wearable technology (ID 657)
-  - robotics (ID 658)
-- politics (ID 18)
-  - government (ID 19)
-  - news and politics (ID 487)
-- business (ID 20)
-  - corporate (ID 128)
-  - e-commerce & retail (ID 176)
-    - shopping (ID 98)
-      - malls & shopping centers (ID 319)
-      - flower shopping (ID 546)
-      - grocery shopping (ID 548)
-      - holiday shopping (ID 549)
-    - ecommerce (ID 126)
-  - business services (ID 177)
-    - legal services industry (ID 272)
-      - law firms & legal services (ID 217)
-      - environmental services industry (ID 266)
-      - information services industry (ID 271)
-  - small and medium-sized business (ID 253)
-  - business administration (ID 254)
-  - business i.t. (ID 256)
-  - business operations (ID 257)
-    - business utilities (ID 261)
-      - public utilities & infrastructure (ID 186)
-- travel (ID 23)
-  - destinations (ID 48)
-  - tourism (ID 160)
-    - travel & tourism (ID 208)
-  - travel books (ID 246)
-  - walking (ID 595)
-  - africa travel (ID 673)
-  - asia travel (ID 674)
-  - australia and oceania travel (ID 675)
-  - europe travel (ID 676)
-  - north america travel (ID 677)
-    - south america travel (ID 679)
-  - polar travel (ID 678)
-  - travel preparation and advice (ID 680)
-  - adventure travel (ID 681)
-  - honeymoons and getaways (ID 683)
-    - vacation (ID 105)
-      - holidays (ID 106)
-        - national & civic holidays (ID 322)
-        - holiday tv (ID 669)
-    - getaways (ID 107)
-    - hotels and motels (ID 684)
-      - spas (ID 687)
-      - bed & breakfasts (ID 690)
-  - rail travel (ID 685)
-  - road trips (ID 686)
-    - day trips (ID 695)
-  - air travel (ID 688)
-  - beach travel (ID 689)
-  - budget travel (ID 691)
-  - business travel (ID 692)
-- food (ID 27)
-  - cooking (ID 47)
-    - recipes (ID 46)
-      - cookbooks (ID 244)
-      - desserts and baking (ID 361)
-    - barbecues and grilling (ID 360)
-      - cigars (ID 396)
-        - smoking cessation (ID 376)
-    - healthy cooking and eating (ID 365)
-      - healthy living (ID 367)
-  - nutrition (ID 96)
-    - vegetarian diets (ID 358)
-      - vegan diets (ID 357)
-  - food & drink (ID 355)
-    - food & dining (ID 209)
-  - world cuisines (ID 359)
-  - dining out (ID 362)
-  - food allergies (ID 363)
-    - allergies (ID 418)
-  - food movements (ID 364)
-- philosophy (ID 31)
-- courses (ID 52)
-  - workshops and classes (ID 386)
-  - golf (ID 570)
-    - squash (ID 589)
-- reviews (ID 54)
-  - gadgets & reviews (ID 195)
-- current affairs (ID 71)
-- cryptocurrency (ID 76)
-  - blockchain (ID 103)
-- self-help (ID 85)
-  - road-side assistance (ID 226)
-  - financial assistance (ID 497)
-- influencers (ID 90)
-- nfts (ID 104)
-- marriage (ID 110)
-  - family (ID 69)
-    - family and relationships (ID 341)
-    - family travel (ID 682)
-  - weddings (ID 109)
-    - wedding (ID 158)
-      - engagement (ID 157)
-  - divorce (ID 344)
-  - marriage and civil unions (ID 346)
-- banks (ID 113)
-  - finance (ID 21)
-    - investing (ID 75)
-      - portfolio (ID 131)
-      - investment & trading (ID 175)
-      - personal investing (ID 501)
-    - business and finance (ID 248)
-      - business accounting & finance (ID 249)
-      - business banking & finance (ID 255)
-    - financial planning (ID 498)
-      - retirement planning (ID 503)
-  - consumer banking (ID 496)
-- public services (ID 117)
-  - professional services (ID 148)
-    - professional development (ID 181)
-  - public safety & law enforcement (ID 184)
-    - regulatory & compliance (ID 219)
-- legal (ID 118)
-  - judiciary & legal (ID 185)
-    - judiciary (ID 119)
-  - law (ID 491)
-- healthcare (ID 120)
-  - health (ID 15)
-    - wellness (ID 16)
-      - health information & wellness (ID 189)
-        - mental health & counseling (ID 192)
-          - mental health (ID 84)
-    - children's health (ID 368)
-    - senior health (ID 372)
-    - women's health (ID 377)
-      - men's health (ID 371)
-    - medical health (ID 417)
-      - medical tests (ID 440)
-    - foot health (ID 422)
-    - heart and cardiovascular diseases (ID 423)
-      - endocrine and metabolic diseases (ID 420)
-      - infectious diseases (ID 424)
-        - cold and flu (ID 436)
-        - vaccines (ID 443)
-      - bone and joint conditions (ID 433)
-        - eye and vision conditions (ID 421)
-          - ear, nose and throat conditions (ID 419)
-      - digestive disorders (ID 439)
-        - blood disorders (ID 428)
-          - brain and nervous system disorders (ID 434)
-            - sleep disorders (ID 431)
-          - diabetes (ID 438)
-    - lung and respiratory health (ID 426)
-    - sexual health (ID 429)
-      - reproductive health (ID 427)
-    - dental health (ID 437)
-  - care (ID 67)
-    - oral care (ID 620)
-  - insurance (ID 114)
-    - auto insurance (ID 229)
-  - charity (ID 140)
-    - community (ID 138)
-      - social (ID 203)
-        - social media (ID 4)
-          - social network (ID 144)
-            - social networking (ID 204)
-    - activism (ID 152)
-      - petition (ID 151)
-    - non-profit organizations (ID 280)
-      - scientific organizations (ID 197)
-      - nonprofits & ngos (ID 206)
-        - nonprofits (ID 124)
-          - nonprofit (ID 139)
-        - ngos (ID 125)
-  - hospitals & clinics (ID 188)
-    - hospitals (ID 121)
-    - universities & colleges (ID 178)
-      - universities (ID 115)
-  - healthcare industry (ID 269)
-    - pharmaceutical industry (ID 281)
-      - pharmaceutical drugs (ID 441)
-        - pharmaceutical & drug information (ID 190)
-  - eldercare (ID 345)
-- blog (ID 129)
-  - personal blog (ID 130)
-- personal (ID 135)
-  - personal taxes (ID 502)
-- resume (ID 136)
-- discussion (ID 143)
-  - sensitive topics (ID 713)
-- consulting (ID 147)
-  - management consulting industry (ID 275)
-- booking (ID 149)
-  - appointments (ID 150)
-- school (ID 153)
-  - education (ID 6)
-    - learning (ID 5)
-      - online learning & moocs (ID 180)
-        - online learning (ID 116)
-          - online education (ID 313)
-            - online store (ID 127)
-      - homework and study (ID 311)
-      - language learning (ID 312)
-        - programming languages (ID 652)
-    - educational resources (ID 182)
-      - human resources (ID 250)
-    - education industry (ID 264)
-    - adult education (ID 302)
-    - secondary education (ID 304)
-    - special education (ID 305)
-    - college education (ID 306)
-    - postgraduate education (ID 307)
-    - early childhood education (ID 308)
-    - educational assessment (ID 309)
-    - primary education (ID 314)
-  - k-12 & schools (ID 179)
-  - private school (ID 303)
-  - homeschooling (ID 310)
-- landing page (ID 163)
-- federal, state, & local (ID 183)
-- civic engagement (ID 187)
-- uncategorized (ID 224)
-- fiction (ID 245)
-  - literature (ID 32)
-    - literacy (ID 38)
-    - poetry (ID 87)
-      - writing (ID 88)
-        - freelance writing (ID 400)
-        - screenwriting (ID 401)
-    - novels and literature (ID 171)
-      - novels (ID 2)
-      - books and literature (ID 239)
-    - children's literature (ID 242)
-    - young adult literature (ID 247)
-  - sci-fi and fantasy (ID 385)
-- logistics (ID 251)
-  - logistics and transportation industry (ID 273)
-- marketing and advertising (ID 252)
-  - marketing (ID 89)
-    - sales (ID 99)
-      - sales and promotions (ID 552)
-        - coupons and discounts (ID 545)
-          - deals (ID 100)
-    - consumer issues (ID 258)
-  - advertising industry (ID 263)
-- executive leadership & management (ID 259)
-- green solutions (ID 260)
-  - sustainability (ID 29)
-- economy (ID 262)
-- agriculture (ID 274)
-  - gardening (ID 407)
-    - home & garden (ID 211)
-    - landscaping (ID 415)
-  - land and farms (ID 523)
-- remote working (ID 300)
-- dating (ID 343)
-- alcoholic beverages (ID 356)
-  - non-alcoholic beverages (ID 366)
-- weight loss (ID 373)
-- beekeeping (ID 394)
-- skin and dermatology (ID 430)
-  - cosmetic medical services (ID 444)
-    - surgery (ID 442)
-- substance abuse (ID 432)
-- cancer (ID 435)
-- oldies/adult standards (ID 476)
-- blues (ID 478)
-- crime (ID 488)
-- weather (ID 494)
-  - environment (ID 28)
-    - indoor environmental quality (ID 413)
-  - climate (ID 40)
-- houses (ID 521)
-  - architecture (ID 41)
-  - property (ID 81)
-    - real estate (ID 80)
-    - retail property (ID 517)
-    - hotel properties (ID 520)
-      - vacation properties (ID 518)
-    - industrial property (ID 522)
-    - office property (ID 524)
-  - housing (ID 82)
-- geography (ID 541)
-  - geology (ID 542)
-- sailing (ID 583)
-  - rowing (ID 581)
-  - cruises (ID 694)
-- skiing (ID 584)
-- deodorant and antiperspirant (ID 619)
-- shaving (ID 621)
-- desktops (ID 642)
-  - computer peripherals (ID 627)
-    - gadgets (ID 42)
-    - laptops (ID 651)
-  - desktop publishing (ID 637)
-- web development (ID 646)
-  - developmental sites (ID 519)
-  - web conferencing (ID 632)
-    - online forums & discussion boards (ID 205)
-      - forum (ID 142)
-        - fan communities & forums (ID 215)
-          - fan conventions (ID 340)
-  - browsers (ID 634)
-  - internet (ID 644)
-    - computer networking (ID 626)
-      - information and network security (ID 643)
-    - internet of things (ID 649)
-  - web hosting (ID 647)
-  - web design and html (ID 650)
-- email (ID 648)
