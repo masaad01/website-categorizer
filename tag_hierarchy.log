@@ -20,3 +20,102 @@
 2025-04-06 13:17:21 [INFO] Hierarchy report saved to tag_hierarchy_report.txt
 2025-04-06 13:17:21 [INFO] Tag hierarchy computation completed in 0.99 seconds.
 2025-04-06 13:17:23 [INFO] Embedding cache saved successfully.
+2025-04-06 23:07:19 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:07:19 [INFO] Loaded 713 tags.
+2025-04-06 23:07:19 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:07:20 [INFO] Embeddings computed for all tags.
+2025-04-06 23:07:20 [INFO] Genericity scores computed.
+2025-04-06 23:07:20 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:07:20 [INFO] Hierarchy JSON saved to tag_hierarchy2.json
+2025-04-06 23:07:20 [INFO] Graphviz DOT file saved to tag_hierarchy2.dot
+2025-04-06 23:07:20 [INFO] Hierarchy report saved to tag_hierarchy_report2.txt
+2025-04-06 23:07:20 [INFO] Tag hierarchy computation completed in 1.16 seconds.
+2025-04-06 23:07:23 [INFO] Embedding cache saved successfully.
+2025-04-06 23:14:27 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:14:27 [INFO] Loaded 713 tags.
+2025-04-06 23:14:28 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:14:28 [INFO] Embeddings computed for all tags.
+2025-04-06 23:14:28 [INFO] Genericity scores computed.
+2025-04-06 23:14:28 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:14:28 [INFO] Hierarchy JSON saved to tag_hierarchy2.json
+2025-04-06 23:14:28 [INFO] Graphviz DOT file saved to tag_hierarchy2.dot
+2025-04-06 23:14:28 [INFO] Hierarchy report saved to tag_hierarchy_report2.txt
+2025-04-06 23:14:28 [INFO] Tag hierarchy computation completed in 1.23 seconds.
+2025-04-06 23:14:31 [INFO] Embedding cache saved successfully.
+2025-04-06 23:16:58 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:16:58 [INFO] Loaded 713 tags.
+2025-04-06 23:16:59 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:16:59 [INFO] Embeddings computed for all tags.
+2025-04-06 23:16:59 [INFO] Genericity scores computed.
+2025-04-06 23:16:59 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:17:00 [INFO] Hierarchy JSON saved to tag_hierarchy2.json
+2025-04-06 23:17:00 [INFO] Graphviz DOT file saved to tag_hierarchy2.dot
+2025-04-06 23:17:00 [INFO] Hierarchy report saved to tag_hierarchy_report2.txt
+2025-04-06 23:17:00 [INFO] Tag hierarchy computation completed in 1.15 seconds.
+2025-04-06 23:17:02 [INFO] Embedding cache saved successfully.
+2025-04-06 23:20:19 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:20:19 [INFO] Loaded 713 tags.
+2025-04-06 23:20:19 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:20:19 [INFO] Embeddings computed for all tags.
+2025-04-06 23:20:20 [INFO] Genericity scores computed.
+2025-04-06 23:20:20 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:20:20 [INFO] Hierarchy JSON saved to tag_hierarchy2.json
+2025-04-06 23:20:20 [INFO] Graphviz DOT file saved to tag_hierarchy2.dot
+2025-04-06 23:20:20 [INFO] Hierarchy report saved to tag_hierarchy_report2.txt
+2025-04-06 23:20:20 [INFO] Tag hierarchy computation completed in 1.14 seconds.
+2025-04-06 23:20:22 [INFO] Embedding cache saved successfully.
+2025-04-06 23:26:58 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:26:58 [INFO] Loaded 713 tags.
+2025-04-06 23:26:58 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:26:58 [INFO] Embeddings computed for all tags.
+2025-04-06 23:26:59 [INFO] Genericity scores computed.
+2025-04-06 23:26:59 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:26:59 [INFO] Hierarchy JSON saved to tag_hierarchy2.json
+2025-04-06 23:26:59 [INFO] Graphviz DOT file saved to tag_hierarchy2.dot
+2025-04-06 23:26:59 [INFO] Hierarchy report saved to tag_hierarchy_report2.txt
+2025-04-06 23:26:59 [INFO] Tag hierarchy computation completed in 1.57 seconds.
+2025-04-06 23:27:02 [INFO] Embedding cache saved successfully.
+2025-04-06 23:39:50 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:39:50 [INFO] Loaded 713 tags.
+2025-04-06 23:39:51 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:39:51 [INFO] Embeddings computed for all tags.
+2025-04-06 23:39:51 [INFO] Genericity scores computed.
+2025-04-06 23:39:52 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:39:52 [INFO] Hierarchy JSON saved to tag_hierarchy3.json
+2025-04-06 23:39:52 [INFO] Graphviz DOT file saved to tag_hierarchy3.dot
+2025-04-06 23:39:52 [INFO] Hierarchy report saved to tag_hierarchy_report3.txt
+2025-04-06 23:39:52 [INFO] Tag hierarchy computation completed in 1.54 seconds.
+2025-04-06 23:39:54 [INFO] Embedding cache saved successfully.
+2025-04-06 23:45:29 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:45:29 [INFO] Loaded 713 tags.
+2025-04-06 23:45:29 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:45:29 [INFO] Embeddings computed for all tags.
+2025-04-06 23:45:30 [INFO] Genericity scores computed.
+2025-04-06 23:45:30 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:45:30 [INFO] Hierarchy JSON saved to tag_hierarchy3.json
+2025-04-06 23:45:30 [INFO] Graphviz DOT file saved to tag_hierarchy3.dot
+2025-04-06 23:45:30 [INFO] Hierarchy report saved to tag_hierarchy_report3.txt
+2025-04-06 23:45:30 [INFO] Tag hierarchy computation completed in 1.54 seconds.
+2025-04-06 23:45:33 [INFO] Embedding cache saved successfully.
+2025-04-06 23:54:59 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:54:59 [INFO] Loaded 713 tags.
+2025-04-06 23:55:00 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:55:00 [INFO] Embeddings computed for all tags.
+2025-04-06 23:55:01 [INFO] Genericity scores computed.
+2025-04-06 23:55:01 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:55:01 [INFO] Hierarchy JSON saved to tag_hierarchy4.json
+2025-04-06 23:55:01 [INFO] Graphviz DOT file saved to tag_hierarchy4.dot
+2025-04-06 23:55:01 [INFO] Hierarchy report saved to tag_hierarchy_report4.txt
+2025-04-06 23:55:01 [INFO] Tag hierarchy computation completed in 1.50 seconds.
+2025-04-06 23:55:03 [INFO] Embedding cache saved successfully.
+2025-04-06 23:56:17 [INFO] Starting tag hierarchy computation with multiple parents...
+2025-04-06 23:56:17 [INFO] Loaded 713 tags.
+2025-04-06 23:56:18 [INFO] Embedding cache loaded successfully.
+2025-04-06 23:56:18 [INFO] Embeddings computed for all tags.
+2025-04-06 23:56:18 [INFO] Genericity scores computed.
+2025-04-06 23:56:19 [INFO] Hierarchy (with multiple parents) built successfully.
+2025-04-06 23:56:19 [INFO] Hierarchy JSON saved to tag_hierarchy4.json
+2025-04-06 23:56:19 [INFO] Graphviz DOT file saved to tag_hierarchy4.dot
+2025-04-06 23:56:19 [INFO] Hierarchy report saved to tag_hierarchy_report4.txt
+2025-04-06 23:56:19 [INFO] Tag hierarchy computation completed in 1.54 seconds.
+2025-04-06 23:56:21 [INFO] Embedding cache saved successfully.

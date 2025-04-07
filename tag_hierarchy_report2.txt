@@ -1,0 +1,1432 @@
+Tag Hierarchy Report
+====================
+
+Genericity scores:
+entertainment: 169.1727
+novels: 31.0707
+news: 59.1821
+social media: 6.3787
+learning: 32.5024
+education: 43.6191
+science: 59.8296
+media: 72.7155
+wiki: 6.5089
+information: 52.4694
+math: 40.8310
+history: 14.1959
+technology: 72.1924
+innovation: 20.6773
+health: 49.0894
+wellness: 32.0942
+sports: 93.4445
+politics: 23.8547
+government: 9.1363
+business: 66.3905
+finance: 23.0049
+music: 98.7359
+travel: 46.2101
+lifestyle: 54.1140
+art: 47.0111
+culture: 35.7792
+food: 37.2495
+environment: 37.4502
+sustainability: 6.5059
+psychology: 20.8317
+philosophy: 26.7737
+literature: 32.9120
+gaming: 75.3540
+comedy: 24.9884
+fashion: 35.9578
+design: 15.5964
+mathematics: 41.2381
+literacy: 27.2236
+astronomy: 49.1974
+climate: 11.3984
+architecture: 20.2472
+gadgets: 28.9475
+software: 37.9228
+style: 29.0649
+fitness: 61.4021
+recipes: 19.5565
+cooking: 42.1552
+destinations: 41.1676
+adventures: 61.2356
+events: 78.1320
+entrepreneurship: 20.0573
+courses: 47.1124
+esports: 37.8252
+reviews: 16.0006
+manga: 26.8481
+comics: 29.7854
+albums: 52.5171
+concerts: 43.8289
+movies: 59.9752
+films: 44.8428
+photography: 52.9512
+diy: 9.5307
+crafts: 61.6789
+home improvement: 5.1641
+pets: 14.9467
+animals: 58.0481
+care: 20.0827
+parenting: 13.5016
+family: 16.8406
+kids: 19.8020
+current affairs: 2.5647
+research: 22.7203
+discoveries: 30.7384
+heritage: 20.9049
+investing: 20.2416
+cryptocurrency: 13.8888
+automotive: 31.7541
+cars: 53.9707
+motorcycles: 25.0352
+real estate: 12.9845
+property: 21.7109
+housing: 18.7703
+nature: 49.7956
+mental health: 10.0951
+self-help: 12.3311
+startups: 18.4072
+poetry: 38.1611
+writing: 20.4580
+marketing: 53.1919
+influencers: 3.1614
+gambling: 31.4263
+casinos: 35.2451
+betting: 42.4388
+space: 7.7577
+astrophysics: 12.8925
+nutrition: 32.4008
+exercise: 71.9374
+shopping: 35.4386
+sales: 24.4957
+deals: 8.4395
+luxury: 15.0182
+high-end: 2.8247
+blockchain: 2.0301
+nfts: 1.8399
+vacation: 29.7073
+holidays: 10.0079
+getaways: 25.0214
+interior: 3.4156
+weddings: 20.7325
+marriage: 18.9819
+humor: 25.6047
+funny: 9.5368
+banks: 29.0678
+insurance: 15.7579
+universities: 20.1826
+online learning: 11.7967
+public services: 11.4756
+legal: 12.1530
+judiciary: 6.8924
+healthcare: 45.7874
+hospitals: 30.4784
+telecommunications: 22.8208
+anime: 32.8160
+nonprofits: 9.3102
+ngos: 9.7324
+ecommerce: 35.6674
+online store: 6.7132
+corporate: 28.9112
+blog: 15.8112
+personal blog: 4.2717
+portfolio: 9.7343
+creative work: 11.8804
+event: 79.5951
+event promotion: 22.6131
+personal: 10.0644
+resume: 3.8260
+membership: 7.7299
+community: 24.4972
+nonprofit: 7.9997
+charity: 36.5606
+informational: 27.6723
+forum: 9.4375
+discussion: 11.8031
+social network: 5.0839
+startup: 9.2895
+entrepreneur: 17.5858
+consulting: 17.8158
+professional services: 9.8350
+booking: 33.5164
+appointments: 9.5081
+petition: 6.8851
+activism: 13.7309
+school: 36.2128
+hobby: 70.8067
+interest: 20.5756
+interactive: 32.0706
+engagement: 11.4669
+wedding: 17.2272
+event planning: 21.8102
+tourism: 56.7866
+directory: 4.4942
+listing: 21.7466
+landing page: 4.4267
+magazine: 32.9843
+memorial: 12.4028
+tribute: 10.4688
+subscription: 12.9589
+content service: 8.8688
+kid-friendly: 10.4105
+children: 25.8039
+novels and literature: 21.5536
+movies and tv shows: 42.9186
+music and audio: 26.9780
+arts and culture: 22.3471
+investment & trading: 4.8048
+e-commerce & retail: 13.3654
+business services: 17.9985
+universities & colleges: 12.6785
+k-12 & schools: 7.4001
+online learning & moocs: 12.4685
+professional development: 4.4776
+educational resources: 16.5233
+federal, state, & local: 5.0921
+public safety & law enforcement: 3.7416
+judiciary & legal: 5.9175
+public utilities & infrastructure: 3.1824
+civic engagement: 5.0775
+hospitals & clinics: 15.1735
+health information & wellness: 14.2478
+pharmaceutical & drug information: 8.2395
+fitness & lifestyle: 20.4715
+mental health & counseling: 5.9833
+tech companies & startups: 11.8175
+research & development: 7.1366
+gadgets & reviews: 4.9499
+software & applications: 10.0447
+scientific organizations: 10.4499
+general news portals: 12.6747
+local & community news: 10.2320
+specialized magazines & blogs: 6.8016
+journalism & opinion: 7.3233
+entertainment news: 32.2605
+social: 15.1580
+social networking: 6.3658
+online forums & discussion boards: 7.4655
+nonprofits & ngos: 8.5047
+cultural & community events: 19.8763
+travel & tourism: 17.3133
+food & dining: 7.6002
+fashion & beauty: 9.2762
+home & garden: 6.7689
+personal finance & lifestyle management: 8.0619
+professional leagues & teams: 9.7102
+sports news & analysis: 14.9789
+fan communities & forums: 4.2926
+fitness & outdoor sports: 46.8367
+law firms & legal services: 7.9504
+legal information & resources: 8.3130
+regulatory & compliance: 0.6175
+hobbies: 84.3616
+arts & crafts: 21.0430
+photography & videography: 12.5610
+gaming (hobbyist): 22.3510
+uncategorized: 0.0000
+car culture: 10.7857
+road-side assistance: 3.2355
+scooters: 23.1472
+auto buying and selling: 17.1603
+auto insurance: 9.9466
+auto parts: 13.4668
+auto recalls: 7.1297
+auto repair: 10.7468
+auto safety: 10.9741
+auto shows: 13.2246
+auto infotainment technologies: 10.8462
+auto navigation systems: 10.9532
+auto safety technologies: 14.8685
+auto rentals: 12.8776
+books and literature: 20.6613
+art and photography books: 21.9443
+biographies: 11.0345
+children's literature: 22.6173
+comics and graphic novels: 16.7936
+cookbooks: 23.7876
+fiction: 44.4684
+travel books: 19.9284
+young adult literature: 6.2264
+business and finance: 13.3020
+business accounting & finance: 10.9603
+human resources: 2.5229
+logistics: 12.0706
+marketing and advertising: 15.3944
+small and medium-sized business: 13.0157
+business administration: 6.6076
+business banking & finance: 11.7537
+business i.t.: 11.8165
+business operations: 15.5362
+consumer issues: 3.8678
+executive leadership & management: 1.8593
+green solutions: 2.6528
+business utilities: 9.7562
+economy: 30.1530
+advertising industry: 25.6603
+education industry: 31.5196
+entertainment industry: 49.0313
+environmental services industry: 18.5584
+financial industry: 27.3770
+food industry: 27.1334
+healthcare industry: 30.0806
+hospitality industry: 24.9591
+information services industry: 18.2088
+legal services industry: 21.3792
+logistics and transportation industry: 27.1232
+agriculture: 47.3101
+management consulting industry: 6.0119
+manufacturing industry: 31.4418
+mechanical and industrial engineering industry: 23.2582
+media industry: 24.6508
+metals industry: 24.0264
+non-profit organizations: 10.6219
+pharmaceutical industry: 25.2606
+power and energy industry: 24.9218
+publishing industry: 27.5359
+real estate industry: 31.3690
+apparel industry: 28.9868
+retail industry: 28.1587
+technology industry: 32.6773
+telecommunications industry: 24.5330
+automotive industry: 34.4469
+aviation industry: 29.6755
+biotech and biomedical industry: 26.3265
+civil engineering industry: 21.3966
+construction industry: 26.3948
+defense industry: 16.3016
+careers: 32.2544
+apprenticeships: 12.9035
+career advice: 6.0360
+career planning: 6.2275
+job search: 3.2226
+remote working: 3.1864
+vocational training: 3.9145
+adult education: 9.3106
+private school: 4.1976
+secondary education: 9.0127
+special education: 5.4266
+college education: 15.9699
+postgraduate education: 5.9754
+early childhood education: 8.2604
+educational assessment: 3.3425
+homeschooling: 17.9207
+homework and study: 9.1968
+language learning: 9.6357
+online education: 15.5767
+primary education: 13.8113
+events and attractions: 31.8827
+amusement and theme parks: 26.1161
+fashion events: 26.6355
+historic site and landmark tours: 7.9623
+malls & shopping centers: 4.6044
+museums & galleries: 15.8008
+musicals: 21.3126
+national & civic holidays: 7.1402
+nightclubs: 61.1961
+outdoor activities: 57.2776
+parks & nature: 9.1584
+party supplies and decorations: 12.7793
+awards shows: 9.8805
+personal celebrations & life events: 14.0870
+political event: 23.7882
+religious events: 29.7958
+sporting events: 48.1692
+theater venues and events: 21.3903
+zoos & aquariums: 24.9513
+bars & restaurants: 20.0882
+business expos & conferences: 14.3798
+casinos & gambling: 13.9759
+cinemas and events: 37.6007
+comedy events: 25.2593
+concerts & music events: 32.3751
+fan conventions: 3.8963
+family and relationships: 11.4254
+bereavement: 4.5470
+dating: 11.9917
+divorce: 6.6373
+eldercare: 4.0286
+marriage and civil unions: 6.2164
+fine art: 9.9757
+costume: 16.8876
+dance: 41.6323
+digital arts: 9.2134
+fine art photography: 12.2566
+modern art: 9.8096
+opera: 8.5042
+theater: 43.3645
+food & drink: 6.2765
+alcoholic beverages: 9.0318
+vegan diets: 4.1078
+vegetarian diets: 7.9512
+world cuisines: 9.9535
+barbecues and grilling: 19.1892
+desserts and baking: 8.0101
+dining out: 6.5704
+food allergies: 4.4579
+food movements: 11.3140
+healthy cooking and eating: 9.8595
+non-alcoholic beverages: 4.6316
+healthy living: 11.6384
+children's health: 19.9112
+participant sports: 43.1828
+running and jogging: 7.2254
+men's health: 11.8861
+senior health: 7.4138
+weight loss: 5.2151
+alternative medicine: 5.0887
+physical therapy: 5.8176
+smoking cessation: 3.8078
+women's health: 12.0494
+hobbies & interests: 15.5136
+antiquing and antiques: 5.0582
+magic and illusion: 6.9114
+model toys: 10.9138
+musical instruments: 25.2379
+paranormal phenomena: 7.7348
+radio control: 3.2393
+sci-fi and fantasy: 17.1371
+workshops and classes: 12.6664
+arts and crafts: 30.7880
+beadwork: 9.5657
+candle and soap making: 14.7247
+drawing and sketching: 17.1355
+needlework: 10.8996
+painting: 21.6313
+woodworking: 31.5839
+beekeeping: 6.2077
+birdwatching: 28.5832
+cigars: 17.7692
+comic books: 10.9113
+stamps and coins: 4.3720
+audio production: 9.1554
+freelance writing: 1.6574
+screenwriting: 15.0635
+video production: 9.9598
+board games and puzzles: 28.6385
+card games: 38.5551
+roleplaying games: 23.2699
+genealogy and ancestry: 9.3448
+gardening: 23.5132
+remodeling & construction: 5.0237
+smart home: 6.3538
+home appliances: 9.1458
+home entertaining: 12.7989
+home security: 4.3887
+indoor environmental quality: 2.6934
+interior decorating: 14.2152
+landscaping: 10.3371
+outdoor decorating: 25.6737
+medical health: 27.7825
+allergies: 6.7876
+ear, nose and throat conditions: 8.3699
+endocrine and metabolic diseases: 7.2903
+eye and vision conditions: 8.3912
+foot health: 17.7463
+heart and cardiovascular diseases: 22.0130
+infectious diseases: 10.5724
+injuries: 31.7269
+lung and respiratory health: 12.3098
+reproductive health: 13.1877
+blood disorders: 10.0578
+sexual health: 10.7956
+skin and dermatology: 14.2632
+sleep disorders: 2.1560
+substance abuse: 2.4916
+bone and joint conditions: 10.9736
+brain and nervous system disorders: 7.2680
+cancer: 10.6192
+cold and flu: 7.0702
+dental health: 10.6838
+diabetes: 10.8876
+digestive disorders: 10.9783
+medical tests: 12.1596
+pharmaceutical drugs: 6.5892
+surgery: 8.4808
+vaccines: 10.8265
+cosmetic medical services: 14.2873
+action and adventure movies: 18.8785
+romance movies: 21.3315
+science fiction movies: 17.3720
+indie and arthouse movies: 14.0014
+animation movies: 18.0552
+comedy movies: 18.4738
+crime and mystery movies: 14.7873
+documentary movies: 18.9838
+drama movies: 17.3590
+family and children movies: 18.2748
+fantasy movies: 16.9516
+horror movies: 15.6514
+world movies: 13.7462
+soft ac music: 8.3942
+urban ac music: 6.1706
+adult album alternative: 2.9141
+alternative music: 15.0498
+children's music: 37.9854
+classic hits: 1.8971
+classical music: 33.3287
+college radio: 7.2738
+comedy (music and audio): 30.1873
+contemporary hits/pop/top 40: 6.4028
+country music: 22.0960
+dance and electronic music: 32.9948
+world/international music: 22.1094
+songwriters/folk: 9.5352
+gospel music: 17.8410
+hip hop music: 20.4106
+inspirational/new age music: 16.6835
+jazz: 34.2654
+oldies/adult standards: 3.1912
+reggae: 16.6004
+blues: 4.4444
+religious (music and audio): 39.9948
+r&b/soul/funk: 22.4478
+rock music: 32.5458
+soundtracks, tv and showtunes: 33.0182
+sports radio: 16.8293
+talk radio: 7.2642
+urban contemporary music: 15.1046
+variety (music and audio): 32.4810
+news and politics: 14.9729
+crime: 15.7707
+disasters: 22.8931
+international news: 7.7325
+law: 7.6032
+local news: 10.2528
+national news: 11.1078
+weather: 44.8792
+personal finance: 10.5010
+consumer banking: 5.4163
+financial assistance: 5.9352
+financial planning: 7.9198
+frugal living: 4.0146
+personal debt: 4.2746
+personal investing: 10.3045
+personal taxes: 3.5772
+retirement planning: 3.2350
+home utilities: 6.5002
+birds: 29.1854
+cats: 9.6018
+dogs: 21.4071
+fish and aquariums: 22.8843
+large animals: 8.7237
+pet adoptions: 5.6445
+reptiles: 11.6648
+veterinary medicine: 11.0926
+pet supplies: 8.1397
+pop culture: 15.7184
+humor and satire: 10.9479
+apartments: 18.7748
+retail property: 12.9101
+vacation properties: 17.1762
+developmental sites: 4.3182
+hotel properties: 18.4149
+houses: 23.5041
+industrial property: 10.5378
+land and farms: 6.8813
+office property: 9.6043
+real estate buying and selling: 14.1778
+real estate renting and leasing: 11.6846
+religion & spirituality: 12.4480
+agnosticism: 7.1545
+spirituality: 14.1771
+astrology: 13.8948
+atheism: 9.9448
+buddhism: 20.7675
+christianity: 17.9251
+hinduism: 16.8007
+islam: 11.0072
+judaism: 13.7262
+sikhism: 7.1128
+biological sciences: 14.5957
+chemistry: 24.3715
+genetics: 19.5170
+geography: 30.0893
+geology: 21.0441
+physics: 47.2645
+space and astronomy: 18.2929
+coupons and discounts: 2.7942
+flower shopping: 5.3391
+gifts and greetings cards: 10.6897
+grocery shopping: 7.3267
+holiday shopping: 6.5262
+household supplies: 7.5640
+lotteries and scratchcards: 17.8005
+sales and promotions: 8.4348
+children's games and toys: 53.3369
+american football: 9.9337
+boxing: 48.7205
+cheerleading: 14.7417
+college sports: 28.8609
+cricket: 52.4011
+cycling: 22.3705
+darts: 27.7284
+disabled sports: 24.5739
+diving: 10.7034
+equine sports: 36.8314
+extreme sports: 28.7920
+australian rules football: 17.8206
+fantasy sports: 29.9540
+field hockey: 22.5524
+figure skating: 22.0299
+fishing sports: 44.3562
+golf: 51.7762
+gymnastics: 50.1307
+hunting and shooting: 20.7216
+ice hockey: 24.0833
+inline skating: 5.9383
+lacrosse: 19.8150
+auto racing: 43.1150
+martial arts: 47.9608
+olympic sports: 31.4244
+poker and professional gambling: 22.5316
+rodeo: 21.6664
+rowing: 23.7312
+rugby: 35.8447
+sailing: 22.5411
+skiing: 35.7264
+snooker/pool/billiards: 80.0643
+soccer: 62.6513
+badminton: 45.6800
+softball: 24.5259
+squash: 18.6970
+swimming: 29.9093
+table tennis: 17.9730
+tennis: 55.0866
+track and field: 19.6857
+volleyball: 46.7207
+walking: 21.2727
+water polo: 9.8793
+weightlifting: 19.9888
+baseball: 53.0399
+wrestling: 29.3820
+basketball: 62.4566
+beach volleyball: 16.5195
+bodybuilding: 19.2830
+bowling: 24.8622
+sports equipment: 33.8682
+style & fashion: 12.6364
+beauty: 13.7904
+women's accessories: 6.7793
+women's clothing: 12.2714
+women's shoes and footwear: 12.0252
+body art: 11.8692
+children's clothing: 12.0025
+designer clothing: 13.6685
+fashion trends: 13.2124
+high fashion: 9.9364
+men's accessories: 7.9861
+men's clothing: 9.0466
+men's shoes and footwear: 10.7308
+bath and shower: 5.1548
+deodorant and antiperspirant: 1.9235
+oral care: 2.7993
+shaving: 4.3817
+street style: 7.9635
+technology & computing: 19.0825
+artificial intelligence: 4.5364
+augmented reality: 3.2311
+computer networking: 8.3742
+computer peripherals: 14.0017
+3-d graphics: 2.6006
+photo editing software: 6.9124
+shareware and freeware: 1.9992
+video software: 11.6992
+web conferencing: 12.3700
+antivirus software: 6.6590
+browsers: 24.8545
+computer animation: 10.9882
+databases: 15.6928
+desktop publishing: 3.4507
+digital audio: 9.2111
+graphics software: 10.8772
+operating systems: 4.6094
+data storage and warehousing: 7.6872
+desktops: 29.4884
+information and network security: 4.6384
+internet: 22.3321
+cloud computing: 6.2592
+web development: 10.6507
+web hosting: 4.6113
+email: 5.5856
+internet of things: 7.8477
+web design and html: 7.4104
+laptops: 24.4453
+programming languages: 5.8115
+cameras and camcorders: 15.7622
+home entertainment systems: 16.9692
+smartphones: 26.8980
+tablets and e-readers: 10.6632
+wearable technology: 16.8318
+robotics: 20.3233
+virtual reality: 6.4319
+television: 52.4630
+animation tv: 14.9856
+soap opera tv: 15.9701
+special interest tv: 10.6979
+sports tv: 31.8950
+children's tv: 17.3612
+comedy tv: 23.1438
+drama tv: 15.0388
+factual tv: 16.1349
+holiday tv: 10.1101
+music tv: 32.8754
+reality tv: 9.9195
+science fiction tv: 17.0380
+africa travel: 14.8011
+asia travel: 14.8440
+australia and oceania travel: 15.1134
+europe travel: 9.9816
+north america travel: 10.7522
+polar travel: 10.9784
+south america travel: 9.5904
+travel preparation and advice: 10.3770
+adventure travel: 27.0512
+family travel: 15.3395
+honeymoons and getaways: 24.8702
+hotels and motels: 18.1138
+rail travel: 12.2028
+road trips: 13.8940
+spas: 17.7879
+air travel: 24.1338
+beach travel: 21.1355
+bed & breakfasts: 5.1159
+budget travel: 10.5213
+business travel: 28.9722
+camping: 10.3657
+cruises: 21.3629
+day trips: 10.7314
+video gaming: 35.8820
+console games: 20.7456
+mobile games: 21.3166
+pc games: 23.8608
+action video games: 27.1302
+role-playing video games: 21.0214
+simulation video games: 18.8544
+sports video games: 48.8377
+strategy video games: 17.7540
+action-adventure video games: 25.3355
+adventure video games: 26.1317
+casual games: 24.9636
+educational video games: 27.0680
+exercise and fitness video games: 32.9880
+mmos: 14.6444
+music and party video games: 36.5455
+puzzle video games: 24.0629
+sensitive topics: 1.3341
+
+Parent assignments (child -> parent(s)):
+entertainment -> None (top-level)
+novels -> literature (sim: 0.9081)
+news -> media (sim: 0.8611)
+social media -> social (sim: 0.7896)
+learning -> education (sim: 0.7945)
+education -> courses (sim: 0.7512)
+science -> technology (sim: 0.8139)
+media -> entertainment (sim: 0.7359)
+wiki -> information (sim: 0.7406)
+information -> news (sim: 0.8193)
+math -> mathematics (sim: 1.0640)
+history -> heritage (sim: 0.7691)
+technology -> media (sim: 0.6470)
+innovation -> technology (sim: 0.7539)
+health -> fitness (sim: 0.7473)
+wellness -> health (sim: 0.8440)
+sports -> entertainment (sim: 0.7181)
+politics -> news (sim: 0.6752)
+government -> politics (sim: 0.7937)
+business -> events (sim: 0.6384)
+finance -> financial industry (sim: 0.8540)
+music -> entertainment (sim: 0.8129)
+travel -> tourism (sim: 0.8307)
+lifestyle -> hobbies (sim: 0.7456)
+art -> crafts (sim: 0.7693)
+culture -> music (sim: 0.6748)
+food -> cooking (sim: 0.8622)
+environment -> weather (sim: 0.7931)
+sustainability -> environment (sim: 0.6932)
+psychology -> science (sim: 0.7391)
+philosophy -> physics (sim: 0.6975)
+literature -> fiction (sim: 0.8431)
+gaming -> entertainment (sim: 0.7737)
+comedy -> humor (sim: 0.9626)
+fashion -> lifestyle (sim: 0.7106)
+design -> style (sim: 0.7680)
+mathematics -> physics (sim: 0.7524)
+literacy -> literature (sim: 0.7982)
+astronomy -> science (sim: 0.8765)
+climate -> weather (sim: 0.9317)
+architecture -> houses (sim: 0.7816)
+gadgets -> technology (sim: 0.7786)
+software -> technology (sim: 0.7492)
+style -> fashion (sim: 0.9211)
+fitness -> exercise (sim: 0.9266)
+recipes -> cooking (sim: 0.9403)
+cooking -> crafts (sim: 0.6881)
+destinations -> travel (sim: 0.8280)
+adventures -> entertainment (sim: 0.7465)
+events -> event (sim: 1.0848)
+entrepreneurship -> business (sim: 0.8208)
+courses -> golf (sim: 0.7891)
+esports -> sports video games (sim: 0.8455)
+reviews -> magazine (sim: 0.6943)
+manga -> anime (sim: 0.8507)
+comics -> art (sim: 0.7073)
+albums -> music (sim: 0.8334)
+concerts -> music (sim: 0.8103)
+movies -> entertainment (sim: 0.7547)
+films -> movies (sim: 1.0433)
+photography -> outdoor activities (sim: 0.7155)
+diy -> crafts (sim: 0.7234)
+crafts -> hobby (sim: 0.7952)
+home improvement -> houses (sim: 0.7035)
+pets -> animals (sim: 1.0522)
+animals -> entertainment (sim: 0.6938)
+care -> healthcare (sim: 0.7459)
+parenting -> kids (sim: 0.7323)
+family -> family and children movies (sim: 0.7942)
+kids -> children (sim: 1.0818)
+current affairs -> news (sim: 0.6620)
+research -> science (sim: 0.7539)
+discoveries -> science (sim: 0.7619)
+heritage -> culture (sim: 0.7325)
+investing -> finance (sim: 0.7589)
+cryptocurrency -> chemistry (sim: 0.6654)
+automotive -> automotive industry (sim: 1.0357)
+cars -> animals (sim: 0.7220)
+motorcycles -> cars (sim: 0.7490)
+real estate -> property (sim: 0.9691)
+property -> houses (sim: 0.8020)
+housing -> houses (sim: 0.9808)
+nature -> outdoor activities (sim: 0.7766)
+mental health -> health (sim: 0.8644)
+self-help -> wellness (sim: 0.6844)
+startups -> entrepreneurship (sim: 0.8477)
+poetry -> music (sim: 0.7203)
+writing -> poetry (sim: 0.7484)
+marketing -> business (sim: 0.7450)
+influencers -> marketing (sim: 0.6680)
+gambling -> betting (sim: 0.9712)
+casinos -> nightclubs (sim: 0.7906)
+betting -> boxing (sim: 0.7239)
+space -> space and astronomy (sim: 0.9133)
+astrophysics -> astronomy (sim: 0.9624)
+nutrition -> food (sim: 0.8620)
+exercise -> sports (sim: 0.7578)
+shopping -> fashion (sim: 0.7400)
+sales -> marketing (sim: 0.7896)
+deals -> sales (sim: 0.7548)
+luxury -> lifestyle (sim: 0.7106)
+high-end -> high fashion (sim: 0.8706)
+blockchain -> cryptocurrency (sim: 0.7711)
+nfts -> finance (sim: 0.6237)
+vacation -> travel (sim: 0.8696)
+holidays -> holiday tv (sim: 0.9256)
+getaways -> vacation (sim: 0.8147)
+interior -> interior decorating (sim: 0.8770)
+weddings -> religious events (sim: 0.7006)
+marriage -> weddings (sim: 0.9588)
+humor -> comedy (music and audio) (sim: 0.7599)
+funny -> humor (sim: 0.9711)
+banks -> hospitals (sim: 0.7398)
+insurance -> healthcare (sim: 0.7527)
+universities -> education (sim: 0.7783)
+online learning -> learning (sim: 0.8902)
+public services -> business services (sim: 0.7204)
+legal -> legal services industry (sim: 0.7228)
+judiciary -> law (sim: 0.7328)
+healthcare -> health (sim: 0.8934)
+hospitals -> healthcare (sim: 0.8845)
+telecommunications -> telecommunications industry (sim: 1.0151)
+anime -> movies and tv shows (sim: 0.7595)
+nonprofits -> non-profit organizations (sim: 0.9373)
+ngos -> non-profit organizations (sim: 0.8899)
+ecommerce -> marketing (sim: 0.7963)
+online store -> ecommerce (sim: 0.7468)
+corporate -> business (sim: 0.7581)
+blog -> reviews (sim: 0.6990)
+personal blog -> blog (sim: 1.0024)
+portfolio -> investing (sim: 0.7588)
+creative work -> crafts (sim: 0.7597)
+event -> entertainment (sim: 0.7526)
+event promotion -> event (sim: 0.9536)
+personal -> personal investing (sim: 0.8562)
+resume -> careers (sim: 0.6786)
+membership -> subscription (sim: 0.8412)
+community -> charity (sim: 0.7034)
+nonprofit -> nonprofits (sim: 1.1197)
+charity -> healthcare (sim: 0.7201)
+informational -> information (sim: 0.9994)
+forum -> discussion (sim: 0.7535)
+discussion -> web conferencing (sim: 0.6885)
+social network -> social networking (sim: 0.9279)
+startup -> startups (sim: 1.0832)
+entrepreneur -> entrepreneurship (sim: 1.0401)
+consulting -> business (sim: 0.6994)
+professional services -> public services (sim: 0.7589)
+booking -> betting (sim: 0.6925)
+appointments -> booking (sim: 0.8072)
+petition -> activism (sim: 0.7409)
+activism -> charity (sim: 0.7137)
+school -> education (sim: 0.8863)
+hobby -> hobbies (sim: 1.0023)
+interest -> hobbies (sim: 0.7256)
+interactive -> entertainment (sim: 0.7831)
+engagement -> wedding (sim: 0.8526)
+wedding -> weddings (sim: 1.1044)
+event planning -> event (sim: 0.8885)
+tourism -> outdoor activities (sim: 0.6865)
+directory -> databases (sim: 0.7426)
+listing -> information (sim: 0.7067)
+landing page -> booking (sim: 0.6733)
+magazine -> media (sim: 0.7286)
+memorial -> event (sim: 0.7163)
+tribute -> memorial (sim: 0.9436)
+subscription -> magazine (sim: 0.8158)
+content service -> subscription (sim: 0.7172)
+kid-friendly -> kids (sim: 0.8642)
+children -> children's music (sim: 0.8769)
+novels and literature -> literature (sim: 1.0691)
+movies and tv shows -> movies (sim: 0.8842)
+music and audio -> music (sim: 0.9011)
+arts and culture -> culture (sim: 0.9866)
+investment & trading -> investing (sim: 0.9391)
+e-commerce & retail -> ecommerce (sim: 0.8813)
+business services -> business (sim: 0.9356)
+universities & colleges -> universities (sim: 0.9678)
+k-12 & schools -> school (sim: 0.8780)
+online learning & moocs -> online education (sim: 0.7527)
+professional development -> professional services (sim: 0.7112)
+educational resources -> education (sim: 0.8723)
+federal, state, & local -> government (sim: 0.6787)
+public safety & law enforcement -> crime (sim: 0.6476)
+judiciary & legal -> judiciary (sim: 1.0121)
+public utilities & infrastructure -> business utilities (sim: 0.6903)
+civic engagement -> engagement (sim: 0.6983)
+hospitals & clinics -> hospitals (sim: 0.9533)
+health information & wellness -> wellness (sim: 0.9695)
+pharmaceutical & drug information -> information (sim: 0.8796)
+fitness & lifestyle -> fitness (sim: 0.9711)
+mental health & counseling -> mental health (sim: 0.8135)
+tech companies & startups -> startups (sim: 1.0539)
+research & development -> research (sim: 0.8000)
+gadgets & reviews -> reviews (sim: 0.9022)
+software & applications -> software (sim: 0.9682)
+scientific organizations -> science (sim: 0.7966)
+general news portals -> news (sim: 0.8081)
+local & community news -> local news (sim: 0.8674)
+specialized magazines & blogs -> magazine (sim: 0.8613)
+journalism & opinion -> news (sim: 0.7386)
+entertainment news -> news (sim: 0.9765)
+social -> community (sim: 0.7103)
+social networking -> social media (sim: 0.8368)
+online forums & discussion boards -> forum (sim: 0.8977)
+nonprofits & ngos -> ngos (sim: 1.0611)
+cultural & community events -> events (sim: 0.9290)
+travel & tourism -> tourism (sim: 1.0161)
+food & dining -> food (sim: 0.8842)
+fashion & beauty -> beauty (sim: 0.9344)
+home & garden -> gardening (sim: 0.8628)
+personal finance & lifestyle management -> lifestyle (sim: 0.8188)
+professional leagues & teams -> sports (sim: 0.7695)
+sports news & analysis -> sports (sim: 0.8506)
+fan communities & forums -> forum (sim: 0.8618)
+fitness & outdoor sports -> fitness (sim: 0.9462)
+law firms & legal services -> legal services industry (sim: 0.8170)
+legal information & resources -> information (sim: 0.8504)
+regulatory & compliance -> public safety & law enforcement (sim: 0.6175)
+hobbies -> entertainment (sim: 0.7401)
+arts & crafts -> crafts (sim: 0.9714)
+photography & videography -> photography (sim: 0.9164)
+gaming (hobbyist) -> hobby (sim: 0.9636)
+uncategorized -> None (top-level)
+car culture -> culture (sim: 0.9008)
+road-side assistance -> self-help (sim: 0.7592)
+scooters -> motorcycles (sim: 0.8492)
+auto buying and selling -> automotive (sim: 0.8265)
+auto insurance -> insurance (sim: 0.9732)
+auto parts -> automotive (sim: 0.8979)
+auto recalls -> automotive (sim: 0.7585)
+auto repair -> automotive (sim: 0.8235)
+auto safety -> auto safety technologies (sim: 0.8736)
+auto shows -> automotive (sim: 0.8064)
+auto infotainment technologies -> technology (sim: 0.8504)
+auto navigation systems -> automotive (sim: 0.7511)
+auto safety technologies -> automotive (sim: 0.8297)
+auto rentals -> automotive (sim: 0.7487)
+books and literature -> literature (sim: 1.0603)
+art and photography books -> photography (sim: 0.8757)
+biographies -> history (sim: 0.7365)
+children's literature -> literature (sim: 0.9715)
+comics and graphic novels -> comics (sim: 0.9254)
+cookbooks -> cooking (sim: 0.9041)
+fiction -> adventures (sim: 0.6823)
+travel books -> travel (sim: 0.9182)
+young adult literature -> literature (sim: 0.8583)
+business and finance -> finance (sim: 0.9865)
+business accounting & finance -> business and finance (sim: 0.8688)
+human resources -> health (sim: 0.6336)
+logistics -> logistics and transportation industry (sim: 0.9199)
+marketing and advertising -> marketing (sim: 1.0104)
+small and medium-sized business -> business (sim: 0.9087)
+business administration -> business (sim: 0.8634)
+business banking & finance -> business and finance (sim: 0.8932)
+business i.t. -> business (sim: 0.8784)
+business operations -> business (sim: 0.9827)
+consumer issues -> marketing (sim: 0.7220)
+executive leadership & management -> corporate (sim: 0.6449)
+green solutions -> sustainability (sim: 0.7619)
+business utilities -> business (sim: 0.8129)
+economy -> business (sim: 0.7007)
+advertising industry -> marketing (sim: 0.8180)
+education industry -> education (sim: 0.9334)
+entertainment industry -> entertainment (sim: 0.9050)
+environmental services industry -> legal services industry (sim: 0.7530)
+financial industry -> entertainment industry (sim: 0.7340)
+food industry -> food (sim: 0.8317)
+healthcare industry -> healthcare (sim: 0.9902)
+hospitality industry -> tourism (sim: 0.7562)
+information services industry -> legal services industry (sim: 0.7726)
+legal services industry -> healthcare industry (sim: 0.6582)
+logistics and transportation industry -> automotive industry (sim: 0.7410)
+agriculture -> nature (sim: 0.6906)
+management consulting industry -> consulting (sim: 0.9711)
+manufacturing industry -> automotive industry (sim: 0.8207)
+mechanical and industrial engineering industry -> manufacturing industry (sim: 0.8224)
+media industry -> media (sim: 0.9793)
+metals industry -> manufacturing industry (sim: 0.7840)
+non-profit organizations -> charity (sim: 0.7500)
+pharmaceutical industry -> healthcare industry (sim: 0.8099)
+power and energy industry -> technology industry (sim: 0.7302)
+publishing industry -> manufacturing industry (sim: 0.7347)
+real estate industry -> manufacturing industry (sim: 0.7161)
+apparel industry -> manufacturing industry (sim: 0.7856)
+retail industry -> apparel industry (sim: 0.7931)
+technology industry -> technology (sim: 0.9211)
+telecommunications industry -> technology industry (sim: 0.7876)
+automotive industry -> cars (sim: 0.8339)
+aviation industry -> manufacturing industry (sim: 0.7608)
+biotech and biomedical industry -> technology industry (sim: 0.7603)
+civil engineering industry -> mechanical and industrial engineering industry (sim: 0.8270)
+construction industry -> manufacturing industry (sim: 0.7744)
+defense industry -> aviation industry (sim: 0.7256)
+careers -> hobbies (sim: 0.7343)
+apprenticeships -> careers (sim: 0.7391)
+career advice -> careers (sim: 0.9189)
+career planning -> careers (sim: 0.8949)
+job search -> careers (sim: 0.7615)
+remote working -> woodworking (sim: 0.6659)
+vocational training -> apprenticeships (sim: 0.7635)
+adult education -> education (sim: 0.8941)
+private school -> school (sim: 0.9404)
+secondary education -> education (sim: 0.8914)
+special education -> education (sim: 0.8758)
+college education -> education (sim: 1.0067)
+postgraduate education -> education (sim: 0.7741)
+early childhood education -> education (sim: 0.8588)
+educational assessment -> education (sim: 0.7900)
+homeschooling -> school (sim: 0.7903)
+homework and study -> learning (sim: 0.7250)
+language learning -> learning (sim: 0.9668)
+online education -> education (sim: 0.8864)
+primary education -> education (sim: 0.9319)
+events and attractions -> events (sim: 0.9489)
+amusement and theme parks -> entertainment (sim: 0.7989)
+fashion events -> events (sim: 0.9677)
+historic site and landmark tours -> tourism (sim: 0.7596)
+malls & shopping centers -> shopping (sim: 0.8196)
+museums & galleries -> zoos & aquariums (sim: 0.7310)
+musicals -> theater (sim: 0.7851)
+national & civic holidays -> holidays (sim: 0.9026)
+nightclubs -> entertainment (sim: 0.7261)
+outdoor activities -> exercise (sim: 0.8220)
+parks & nature -> nature (sim: 0.8985)
+party supplies and decorations -> crafts (sim: 0.7456)
+awards shows -> concerts (sim: 0.7527)
+personal celebrations & life events -> events (sim: 0.8618)
+political event -> event (sim: 1.0117)
+religious events -> events (sim: 0.9615)
+sporting events -> events (sim: 0.9823)
+theater venues and events -> events (sim: 0.9024)
+zoos & aquariums -> animals (sim: 0.7833)
+bars & restaurants -> nightclubs (sim: 0.7929)
+business expos & conferences -> events (sim: 0.8109)
+casinos & gambling -> casinos (sim: 1.0238)
+cinemas and events -> events (sim: 0.9748)
+comedy events -> events (sim: 0.9364)
+concerts & music events -> concerts (sim: 0.9765)
+fan conventions -> concerts (sim: 0.6895)
+family and relationships -> family (sim: 0.9691)
+bereavement -> memorial (sim: 0.7369)
+dating -> romance movies (sim: 0.6880)
+divorce -> marriage (sim: 0.8382)
+eldercare -> senior health (sim: 0.7826)
+marriage and civil unions -> marriage (sim: 0.8920)
+fine art -> art (sim: 0.9347)
+costume -> fashion (sim: 0.7860)
+dance -> exercise (sim: 0.7910)
+digital arts -> art (sim: 0.8585)
+fine art photography -> photography (sim: 0.9425)
+modern art -> art (sim: 0.9204)
+opera -> classical music (sim: 0.7712)
+theater -> movies (sim: 0.8421)
+food & drink -> food (sim: 0.8591)
+alcoholic beverages -> nightclubs (sim: 0.6439)
+vegan diets -> vegetarian diets (sim: 0.8612)
+vegetarian diets -> nutrition (sim: 0.7542)
+world cuisines -> food (sim: 0.8117)
+barbecues and grilling -> cooking (sim: 0.8413)
+desserts and baking -> recipes (sim: 0.7859)
+dining out -> food (sim: 0.7825)
+food allergies -> allergies (sim: 1.0782)
+food movements -> food (sim: 0.8728)
+healthy cooking and eating -> cooking (sim: 0.8641)
+non-alcoholic beverages -> alcoholic beverages (sim: 0.8708)
+healthy living -> lifestyle (sim: 0.8501)
+children's health -> health (sim: 0.8848)
+participant sports -> sports (sim: 0.9766)
+running and jogging -> exercise (sim: 0.8556)
+men's health -> health (sim: 0.8545)
+senior health -> health (sim: 0.8790)
+weight loss -> fitness (sim: 0.6945)
+alternative medicine -> alternative music (sim: 0.7267)
+physical therapy -> psychology (sim: 0.7093)
+smoking cessation -> cigars (sim: 0.7112)
+women's health -> health (sim: 0.8745)
+hobbies & interests -> hobbies (sim: 1.0257)
+antiquing and antiques -> heritage (sim: 0.7121)
+magic and illusion -> fiction (sim: 0.6788)
+model toys -> hobby (sim: 0.7242)
+musical instruments -> music (sim: 0.9281)
+paranormal phenomena -> psychology (sim: 0.7204)
+radio control -> talk radio (sim: 0.6668)
+sci-fi and fantasy -> fiction (sim: 0.7396)
+workshops and classes -> courses (sim: 0.7857)
+arts and crafts -> crafts (sim: 1.0002)
+beadwork -> needlework (sim: 0.8600)
+candle and soap making -> crafts (sim: 0.7441)
+drawing and sketching -> painting (sim: 0.7834)
+needlework -> crafts (sim: 0.7785)
+painting -> art (sim: 0.8647)
+woodworking -> crafts (sim: 0.8231)
+beekeeping -> beadwork (sim: 0.6425)
+birdwatching -> birds (sim: 0.9835)
+cigars -> barbecues and grilling (sim: 0.7418)
+comic books -> comics (sim: 1.0482)
+stamps and coins -> cryptocurrency (sim: 0.7164)
+audio production -> video production (sim: 0.7740)
+freelance writing -> writing (sim: 0.8790)
+screenwriting -> writing (sim: 0.8863)
+video production -> photography & videography (sim: 0.7226)
+board games and puzzles -> gaming (sim: 0.8265)
+card games -> gaming (sim: 0.8207)
+roleplaying games -> gaming (sim: 0.8381)
+genealogy and ancestry -> genetics (sim: 0.7990)
+gardening -> agriculture (sim: 0.8502)
+remodeling & construction -> apartments (sim: 0.6515)
+smart home -> houses (sim: 0.6653)
+home appliances -> home entertainment systems (sim: 0.7009)
+home entertaining -> entertainment (sim: 0.8642)
+home security -> smart home (sim: 0.6643)
+indoor environmental quality -> environment (sim: 0.7954)
+interior decorating -> outdoor decorating (sim: 0.7321)
+landscaping -> gardening (sim: 0.8758)
+outdoor decorating -> crafts (sim: 0.8107)
+medical health -> health (sim: 1.0305)
+allergies -> ear, nose and throat conditions (sim: 0.6757)
+ear, nose and throat conditions -> eye and vision conditions (sim: 0.7304)
+endocrine and metabolic diseases -> heart and cardiovascular diseases (sim: 0.7308)
+eye and vision conditions -> weather (sim: 0.7318)
+foot health -> health (sim: 0.8891)
+heart and cardiovascular diseases -> health (sim: 0.8132)
+infectious diseases -> health (sim: 0.7421)
+injuries -> sports (sim: 0.6847)
+lung and respiratory health -> health (sim: 0.8495)
+reproductive health -> health (sim: 0.8660)
+blood disorders -> diabetes (sim: 0.7314)
+sexual health -> health (sim: 0.8855)
+skin and dermatology -> cosmetic medical services (sim: 0.6648)
+sleep disorders -> brain and nervous system disorders (sim: 0.7446)
+substance abuse -> wellness (sim: 0.6464)
+bone and joint conditions -> injuries (sim: 0.7450)
+brain and nervous system disorders -> blood disorders (sim: 0.7534)
+cancer -> health (sim: 0.6568)
+cold and flu -> weather (sim: 0.7515)
+dental health -> health (sim: 0.8990)
+diabetes -> heart and cardiovascular diseases (sim: 0.7094)
+digestive disorders -> heart and cardiovascular diseases (sim: 0.6706)
+medical tests -> medical health (sim: 0.7574)
+pharmaceutical drugs -> pharmaceutical industry (sim: 0.8176)
+surgery -> cosmetic medical services (sim: 0.7204)
+vaccines -> healthcare (sim: 0.6988)
+cosmetic medical services -> healthcare (sim: 0.7749)
+action and adventure movies -> movies (sim: 0.9635)
+romance movies -> movies (sim: 0.9741)
+science fiction movies -> movies (sim: 0.9561)
+indie and arthouse movies -> movies (sim: 0.8730)
+animation movies -> movies (sim: 0.9687)
+comedy movies -> comedy (sim: 0.9943)
+crime and mystery movies -> movies (sim: 0.9365)
+documentary movies -> films (sim: 0.9462)
+drama movies -> movies (sim: 0.9424)
+family and children movies -> movies (sim: 0.9375)
+fantasy movies -> movies (sim: 0.9592)
+horror movies -> movies (sim: 1.0012)
+world movies -> movies (sim: 0.9545)
+soft ac music -> music (sim: 0.8119)
+urban ac music -> urban contemporary music (sim: 0.8241)
+adult album alternative -> albums (sim: 0.7822)
+alternative music -> music (sim: 0.8516)
+children's music -> music (sim: 0.9790)
+classic hits -> music (sim: 0.6535)
+classical music -> music (sim: 0.9551)
+college radio -> sports radio (sim: 0.7444)
+comedy (music and audio) -> music (sim: 0.8743)
+contemporary hits/pop/top 40 -> r&b/soul/funk (sim: 0.7165)
+country music -> music (sim: 0.9181)
+dance and electronic music -> music (sim: 0.8977)
+world/international music -> music (sim: 0.8869)
+songwriters/folk -> country music (sim: 0.7271)
+gospel music -> music (sim: 0.8810)
+hip hop music -> music (sim: 0.9122)
+inspirational/new age music -> music (sim: 0.8608)
+jazz -> music (sim: 0.8018)
+oldies/adult standards -> music (sim: 0.6527)
+reggae -> music (sim: 0.7262)
+blues -> r&b/soul/funk (sim: 0.7004)
+religious (music and audio) -> music (sim: 0.9150)
+r&b/soul/funk -> dance and electronic music (sim: 0.7409)
+rock music -> music (sim: 0.9652)
+soundtracks, tv and showtunes -> music (sim: 0.9007)
+sports radio -> sports (sim: 0.8624)
+talk radio -> sports radio (sim: 0.7344)
+urban contemporary music -> music (sim: 0.8556)
+variety (music and audio) -> music (sim: 0.8974)
+news and politics -> politics (sim: 0.9821)
+crime -> basketball (sim: 0.6647)
+disasters -> injuries (sim: 0.7183)
+international news -> news (sim: 0.9441)
+law -> legal (sim: 0.8768)
+local news -> news (sim: 0.8772)
+national news -> news (sim: 0.9841)
+weather -> nature (sim: 0.7013)
+personal finance -> finance (sim: 0.9068)
+consumer banking -> banks (sim: 0.8424)
+financial assistance -> self-help (sim: 0.7570)
+financial planning -> finance (sim: 0.8266)
+frugal living -> lifestyle (sim: 0.8430)
+personal debt -> personal (sim: 0.8543)
+personal investing -> investing (sim: 0.9494)
+personal taxes -> personal (sim: 0.8528)
+retirement planning -> financial planning (sim: 0.7178)
+home utilities -> home appliances (sim: 0.7766)
+birds -> animals (sim: 0.8917)
+cats -> pets (sim: 0.8570)
+dogs -> animals (sim: 1.0593)
+fish and aquariums -> zoos & aquariums (sim: 0.8745)
+large animals -> animals (sim: 0.9881)
+pet adoptions -> pets (sim: 0.8751)
+reptiles -> animals (sim: 0.8575)
+veterinary medicine -> animals (sim: 0.8096)
+pet supplies -> pets (sim: 0.8761)
+pop culture -> media (sim: 0.7751)
+humor and satire -> humor (sim: 0.9432)
+apartments -> houses (sim: 0.7795)
+retail property -> property (sim: 0.9264)
+vacation properties -> property (sim: 0.9155)
+developmental sites -> destinations (sim: 0.6552)
+hotel properties -> property (sim: 0.9219)
+houses -> cars (sim: 0.6576)
+industrial property -> property (sim: 0.9279)
+land and farms -> agriculture (sim: 0.9412)
+office property -> property (sim: 0.9504)
+real estate buying and selling -> property (sim: 0.8133)
+real estate renting and leasing -> property (sim: 0.8217)
+religion & spirituality -> spirituality (sim: 1.0226)
+agnosticism -> atheism (sim: 0.7634)
+spirituality -> wellness (sim: 0.7219)
+astrology -> astronomy (sim: 0.8779)
+atheism -> christianity (sim: 0.7271)
+buddhism -> martial arts (sim: 0.7354)
+christianity -> religious (music and audio) (sim: 0.7561)
+hinduism -> buddhism (sim: 0.7858)
+islam -> hinduism (sim: 0.7409)
+judaism -> christianity (sim: 0.7552)
+sikhism -> hinduism (sim: 0.7392)
+biological sciences -> science (sim: 0.9240)
+chemistry -> science (sim: 0.8698)
+genetics -> science (sim: 0.7658)
+geography -> environment (sim: 0.7014)
+geology -> geography (sim: 0.8490)
+physics -> science (sim: 0.9377)
+space and astronomy -> astronomy (sim: 1.0518)
+coupons and discounts -> deals (sim: 0.7670)
+flower shopping -> shopping (sim: 0.9008)
+gifts and greetings cards -> crafts (sim: 0.6558)
+grocery shopping -> shopping (sim: 1.0078)
+holiday shopping -> shopping (sim: 0.9522)
+household supplies -> pet supplies (sim: 0.7030)
+lotteries and scratchcards -> betting (sim: 0.7480)
+sales and promotions -> sales (sim: 0.9201)
+children's games and toys -> entertainment (sim: 0.8565)
+american football -> australian rules football (sim: 0.8114)
+boxing -> tennis (sim: 0.7904)
+cheerleading -> gymnastics (sim: 0.7499)
+college sports -> sports (sim: 0.9422)
+cricket -> baseball (sim: 0.8083)
+cycling -> motorcycles (sim: 0.7858)
+darts -> badminton (sim: 0.7470)
+disabled sports -> sports (sim: 0.8808)
+diving -> swimming (sim: 0.7819)
+equine sports -> sports (sim: 0.8623)
+extreme sports -> sports (sim: 0.8560)
+australian rules football -> rugby (sim: 0.7988)
+fantasy sports -> sports (sim: 0.8857)
+field hockey -> sports (sim: 0.8050)
+figure skating -> dance (sim: 0.7969)
+fishing sports -> sports (sim: 0.9356)
+golf -> cricket (sim: 0.7587)
+gymnastics -> exercise (sim: 0.7930)
+hunting and shooting -> photography (sim: 0.7733)
+ice hockey -> sports (sim: 0.7898)
+inline skating -> figure skating (sim: 0.7840)
+lacrosse -> sports (sim: 0.7636)
+auto racing -> cars (sim: 0.8875)
+martial arts -> boxing (sim: 0.8217)
+olympic sports -> sports (sim: 0.9768)
+poker and professional gambling -> gambling (sim: 0.9330)
+rodeo -> animals (sim: 0.7047)
+rowing -> fishing sports (sim: 0.7605)
+rugby -> sports (sim: 0.8344)
+sailing -> rowing (sim: 0.8043)
+skiing -> physics (sim: 0.6867)
+snooker/pool/billiards -> sports (sim: 0.7558)
+soccer -> sports (sim: 0.9365)
+badminton -> basketball (sim: 0.7929)
+softball -> baseball (sim: 0.8351)
+squash -> golf (sim: 0.7126)
+swimming -> fishing sports (sim: 0.7279)
+table tennis -> tennis (sim: 0.9188)
+tennis -> sports (sim: 0.8425)
+track and field -> sports (sim: 0.7411)
+volleyball -> sports (sim: 0.8578)
+walking -> travel (sim: 0.7719)
+water polo -> swimming (sim: 0.7393)
+weightlifting -> gymnastics (sim: 0.7946)
+baseball -> sports (sim: 0.8685)
+wrestling -> martial arts (sim: 0.7276)
+basketball -> sports (sim: 0.8784)
+beach volleyball -> volleyball (sim: 0.9853)
+bodybuilding -> fitness (sim: 0.8239)
+bowling -> badminton (sim: 0.7742)
+sports equipment -> sports (sim: 0.8825)
+style & fashion -> fashion (sim: 0.9960)
+beauty -> luxury (sim: 0.7151)
+women's accessories -> men's accessories (sim: 0.8042)
+women's clothing -> fashion (sim: 0.8618)
+women's shoes and footwear -> women's clothing (sim: 0.8014)
+body art -> art (sim: 0.8299)
+children's clothing -> children (sim: 0.9071)
+designer clothing -> fashion (sim: 0.9409)
+fashion trends -> fashion (sim: 0.9995)
+high fashion -> fashion (sim: 0.9620)
+men's accessories -> men's clothing (sim: 0.7494)
+men's clothing -> men's shoes and footwear (sim: 0.8004)
+men's shoes and footwear -> women's shoes and footwear (sim: 0.8188)
+bath and shower -> spas (sim: 0.7062)
+deodorant and antiperspirant -> allergies (sim: 0.6775)
+oral care -> care (sim: 0.8451)
+shaving -> bath and shower (sim: 0.6426)
+street style -> style (sim: 0.9057)
+technology & computing -> technology (sim: 0.9589)
+artificial intelligence -> technology (sim: 0.6809)
+augmented reality -> virtual reality (sim: 0.7338)
+computer networking -> internet (sim: 0.7485)
+computer peripherals -> laptops (sim: 0.8221)
+3-d graphics -> graphics software (sim: 0.6709)
+photo editing software -> software (sim: 0.8763)
+shareware and freeware -> software (sim: 0.7483)
+video software -> software (sim: 0.9830)
+web conferencing -> internet (sim: 0.7421)
+antivirus software -> software (sim: 0.8719)
+browsers -> desktops (sim: 0.7124)
+computer animation -> anime (sim: 0.7210)
+databases -> information (sim: 0.7135)
+desktop publishing -> desktops (sim: 0.8705)
+digital audio -> music and audio (sim: 0.7826)
+graphics software -> software (sim: 0.9647)
+operating systems -> software (sim: 0.7485)
+data storage and warehousing -> databases (sim: 0.7559)
+desktops -> software (sim: 0.7011)
+information and network security -> information (sim: 0.7440)
+internet -> browsers (sim: 0.7427)
+cloud computing -> cryptocurrency (sim: 0.6560)
+web development -> browsers (sim: 0.7763)
+web hosting -> internet (sim: 0.7420)
+email -> blog (sim: 0.6754)
+internet of things -> internet (sim: 0.8316)
+web design and html -> browsers (sim: 0.8103)
+laptops -> desktops (sim: 0.8204)
+programming languages -> language learning (sim: 0.7203)
+cameras and camcorders -> photography (sim: 0.8518)
+home entertainment systems -> entertainment (sim: 0.7644)
+smartphones -> gadgets (sim: 0.7662)
+tablets and e-readers -> smartphones (sim: 0.7505)
+wearable technology -> technology (sim: 0.9254)
+robotics -> technology (sim: 0.7273)
+virtual reality -> gaming (sim: 0.6722)
+television -> media (sim: 0.7981)
+animation tv -> television (sim: 0.9196)
+soap opera tv -> television (sim: 0.9215)
+special interest tv -> television (sim: 0.8636)
+sports tv -> sports (sim: 0.9434)
+children's tv -> television (sim: 0.9212)
+comedy tv -> comedy (sim: 0.9536)
+drama tv -> television (sim: 0.9262)
+factual tv -> television (sim: 0.9113)
+holiday tv -> television (sim: 0.8346)
+music tv -> television (sim: 0.9331)
+reality tv -> television (sim: 0.7934)
+science fiction tv -> television (sim: 0.9404)
+africa travel -> travel (sim: 0.9127)
+asia travel -> travel (sim: 0.9196)
+australia and oceania travel -> travel (sim: 0.8762)
+europe travel -> travel (sim: 0.8978)
+north america travel -> travel (sim: 0.8780)
+polar travel -> travel (sim: 0.8234)
+south america travel -> travel (sim: 0.8565)
+travel preparation and advice -> travel (sim: 0.8428)
+adventure travel -> travel (sim: 0.9976)
+family travel -> family (sim: 0.9587)
+honeymoons and getaways -> getaways (sim: 0.9505)
+hotels and motels -> hotel properties (sim: 0.7632)
+rail travel -> travel (sim: 0.8741)
+road trips -> travel (sim: 0.8310)
+spas -> hotels and motels (sim: 0.7440)
+air travel -> travel (sim: 1.0086)
+beach travel -> travel (sim: 0.9211)
+bed & breakfasts -> hotels and motels (sim: 0.6962)
+budget travel -> travel (sim: 0.8955)
+business travel -> travel (sim: 0.9723)
+camping -> outdoor activities (sim: 0.7190)
+cruises -> sailing (sim: 0.7613)
+day trips -> travel (sim: 0.8115)
+video gaming -> gaming (sim: 1.0463)
+console games -> gaming (sim: 0.9300)
+mobile games -> gaming (sim: 0.8677)
+pc games -> gaming (sim: 0.9383)
+action video games -> gaming (sim: 0.9207)
+role-playing video games -> roleplaying games (sim: 0.9147)
+simulation video games -> gaming (sim: 0.8719)
+sports video games -> sports (sim: 0.9636)
+strategy video games -> gaming (sim: 0.9050)
+action-adventure video games -> action video games (sim: 0.9447)
+adventure video games -> gaming (sim: 0.9024)
+casual games -> gaming (sim: 0.8509)
+educational video games -> gaming (sim: 0.8146)
+exercise and fitness video games -> fitness (sim: 0.8935)
+mmos -> role-playing video games (sim: 0.7397)
+music and party video games -> gaming (sim: 0.8659)
+puzzle video games -> gaming (sim: 0.8752)
+sensitive topics -> discussion (sim: 0.7277)

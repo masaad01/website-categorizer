@@ -1,0 +1,4989 @@
+[
+    {
+        "id": 1,
+        "tag": "entertainment",
+        "assigned_parents": []
+    },
+    {
+        "id": 2,
+        "tag": "novels",
+        "assigned_parents": [
+            "literature"
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "news",
+        "assigned_parents": [
+            "media"
+        ]
+    },
+    {
+        "id": 4,
+        "tag": "social media",
+        "assigned_parents": [
+            "social"
+        ]
+    },
+    {
+        "id": 5,
+        "tag": "learning",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 6,
+        "tag": "education",
+        "assigned_parents": [
+            "courses"
+        ]
+    },
+    {
+        "id": 7,
+        "tag": "science",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 8,
+        "tag": "media",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 9,
+        "tag": "wiki",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 10,
+        "tag": "information",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 11,
+        "tag": "math",
+        "assigned_parents": [
+            "mathematics"
+        ]
+    },
+    {
+        "id": 12,
+        "tag": "history",
+        "assigned_parents": [
+            "heritage"
+        ]
+    },
+    {
+        "id": 13,
+        "tag": "technology",
+        "assigned_parents": [
+            "media"
+        ]
+    },
+    {
+        "id": 14,
+        "tag": "innovation",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 15,
+        "tag": "health",
+        "assigned_parents": [
+            "fitness"
+        ]
+    },
+    {
+        "id": 16,
+        "tag": "wellness",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 17,
+        "tag": "sports",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 18,
+        "tag": "politics",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 19,
+        "tag": "government",
+        "assigned_parents": [
+            "politics"
+        ]
+    },
+    {
+        "id": 20,
+        "tag": "business",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 21,
+        "tag": "finance",
+        "assigned_parents": [
+            "financial industry"
+        ]
+    },
+    {
+        "id": 22,
+        "tag": "music",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 23,
+        "tag": "travel",
+        "assigned_parents": [
+            "tourism"
+        ]
+    },
+    {
+        "id": 24,
+        "tag": "lifestyle",
+        "assigned_parents": [
+            "hobbies"
+        ]
+    },
+    {
+        "id": 25,
+        "tag": "art",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 26,
+        "tag": "culture",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 27,
+        "tag": "food",
+        "assigned_parents": [
+            "cooking"
+        ]
+    },
+    {
+        "id": 28,
+        "tag": "environment",
+        "assigned_parents": [
+            "weather"
+        ]
+    },
+    {
+        "id": 29,
+        "tag": "sustainability",
+        "assigned_parents": [
+            "environment"
+        ]
+    },
+    {
+        "id": 30,
+        "tag": "psychology",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 31,
+        "tag": "philosophy",
+        "assigned_parents": [
+            "physics"
+        ]
+    },
+    {
+        "id": 32,
+        "tag": "literature",
+        "assigned_parents": [
+            "fiction"
+        ]
+    },
+    {
+        "id": 33,
+        "tag": "gaming",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 34,
+        "tag": "comedy",
+        "assigned_parents": [
+            "humor"
+        ]
+    },
+    {
+        "id": 35,
+        "tag": "fashion",
+        "assigned_parents": [
+            "lifestyle"
+        ]
+    },
+    {
+        "id": 36,
+        "tag": "design",
+        "assigned_parents": [
+            "style"
+        ]
+    },
+    {
+        "id": 37,
+        "tag": "mathematics",
+        "assigned_parents": [
+            "physics"
+        ]
+    },
+    {
+        "id": 38,
+        "tag": "literacy",
+        "assigned_parents": [
+            "literature"
+        ]
+    },
+    {
+        "id": 39,
+        "tag": "astronomy",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 40,
+        "tag": "climate",
+        "assigned_parents": [
+            "weather"
+        ]
+    },
+    {
+        "id": 41,
+        "tag": "architecture",
+        "assigned_parents": [
+            "houses"
+        ]
+    },
+    {
+        "id": 42,
+        "tag": "gadgets",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 43,
+        "tag": "software",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 44,
+        "tag": "style",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 45,
+        "tag": "fitness",
+        "assigned_parents": [
+            "exercise"
+        ]
+    },
+    {
+        "id": 46,
+        "tag": "recipes",
+        "assigned_parents": [
+            "cooking"
+        ]
+    },
+    {
+        "id": 47,
+        "tag": "cooking",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 48,
+        "tag": "destinations",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 49,
+        "tag": "adventures",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 50,
+        "tag": "events",
+        "assigned_parents": [
+            "event"
+        ]
+    },
+    {
+        "id": 51,
+        "tag": "entrepreneurship",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 52,
+        "tag": "courses",
+        "assigned_parents": [
+            "golf"
+        ]
+    },
+    {
+        "id": 53,
+        "tag": "esports",
+        "assigned_parents": [
+            "sports video games"
+        ]
+    },
+    {
+        "id": 54,
+        "tag": "reviews",
+        "assigned_parents": [
+            "magazine"
+        ]
+    },
+    {
+        "id": 55,
+        "tag": "manga",
+        "assigned_parents": [
+            "anime"
+        ]
+    },
+    {
+        "id": 56,
+        "tag": "comics",
+        "assigned_parents": [
+            "art"
+        ]
+    },
+    {
+        "id": 57,
+        "tag": "albums",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 58,
+        "tag": "concerts",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 59,
+        "tag": "movies",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 60,
+        "tag": "films",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 61,
+        "tag": "photography",
+        "assigned_parents": [
+            "outdoor activities"
+        ]
+    },
+    {
+        "id": 62,
+        "tag": "diy",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 63,
+        "tag": "crafts",
+        "assigned_parents": [
+            "hobby"
+        ]
+    },
+    {
+        "id": 64,
+        "tag": "home improvement",
+        "assigned_parents": [
+            "houses"
+        ]
+    },
+    {
+        "id": 65,
+        "tag": "pets",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 66,
+        "tag": "animals",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 67,
+        "tag": "care",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 68,
+        "tag": "parenting",
+        "assigned_parents": [
+            "kids"
+        ]
+    },
+    {
+        "id": 69,
+        "tag": "family",
+        "assigned_parents": [
+            "family and children movies"
+        ]
+    },
+    {
+        "id": 70,
+        "tag": "kids",
+        "assigned_parents": [
+            "children"
+        ]
+    },
+    {
+        "id": 71,
+        "tag": "current affairs",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 72,
+        "tag": "research",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 73,
+        "tag": "discoveries",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 74,
+        "tag": "heritage",
+        "assigned_parents": [
+            "culture"
+        ]
+    },
+    {
+        "id": 75,
+        "tag": "investing",
+        "assigned_parents": [
+            "finance"
+        ]
+    },
+    {
+        "id": 76,
+        "tag": "cryptocurrency",
+        "assigned_parents": [
+            "chemistry"
+        ]
+    },
+    {
+        "id": 77,
+        "tag": "automotive",
+        "assigned_parents": [
+            "automotive industry"
+        ]
+    },
+    {
+        "id": 78,
+        "tag": "cars",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 79,
+        "tag": "motorcycles",
+        "assigned_parents": [
+            "cars"
+        ]
+    },
+    {
+        "id": 80,
+        "tag": "real estate",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 81,
+        "tag": "property",
+        "assigned_parents": [
+            "houses"
+        ]
+    },
+    {
+        "id": 82,
+        "tag": "housing",
+        "assigned_parents": [
+            "houses"
+        ]
+    },
+    {
+        "id": 83,
+        "tag": "nature",
+        "assigned_parents": [
+            "outdoor activities"
+        ]
+    },
+    {
+        "id": 84,
+        "tag": "mental health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 85,
+        "tag": "self-help",
+        "assigned_parents": [
+            "wellness"
+        ]
+    },
+    {
+        "id": 86,
+        "tag": "startups",
+        "assigned_parents": [
+            "entrepreneurship"
+        ]
+    },
+    {
+        "id": 87,
+        "tag": "poetry",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 88,
+        "tag": "writing",
+        "assigned_parents": [
+            "poetry"
+        ]
+    },
+    {
+        "id": 89,
+        "tag": "marketing",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 90,
+        "tag": "influencers",
+        "assigned_parents": [
+            "marketing"
+        ]
+    },
+    {
+        "id": 91,
+        "tag": "gambling",
+        "assigned_parents": [
+            "betting"
+        ]
+    },
+    {
+        "id": 92,
+        "tag": "casinos",
+        "assigned_parents": [
+            "nightclubs"
+        ]
+    },
+    {
+        "id": 93,
+        "tag": "betting",
+        "assigned_parents": [
+            "boxing"
+        ]
+    },
+    {
+        "id": 94,
+        "tag": "space",
+        "assigned_parents": [
+            "space and astronomy"
+        ]
+    },
+    {
+        "id": 95,
+        "tag": "astrophysics",
+        "assigned_parents": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 96,
+        "tag": "nutrition",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 97,
+        "tag": "exercise",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 98,
+        "tag": "shopping",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 99,
+        "tag": "sales",
+        "assigned_parents": [
+            "marketing"
+        ]
+    },
+    {
+        "id": 100,
+        "tag": "deals",
+        "assigned_parents": [
+            "sales"
+        ]
+    },
+    {
+        "id": 101,
+        "tag": "luxury",
+        "assigned_parents": [
+            "lifestyle"
+        ]
+    },
+    {
+        "id": 102,
+        "tag": "high-end",
+        "assigned_parents": [
+            "high fashion"
+        ]
+    },
+    {
+        "id": 103,
+        "tag": "blockchain",
+        "assigned_parents": [
+            "cryptocurrency"
+        ]
+    },
+    {
+        "id": 104,
+        "tag": "nfts",
+        "assigned_parents": [
+            "finance"
+        ]
+    },
+    {
+        "id": 105,
+        "tag": "vacation",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 106,
+        "tag": "holidays",
+        "assigned_parents": [
+            "holiday tv"
+        ]
+    },
+    {
+        "id": 107,
+        "tag": "getaways",
+        "assigned_parents": [
+            "vacation"
+        ]
+    },
+    {
+        "id": 108,
+        "tag": "interior",
+        "assigned_parents": [
+            "interior decorating"
+        ]
+    },
+    {
+        "id": 109,
+        "tag": "weddings",
+        "assigned_parents": [
+            "religious events"
+        ]
+    },
+    {
+        "id": 110,
+        "tag": "marriage",
+        "assigned_parents": [
+            "weddings"
+        ]
+    },
+    {
+        "id": 111,
+        "tag": "humor",
+        "assigned_parents": [
+            "comedy (music and audio)"
+        ]
+    },
+    {
+        "id": 112,
+        "tag": "funny",
+        "assigned_parents": [
+            "humor"
+        ]
+    },
+    {
+        "id": 113,
+        "tag": "banks",
+        "assigned_parents": [
+            "hospitals"
+        ]
+    },
+    {
+        "id": 114,
+        "tag": "insurance",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 115,
+        "tag": "universities",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 116,
+        "tag": "online learning",
+        "assigned_parents": [
+            "learning"
+        ]
+    },
+    {
+        "id": 117,
+        "tag": "public services",
+        "assigned_parents": [
+            "business services"
+        ]
+    },
+    {
+        "id": 118,
+        "tag": "legal",
+        "assigned_parents": [
+            "legal services industry"
+        ]
+    },
+    {
+        "id": 119,
+        "tag": "judiciary",
+        "assigned_parents": [
+            "law"
+        ]
+    },
+    {
+        "id": 120,
+        "tag": "healthcare",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 121,
+        "tag": "hospitals",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 122,
+        "tag": "telecommunications",
+        "assigned_parents": [
+            "telecommunications industry"
+        ]
+    },
+    {
+        "id": 123,
+        "tag": "anime",
+        "assigned_parents": [
+            "movies and tv shows"
+        ]
+    },
+    {
+        "id": 124,
+        "tag": "nonprofits",
+        "assigned_parents": [
+            "non-profit organizations"
+        ]
+    },
+    {
+        "id": 125,
+        "tag": "ngos",
+        "assigned_parents": [
+            "non-profit organizations"
+        ]
+    },
+    {
+        "id": 126,
+        "tag": "ecommerce",
+        "assigned_parents": [
+            "marketing"
+        ]
+    },
+    {
+        "id": 127,
+        "tag": "online store",
+        "assigned_parents": [
+            "ecommerce"
+        ]
+    },
+    {
+        "id": 128,
+        "tag": "corporate",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 129,
+        "tag": "blog",
+        "assigned_parents": [
+            "reviews"
+        ]
+    },
+    {
+        "id": 130,
+        "tag": "personal blog",
+        "assigned_parents": [
+            "blog"
+        ]
+    },
+    {
+        "id": 131,
+        "tag": "portfolio",
+        "assigned_parents": [
+            "investing"
+        ]
+    },
+    {
+        "id": 132,
+        "tag": "creative work",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 133,
+        "tag": "event",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 134,
+        "tag": "event promotion",
+        "assigned_parents": [
+            "event"
+        ]
+    },
+    {
+        "id": 135,
+        "tag": "personal",
+        "assigned_parents": [
+            "personal investing"
+        ]
+    },
+    {
+        "id": 136,
+        "tag": "resume",
+        "assigned_parents": [
+            "careers"
+        ]
+    },
+    {
+        "id": 137,
+        "tag": "membership",
+        "assigned_parents": [
+            "subscription"
+        ]
+    },
+    {
+        "id": 138,
+        "tag": "community",
+        "assigned_parents": [
+            "charity"
+        ]
+    },
+    {
+        "id": 139,
+        "tag": "nonprofit",
+        "assigned_parents": [
+            "nonprofits"
+        ]
+    },
+    {
+        "id": 140,
+        "tag": "charity",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 141,
+        "tag": "informational",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 142,
+        "tag": "forum",
+        "assigned_parents": [
+            "discussion"
+        ]
+    },
+    {
+        "id": 143,
+        "tag": "discussion",
+        "assigned_parents": [
+            "web conferencing"
+        ]
+    },
+    {
+        "id": 144,
+        "tag": "social network",
+        "assigned_parents": [
+            "social networking"
+        ]
+    },
+    {
+        "id": 145,
+        "tag": "startup",
+        "assigned_parents": [
+            "startups"
+        ]
+    },
+    {
+        "id": 146,
+        "tag": "entrepreneur",
+        "assigned_parents": [
+            "entrepreneurship"
+        ]
+    },
+    {
+        "id": 147,
+        "tag": "consulting",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 148,
+        "tag": "professional services",
+        "assigned_parents": [
+            "public services"
+        ]
+    },
+    {
+        "id": 149,
+        "tag": "booking",
+        "assigned_parents": [
+            "betting"
+        ]
+    },
+    {
+        "id": 150,
+        "tag": "appointments",
+        "assigned_parents": [
+            "booking"
+        ]
+    },
+    {
+        "id": 151,
+        "tag": "petition",
+        "assigned_parents": [
+            "activism"
+        ]
+    },
+    {
+        "id": 152,
+        "tag": "activism",
+        "assigned_parents": [
+            "charity"
+        ]
+    },
+    {
+        "id": 153,
+        "tag": "school",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 154,
+        "tag": "hobby",
+        "assigned_parents": [
+            "hobbies"
+        ]
+    },
+    {
+        "id": 155,
+        "tag": "interest",
+        "assigned_parents": [
+            "hobbies"
+        ]
+    },
+    {
+        "id": 156,
+        "tag": "interactive",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 157,
+        "tag": "engagement",
+        "assigned_parents": [
+            "wedding"
+        ]
+    },
+    {
+        "id": 158,
+        "tag": "wedding",
+        "assigned_parents": [
+            "weddings"
+        ]
+    },
+    {
+        "id": 159,
+        "tag": "event planning",
+        "assigned_parents": [
+            "event"
+        ]
+    },
+    {
+        "id": 160,
+        "tag": "tourism",
+        "assigned_parents": [
+            "outdoor activities"
+        ]
+    },
+    {
+        "id": 161,
+        "tag": "directory",
+        "assigned_parents": [
+            "databases"
+        ]
+    },
+    {
+        "id": 162,
+        "tag": "listing",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 163,
+        "tag": "landing page",
+        "assigned_parents": [
+            "booking"
+        ]
+    },
+    {
+        "id": 164,
+        "tag": "magazine",
+        "assigned_parents": [
+            "media"
+        ]
+    },
+    {
+        "id": 165,
+        "tag": "memorial",
+        "assigned_parents": [
+            "event"
+        ]
+    },
+    {
+        "id": 166,
+        "tag": "tribute",
+        "assigned_parents": [
+            "memorial"
+        ]
+    },
+    {
+        "id": 167,
+        "tag": "subscription",
+        "assigned_parents": [
+            "magazine"
+        ]
+    },
+    {
+        "id": 168,
+        "tag": "content service",
+        "assigned_parents": [
+            "subscription"
+        ]
+    },
+    {
+        "id": 169,
+        "tag": "kid-friendly",
+        "assigned_parents": [
+            "kids"
+        ]
+    },
+    {
+        "id": 170,
+        "tag": "children",
+        "assigned_parents": [
+            "children's music"
+        ]
+    },
+    {
+        "id": 171,
+        "tag": "novels and literature",
+        "assigned_parents": [
+            "literature"
+        ]
+    },
+    {
+        "id": 172,
+        "tag": "movies and tv shows",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 173,
+        "tag": "music and audio",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 174,
+        "tag": "arts and culture",
+        "assigned_parents": [
+            "culture"
+        ]
+    },
+    {
+        "id": 175,
+        "tag": "investment & trading",
+        "assigned_parents": [
+            "investing"
+        ]
+    },
+    {
+        "id": 176,
+        "tag": "e-commerce & retail",
+        "assigned_parents": [
+            "ecommerce"
+        ]
+    },
+    {
+        "id": 177,
+        "tag": "business services",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 178,
+        "tag": "universities & colleges",
+        "assigned_parents": [
+            "universities"
+        ]
+    },
+    {
+        "id": 179,
+        "tag": "k-12 & schools",
+        "assigned_parents": [
+            "school"
+        ]
+    },
+    {
+        "id": 180,
+        "tag": "online learning & moocs",
+        "assigned_parents": [
+            "online education"
+        ]
+    },
+    {
+        "id": 181,
+        "tag": "professional development",
+        "assigned_parents": [
+            "professional services"
+        ]
+    },
+    {
+        "id": 182,
+        "tag": "educational resources",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 183,
+        "tag": "federal, state, & local",
+        "assigned_parents": [
+            "government"
+        ]
+    },
+    {
+        "id": 184,
+        "tag": "public safety & law enforcement",
+        "assigned_parents": [
+            "crime"
+        ]
+    },
+    {
+        "id": 185,
+        "tag": "judiciary & legal",
+        "assigned_parents": [
+            "judiciary"
+        ]
+    },
+    {
+        "id": 186,
+        "tag": "public utilities & infrastructure",
+        "assigned_parents": [
+            "business utilities"
+        ]
+    },
+    {
+        "id": 187,
+        "tag": "civic engagement",
+        "assigned_parents": [
+            "engagement"
+        ]
+    },
+    {
+        "id": 188,
+        "tag": "hospitals & clinics",
+        "assigned_parents": [
+            "hospitals"
+        ]
+    },
+    {
+        "id": 189,
+        "tag": "health information & wellness",
+        "assigned_parents": [
+            "wellness"
+        ]
+    },
+    {
+        "id": 190,
+        "tag": "pharmaceutical & drug information",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 191,
+        "tag": "fitness & lifestyle",
+        "assigned_parents": [
+            "fitness"
+        ]
+    },
+    {
+        "id": 192,
+        "tag": "mental health & counseling",
+        "assigned_parents": [
+            "mental health"
+        ]
+    },
+    {
+        "id": 193,
+        "tag": "tech companies & startups",
+        "assigned_parents": [
+            "startups"
+        ]
+    },
+    {
+        "id": 194,
+        "tag": "research & development",
+        "assigned_parents": [
+            "research"
+        ]
+    },
+    {
+        "id": 195,
+        "tag": "gadgets & reviews",
+        "assigned_parents": [
+            "reviews"
+        ]
+    },
+    {
+        "id": 196,
+        "tag": "software & applications",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 197,
+        "tag": "scientific organizations",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 198,
+        "tag": "general news portals",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 199,
+        "tag": "local & community news",
+        "assigned_parents": [
+            "local news"
+        ]
+    },
+    {
+        "id": 200,
+        "tag": "specialized magazines & blogs",
+        "assigned_parents": [
+            "magazine"
+        ]
+    },
+    {
+        "id": 201,
+        "tag": "journalism & opinion",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 202,
+        "tag": "entertainment news",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 203,
+        "tag": "social",
+        "assigned_parents": [
+            "community"
+        ]
+    },
+    {
+        "id": 204,
+        "tag": "social networking",
+        "assigned_parents": [
+            "social media"
+        ]
+    },
+    {
+        "id": 205,
+        "tag": "online forums & discussion boards",
+        "assigned_parents": [
+            "forum"
+        ]
+    },
+    {
+        "id": 206,
+        "tag": "nonprofits & ngos",
+        "assigned_parents": [
+            "ngos"
+        ]
+    },
+    {
+        "id": 207,
+        "tag": "cultural & community events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 208,
+        "tag": "travel & tourism",
+        "assigned_parents": [
+            "tourism"
+        ]
+    },
+    {
+        "id": 209,
+        "tag": "food & dining",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 210,
+        "tag": "fashion & beauty",
+        "assigned_parents": [
+            "beauty"
+        ]
+    },
+    {
+        "id": 211,
+        "tag": "home & garden",
+        "assigned_parents": [
+            "gardening"
+        ]
+    },
+    {
+        "id": 212,
+        "tag": "personal finance & lifestyle management",
+        "assigned_parents": [
+            "lifestyle"
+        ]
+    },
+    {
+        "id": 213,
+        "tag": "professional leagues & teams",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 214,
+        "tag": "sports news & analysis",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 215,
+        "tag": "fan communities & forums",
+        "assigned_parents": [
+            "forum"
+        ]
+    },
+    {
+        "id": 216,
+        "tag": "fitness & outdoor sports",
+        "assigned_parents": [
+            "fitness"
+        ]
+    },
+    {
+        "id": 217,
+        "tag": "law firms & legal services",
+        "assigned_parents": [
+            "legal services industry"
+        ]
+    },
+    {
+        "id": 218,
+        "tag": "legal information & resources",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 219,
+        "tag": "regulatory & compliance",
+        "assigned_parents": [
+            "public safety & law enforcement"
+        ]
+    },
+    {
+        "id": 220,
+        "tag": "hobbies",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 221,
+        "tag": "arts & crafts",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 222,
+        "tag": "photography & videography",
+        "assigned_parents": [
+            "photography"
+        ]
+    },
+    {
+        "id": 223,
+        "tag": "gaming (hobbyist)",
+        "assigned_parents": [
+            "hobby"
+        ]
+    },
+    {
+        "id": 224,
+        "tag": "uncategorized",
+        "assigned_parents": []
+    },
+    {
+        "id": 225,
+        "tag": "car culture",
+        "assigned_parents": [
+            "culture"
+        ]
+    },
+    {
+        "id": 226,
+        "tag": "road-side assistance",
+        "assigned_parents": [
+            "self-help"
+        ]
+    },
+    {
+        "id": 227,
+        "tag": "scooters",
+        "assigned_parents": [
+            "motorcycles"
+        ]
+    },
+    {
+        "id": 228,
+        "tag": "auto buying and selling",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 229,
+        "tag": "auto insurance",
+        "assigned_parents": [
+            "insurance"
+        ]
+    },
+    {
+        "id": 230,
+        "tag": "auto parts",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 231,
+        "tag": "auto recalls",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 232,
+        "tag": "auto repair",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 233,
+        "tag": "auto safety",
+        "assigned_parents": [
+            "auto safety technologies"
+        ]
+    },
+    {
+        "id": 234,
+        "tag": "auto shows",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 235,
+        "tag": "auto infotainment technologies",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 236,
+        "tag": "auto navigation systems",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 237,
+        "tag": "auto safety technologies",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 238,
+        "tag": "auto rentals",
+        "assigned_parents": [
+            "automotive"
+        ]
+    },
+    {
+        "id": 239,
+        "tag": "books and literature",
+        "assigned_parents": [
+            "literature"
+        ]
+    },
+    {
+        "id": 240,
+        "tag": "art and photography books",
+        "assigned_parents": [
+            "photography"
+        ]
+    },
+    {
+        "id": 241,
+        "tag": "biographies",
+        "assigned_parents": [
+            "history"
+        ]
+    },
+    {
+        "id": 242,
+        "tag": "children's literature",
+        "assigned_parents": [
+            "literature"
+        ]
+    },
+    {
+        "id": 243,
+        "tag": "comics and graphic novels",
+        "assigned_parents": [
+            "comics"
+        ]
+    },
+    {
+        "id": 244,
+        "tag": "cookbooks",
+        "assigned_parents": [
+            "cooking"
+        ]
+    },
+    {
+        "id": 245,
+        "tag": "fiction",
+        "assigned_parents": [
+            "adventures"
+        ]
+    },
+    {
+        "id": 246,
+        "tag": "travel books",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 247,
+        "tag": "young adult literature",
+        "assigned_parents": [
+            "literature"
+        ]
+    },
+    {
+        "id": 248,
+        "tag": "business and finance",
+        "assigned_parents": [
+            "finance"
+        ]
+    },
+    {
+        "id": 249,
+        "tag": "business accounting & finance",
+        "assigned_parents": [
+            "business and finance"
+        ]
+    },
+    {
+        "id": 250,
+        "tag": "human resources",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 251,
+        "tag": "logistics",
+        "assigned_parents": [
+            "logistics and transportation industry"
+        ]
+    },
+    {
+        "id": 252,
+        "tag": "marketing and advertising",
+        "assigned_parents": [
+            "marketing"
+        ]
+    },
+    {
+        "id": 253,
+        "tag": "small and medium-sized business",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 254,
+        "tag": "business administration",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 255,
+        "tag": "business banking & finance",
+        "assigned_parents": [
+            "business and finance"
+        ]
+    },
+    {
+        "id": 256,
+        "tag": "business i.t.",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 257,
+        "tag": "business operations",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 258,
+        "tag": "consumer issues",
+        "assigned_parents": [
+            "marketing"
+        ]
+    },
+    {
+        "id": 259,
+        "tag": "executive leadership & management",
+        "assigned_parents": [
+            "corporate"
+        ]
+    },
+    {
+        "id": 260,
+        "tag": "green solutions",
+        "assigned_parents": [
+            "sustainability"
+        ]
+    },
+    {
+        "id": 261,
+        "tag": "business utilities",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 262,
+        "tag": "economy",
+        "assigned_parents": [
+            "business"
+        ]
+    },
+    {
+        "id": 263,
+        "tag": "advertising industry",
+        "assigned_parents": [
+            "marketing"
+        ]
+    },
+    {
+        "id": 264,
+        "tag": "education industry",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 265,
+        "tag": "entertainment industry",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 266,
+        "tag": "environmental services industry",
+        "assigned_parents": [
+            "legal services industry"
+        ]
+    },
+    {
+        "id": 267,
+        "tag": "financial industry",
+        "assigned_parents": [
+            "entertainment industry"
+        ]
+    },
+    {
+        "id": 268,
+        "tag": "food industry",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 269,
+        "tag": "healthcare industry",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 270,
+        "tag": "hospitality industry",
+        "assigned_parents": [
+            "tourism"
+        ]
+    },
+    {
+        "id": 271,
+        "tag": "information services industry",
+        "assigned_parents": [
+            "legal services industry"
+        ]
+    },
+    {
+        "id": 272,
+        "tag": "legal services industry",
+        "assigned_parents": [
+            "healthcare industry"
+        ]
+    },
+    {
+        "id": 273,
+        "tag": "logistics and transportation industry",
+        "assigned_parents": [
+            "automotive industry"
+        ]
+    },
+    {
+        "id": 274,
+        "tag": "agriculture",
+        "assigned_parents": [
+            "nature"
+        ]
+    },
+    {
+        "id": 275,
+        "tag": "management consulting industry",
+        "assigned_parents": [
+            "consulting"
+        ]
+    },
+    {
+        "id": 276,
+        "tag": "manufacturing industry",
+        "assigned_parents": [
+            "automotive industry"
+        ]
+    },
+    {
+        "id": 277,
+        "tag": "mechanical and industrial engineering industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 278,
+        "tag": "media industry",
+        "assigned_parents": [
+            "media"
+        ]
+    },
+    {
+        "id": 279,
+        "tag": "metals industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 280,
+        "tag": "non-profit organizations",
+        "assigned_parents": [
+            "charity"
+        ]
+    },
+    {
+        "id": 281,
+        "tag": "pharmaceutical industry",
+        "assigned_parents": [
+            "healthcare industry"
+        ]
+    },
+    {
+        "id": 282,
+        "tag": "power and energy industry",
+        "assigned_parents": [
+            "technology industry"
+        ]
+    },
+    {
+        "id": 283,
+        "tag": "publishing industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 284,
+        "tag": "real estate industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 285,
+        "tag": "apparel industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 286,
+        "tag": "retail industry",
+        "assigned_parents": [
+            "apparel industry"
+        ]
+    },
+    {
+        "id": 287,
+        "tag": "technology industry",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 288,
+        "tag": "telecommunications industry",
+        "assigned_parents": [
+            "technology industry"
+        ]
+    },
+    {
+        "id": 289,
+        "tag": "automotive industry",
+        "assigned_parents": [
+            "cars"
+        ]
+    },
+    {
+        "id": 290,
+        "tag": "aviation industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 291,
+        "tag": "biotech and biomedical industry",
+        "assigned_parents": [
+            "technology industry"
+        ]
+    },
+    {
+        "id": 292,
+        "tag": "civil engineering industry",
+        "assigned_parents": [
+            "mechanical and industrial engineering industry"
+        ]
+    },
+    {
+        "id": 293,
+        "tag": "construction industry",
+        "assigned_parents": [
+            "manufacturing industry"
+        ]
+    },
+    {
+        "id": 294,
+        "tag": "defense industry",
+        "assigned_parents": [
+            "aviation industry"
+        ]
+    },
+    {
+        "id": 295,
+        "tag": "careers",
+        "assigned_parents": [
+            "hobbies"
+        ]
+    },
+    {
+        "id": 296,
+        "tag": "apprenticeships",
+        "assigned_parents": [
+            "careers"
+        ]
+    },
+    {
+        "id": 297,
+        "tag": "career advice",
+        "assigned_parents": [
+            "careers"
+        ]
+    },
+    {
+        "id": 298,
+        "tag": "career planning",
+        "assigned_parents": [
+            "careers"
+        ]
+    },
+    {
+        "id": 299,
+        "tag": "job search",
+        "assigned_parents": [
+            "careers"
+        ]
+    },
+    {
+        "id": 300,
+        "tag": "remote working",
+        "assigned_parents": [
+            "woodworking"
+        ]
+    },
+    {
+        "id": 301,
+        "tag": "vocational training",
+        "assigned_parents": [
+            "apprenticeships"
+        ]
+    },
+    {
+        "id": 302,
+        "tag": "adult education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 303,
+        "tag": "private school",
+        "assigned_parents": [
+            "school"
+        ]
+    },
+    {
+        "id": 304,
+        "tag": "secondary education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 305,
+        "tag": "special education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 306,
+        "tag": "college education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 307,
+        "tag": "postgraduate education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 308,
+        "tag": "early childhood education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 309,
+        "tag": "educational assessment",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 310,
+        "tag": "homeschooling",
+        "assigned_parents": [
+            "school"
+        ]
+    },
+    {
+        "id": 311,
+        "tag": "homework and study",
+        "assigned_parents": [
+            "learning"
+        ]
+    },
+    {
+        "id": 312,
+        "tag": "language learning",
+        "assigned_parents": [
+            "learning"
+        ]
+    },
+    {
+        "id": 313,
+        "tag": "online education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 314,
+        "tag": "primary education",
+        "assigned_parents": [
+            "education"
+        ]
+    },
+    {
+        "id": 315,
+        "tag": "events and attractions",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 316,
+        "tag": "amusement and theme parks",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 317,
+        "tag": "fashion events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 318,
+        "tag": "historic site and landmark tours",
+        "assigned_parents": [
+            "tourism"
+        ]
+    },
+    {
+        "id": 319,
+        "tag": "malls & shopping centers",
+        "assigned_parents": [
+            "shopping"
+        ]
+    },
+    {
+        "id": 320,
+        "tag": "museums & galleries",
+        "assigned_parents": [
+            "zoos & aquariums"
+        ]
+    },
+    {
+        "id": 321,
+        "tag": "musicals",
+        "assigned_parents": [
+            "theater"
+        ]
+    },
+    {
+        "id": 322,
+        "tag": "national & civic holidays",
+        "assigned_parents": [
+            "holidays"
+        ]
+    },
+    {
+        "id": 323,
+        "tag": "nightclubs",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 324,
+        "tag": "outdoor activities",
+        "assigned_parents": [
+            "exercise"
+        ]
+    },
+    {
+        "id": 325,
+        "tag": "parks & nature",
+        "assigned_parents": [
+            "nature"
+        ]
+    },
+    {
+        "id": 326,
+        "tag": "party supplies and decorations",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 327,
+        "tag": "awards shows",
+        "assigned_parents": [
+            "concerts"
+        ]
+    },
+    {
+        "id": 328,
+        "tag": "personal celebrations & life events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 329,
+        "tag": "political event",
+        "assigned_parents": [
+            "event"
+        ]
+    },
+    {
+        "id": 330,
+        "tag": "religious events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 331,
+        "tag": "sporting events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 332,
+        "tag": "theater venues and events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 333,
+        "tag": "zoos & aquariums",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 334,
+        "tag": "bars & restaurants",
+        "assigned_parents": [
+            "nightclubs"
+        ]
+    },
+    {
+        "id": 335,
+        "tag": "business expos & conferences",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 336,
+        "tag": "casinos & gambling",
+        "assigned_parents": [
+            "casinos"
+        ]
+    },
+    {
+        "id": 337,
+        "tag": "cinemas and events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 338,
+        "tag": "comedy events",
+        "assigned_parents": [
+            "events"
+        ]
+    },
+    {
+        "id": 339,
+        "tag": "concerts & music events",
+        "assigned_parents": [
+            "concerts"
+        ]
+    },
+    {
+        "id": 340,
+        "tag": "fan conventions",
+        "assigned_parents": [
+            "concerts"
+        ]
+    },
+    {
+        "id": 341,
+        "tag": "family and relationships",
+        "assigned_parents": [
+            "family"
+        ]
+    },
+    {
+        "id": 342,
+        "tag": "bereavement",
+        "assigned_parents": [
+            "memorial"
+        ]
+    },
+    {
+        "id": 343,
+        "tag": "dating",
+        "assigned_parents": [
+            "romance movies"
+        ]
+    },
+    {
+        "id": 344,
+        "tag": "divorce",
+        "assigned_parents": [
+            "marriage"
+        ]
+    },
+    {
+        "id": 345,
+        "tag": "eldercare",
+        "assigned_parents": [
+            "senior health"
+        ]
+    },
+    {
+        "id": 346,
+        "tag": "marriage and civil unions",
+        "assigned_parents": [
+            "marriage"
+        ]
+    },
+    {
+        "id": 347,
+        "tag": "fine art",
+        "assigned_parents": [
+            "art"
+        ]
+    },
+    {
+        "id": 348,
+        "tag": "costume",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 349,
+        "tag": "dance",
+        "assigned_parents": [
+            "exercise"
+        ]
+    },
+    {
+        "id": 350,
+        "tag": "digital arts",
+        "assigned_parents": [
+            "art"
+        ]
+    },
+    {
+        "id": 351,
+        "tag": "fine art photography",
+        "assigned_parents": [
+            "photography"
+        ]
+    },
+    {
+        "id": 352,
+        "tag": "modern art",
+        "assigned_parents": [
+            "art"
+        ]
+    },
+    {
+        "id": 353,
+        "tag": "opera",
+        "assigned_parents": [
+            "classical music"
+        ]
+    },
+    {
+        "id": 354,
+        "tag": "theater",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 355,
+        "tag": "food & drink",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 356,
+        "tag": "alcoholic beverages",
+        "assigned_parents": [
+            "nightclubs"
+        ]
+    },
+    {
+        "id": 357,
+        "tag": "vegan diets",
+        "assigned_parents": [
+            "vegetarian diets"
+        ]
+    },
+    {
+        "id": 358,
+        "tag": "vegetarian diets",
+        "assigned_parents": [
+            "nutrition"
+        ]
+    },
+    {
+        "id": 359,
+        "tag": "world cuisines",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 360,
+        "tag": "barbecues and grilling",
+        "assigned_parents": [
+            "cooking"
+        ]
+    },
+    {
+        "id": 361,
+        "tag": "desserts and baking",
+        "assigned_parents": [
+            "recipes"
+        ]
+    },
+    {
+        "id": 362,
+        "tag": "dining out",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 363,
+        "tag": "food allergies",
+        "assigned_parents": [
+            "allergies"
+        ]
+    },
+    {
+        "id": 364,
+        "tag": "food movements",
+        "assigned_parents": [
+            "food"
+        ]
+    },
+    {
+        "id": 365,
+        "tag": "healthy cooking and eating",
+        "assigned_parents": [
+            "cooking"
+        ]
+    },
+    {
+        "id": 366,
+        "tag": "non-alcoholic beverages",
+        "assigned_parents": [
+            "alcoholic beverages"
+        ]
+    },
+    {
+        "id": 367,
+        "tag": "healthy living",
+        "assigned_parents": [
+            "lifestyle"
+        ]
+    },
+    {
+        "id": 368,
+        "tag": "children's health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 369,
+        "tag": "participant sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 370,
+        "tag": "running and jogging",
+        "assigned_parents": [
+            "exercise"
+        ]
+    },
+    {
+        "id": 371,
+        "tag": "men's health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 372,
+        "tag": "senior health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 373,
+        "tag": "weight loss",
+        "assigned_parents": [
+            "fitness"
+        ]
+    },
+    {
+        "id": 374,
+        "tag": "alternative medicine",
+        "assigned_parents": [
+            "alternative music"
+        ]
+    },
+    {
+        "id": 375,
+        "tag": "physical therapy",
+        "assigned_parents": [
+            "psychology"
+        ]
+    },
+    {
+        "id": 376,
+        "tag": "smoking cessation",
+        "assigned_parents": [
+            "cigars"
+        ]
+    },
+    {
+        "id": 377,
+        "tag": "women's health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 378,
+        "tag": "hobbies & interests",
+        "assigned_parents": [
+            "hobbies"
+        ]
+    },
+    {
+        "id": 379,
+        "tag": "antiquing and antiques",
+        "assigned_parents": [
+            "heritage"
+        ]
+    },
+    {
+        "id": 380,
+        "tag": "magic and illusion",
+        "assigned_parents": [
+            "fiction"
+        ]
+    },
+    {
+        "id": 381,
+        "tag": "model toys",
+        "assigned_parents": [
+            "hobby"
+        ]
+    },
+    {
+        "id": 382,
+        "tag": "musical instruments",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 383,
+        "tag": "paranormal phenomena",
+        "assigned_parents": [
+            "psychology"
+        ]
+    },
+    {
+        "id": 384,
+        "tag": "radio control",
+        "assigned_parents": [
+            "talk radio"
+        ]
+    },
+    {
+        "id": 385,
+        "tag": "sci-fi and fantasy",
+        "assigned_parents": [
+            "fiction"
+        ]
+    },
+    {
+        "id": 386,
+        "tag": "workshops and classes",
+        "assigned_parents": [
+            "courses"
+        ]
+    },
+    {
+        "id": 387,
+        "tag": "arts and crafts",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 388,
+        "tag": "beadwork",
+        "assigned_parents": [
+            "needlework"
+        ]
+    },
+    {
+        "id": 389,
+        "tag": "candle and soap making",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 390,
+        "tag": "drawing and sketching",
+        "assigned_parents": [
+            "painting"
+        ]
+    },
+    {
+        "id": 391,
+        "tag": "needlework",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 392,
+        "tag": "painting",
+        "assigned_parents": [
+            "art"
+        ]
+    },
+    {
+        "id": 393,
+        "tag": "woodworking",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 394,
+        "tag": "beekeeping",
+        "assigned_parents": [
+            "beadwork"
+        ]
+    },
+    {
+        "id": 395,
+        "tag": "birdwatching",
+        "assigned_parents": [
+            "birds"
+        ]
+    },
+    {
+        "id": 396,
+        "tag": "cigars",
+        "assigned_parents": [
+            "barbecues and grilling"
+        ]
+    },
+    {
+        "id": 397,
+        "tag": "comic books",
+        "assigned_parents": [
+            "comics"
+        ]
+    },
+    {
+        "id": 398,
+        "tag": "stamps and coins",
+        "assigned_parents": [
+            "cryptocurrency"
+        ]
+    },
+    {
+        "id": 399,
+        "tag": "audio production",
+        "assigned_parents": [
+            "video production"
+        ]
+    },
+    {
+        "id": 400,
+        "tag": "freelance writing",
+        "assigned_parents": [
+            "writing"
+        ]
+    },
+    {
+        "id": 401,
+        "tag": "screenwriting",
+        "assigned_parents": [
+            "writing"
+        ]
+    },
+    {
+        "id": 402,
+        "tag": "video production",
+        "assigned_parents": [
+            "photography & videography"
+        ]
+    },
+    {
+        "id": 403,
+        "tag": "board games and puzzles",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 404,
+        "tag": "card games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 405,
+        "tag": "roleplaying games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 406,
+        "tag": "genealogy and ancestry",
+        "assigned_parents": [
+            "genetics"
+        ]
+    },
+    {
+        "id": 407,
+        "tag": "gardening",
+        "assigned_parents": [
+            "agriculture"
+        ]
+    },
+    {
+        "id": 408,
+        "tag": "remodeling & construction",
+        "assigned_parents": [
+            "apartments"
+        ]
+    },
+    {
+        "id": 409,
+        "tag": "smart home",
+        "assigned_parents": [
+            "houses"
+        ]
+    },
+    {
+        "id": 410,
+        "tag": "home appliances",
+        "assigned_parents": [
+            "home entertainment systems"
+        ]
+    },
+    {
+        "id": 411,
+        "tag": "home entertaining",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 412,
+        "tag": "home security",
+        "assigned_parents": [
+            "smart home"
+        ]
+    },
+    {
+        "id": 413,
+        "tag": "indoor environmental quality",
+        "assigned_parents": [
+            "environment"
+        ]
+    },
+    {
+        "id": 414,
+        "tag": "interior decorating",
+        "assigned_parents": [
+            "outdoor decorating"
+        ]
+    },
+    {
+        "id": 415,
+        "tag": "landscaping",
+        "assigned_parents": [
+            "gardening"
+        ]
+    },
+    {
+        "id": 416,
+        "tag": "outdoor decorating",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 417,
+        "tag": "medical health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 418,
+        "tag": "allergies",
+        "assigned_parents": [
+            "ear, nose and throat conditions"
+        ]
+    },
+    {
+        "id": 419,
+        "tag": "ear, nose and throat conditions",
+        "assigned_parents": [
+            "eye and vision conditions"
+        ]
+    },
+    {
+        "id": 420,
+        "tag": "endocrine and metabolic diseases",
+        "assigned_parents": [
+            "heart and cardiovascular diseases"
+        ]
+    },
+    {
+        "id": 421,
+        "tag": "eye and vision conditions",
+        "assigned_parents": [
+            "weather"
+        ]
+    },
+    {
+        "id": 422,
+        "tag": "foot health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 423,
+        "tag": "heart and cardiovascular diseases",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 424,
+        "tag": "infectious diseases",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 425,
+        "tag": "injuries",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 426,
+        "tag": "lung and respiratory health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 427,
+        "tag": "reproductive health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 428,
+        "tag": "blood disorders",
+        "assigned_parents": [
+            "diabetes"
+        ]
+    },
+    {
+        "id": 429,
+        "tag": "sexual health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 430,
+        "tag": "skin and dermatology",
+        "assigned_parents": [
+            "cosmetic medical services"
+        ]
+    },
+    {
+        "id": 431,
+        "tag": "sleep disorders",
+        "assigned_parents": [
+            "brain and nervous system disorders"
+        ]
+    },
+    {
+        "id": 432,
+        "tag": "substance abuse",
+        "assigned_parents": [
+            "wellness"
+        ]
+    },
+    {
+        "id": 433,
+        "tag": "bone and joint conditions",
+        "assigned_parents": [
+            "injuries"
+        ]
+    },
+    {
+        "id": 434,
+        "tag": "brain and nervous system disorders",
+        "assigned_parents": [
+            "blood disorders"
+        ]
+    },
+    {
+        "id": 435,
+        "tag": "cancer",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 436,
+        "tag": "cold and flu",
+        "assigned_parents": [
+            "weather"
+        ]
+    },
+    {
+        "id": 437,
+        "tag": "dental health",
+        "assigned_parents": [
+            "health"
+        ]
+    },
+    {
+        "id": 438,
+        "tag": "diabetes",
+        "assigned_parents": [
+            "heart and cardiovascular diseases"
+        ]
+    },
+    {
+        "id": 439,
+        "tag": "digestive disorders",
+        "assigned_parents": [
+            "heart and cardiovascular diseases"
+        ]
+    },
+    {
+        "id": 440,
+        "tag": "medical tests",
+        "assigned_parents": [
+            "medical health"
+        ]
+    },
+    {
+        "id": 441,
+        "tag": "pharmaceutical drugs",
+        "assigned_parents": [
+            "pharmaceutical industry"
+        ]
+    },
+    {
+        "id": 442,
+        "tag": "surgery",
+        "assigned_parents": [
+            "cosmetic medical services"
+        ]
+    },
+    {
+        "id": 443,
+        "tag": "vaccines",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 444,
+        "tag": "cosmetic medical services",
+        "assigned_parents": [
+            "healthcare"
+        ]
+    },
+    {
+        "id": 445,
+        "tag": "action and adventure movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 446,
+        "tag": "romance movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 447,
+        "tag": "science fiction movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 448,
+        "tag": "indie and arthouse movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 449,
+        "tag": "animation movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 450,
+        "tag": "comedy movies",
+        "assigned_parents": [
+            "comedy"
+        ]
+    },
+    {
+        "id": 451,
+        "tag": "crime and mystery movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 452,
+        "tag": "documentary movies",
+        "assigned_parents": [
+            "films"
+        ]
+    },
+    {
+        "id": 453,
+        "tag": "drama movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 454,
+        "tag": "family and children movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 455,
+        "tag": "fantasy movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 456,
+        "tag": "horror movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 457,
+        "tag": "world movies",
+        "assigned_parents": [
+            "movies"
+        ]
+    },
+    {
+        "id": 458,
+        "tag": "soft ac music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 459,
+        "tag": "urban ac music",
+        "assigned_parents": [
+            "urban contemporary music"
+        ]
+    },
+    {
+        "id": 460,
+        "tag": "adult album alternative",
+        "assigned_parents": [
+            "albums"
+        ]
+    },
+    {
+        "id": 461,
+        "tag": "alternative music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 462,
+        "tag": "children's music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 463,
+        "tag": "classic hits",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 464,
+        "tag": "classical music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 465,
+        "tag": "college radio",
+        "assigned_parents": [
+            "sports radio"
+        ]
+    },
+    {
+        "id": 466,
+        "tag": "comedy (music and audio)",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 467,
+        "tag": "contemporary hits/pop/top 40",
+        "assigned_parents": [
+            "r&b/soul/funk"
+        ]
+    },
+    {
+        "id": 468,
+        "tag": "country music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 469,
+        "tag": "dance and electronic music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 470,
+        "tag": "world/international music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 471,
+        "tag": "songwriters/folk",
+        "assigned_parents": [
+            "country music"
+        ]
+    },
+    {
+        "id": 472,
+        "tag": "gospel music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 473,
+        "tag": "hip hop music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 474,
+        "tag": "inspirational/new age music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 475,
+        "tag": "jazz",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 476,
+        "tag": "oldies/adult standards",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 477,
+        "tag": "reggae",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 478,
+        "tag": "blues",
+        "assigned_parents": [
+            "r&b/soul/funk"
+        ]
+    },
+    {
+        "id": 479,
+        "tag": "religious (music and audio)",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 480,
+        "tag": "r&b/soul/funk",
+        "assigned_parents": [
+            "dance and electronic music"
+        ]
+    },
+    {
+        "id": 481,
+        "tag": "rock music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 482,
+        "tag": "soundtracks, tv and showtunes",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 483,
+        "tag": "sports radio",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 484,
+        "tag": "talk radio",
+        "assigned_parents": [
+            "sports radio"
+        ]
+    },
+    {
+        "id": 485,
+        "tag": "urban contemporary music",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 486,
+        "tag": "variety (music and audio)",
+        "assigned_parents": [
+            "music"
+        ]
+    },
+    {
+        "id": 487,
+        "tag": "news and politics",
+        "assigned_parents": [
+            "politics"
+        ]
+    },
+    {
+        "id": 488,
+        "tag": "crime",
+        "assigned_parents": [
+            "basketball"
+        ]
+    },
+    {
+        "id": 489,
+        "tag": "disasters",
+        "assigned_parents": [
+            "injuries"
+        ]
+    },
+    {
+        "id": 490,
+        "tag": "international news",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 491,
+        "tag": "law",
+        "assigned_parents": [
+            "legal"
+        ]
+    },
+    {
+        "id": 492,
+        "tag": "local news",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 493,
+        "tag": "national news",
+        "assigned_parents": [
+            "news"
+        ]
+    },
+    {
+        "id": 494,
+        "tag": "weather",
+        "assigned_parents": [
+            "nature"
+        ]
+    },
+    {
+        "id": 495,
+        "tag": "personal finance",
+        "assigned_parents": [
+            "finance"
+        ]
+    },
+    {
+        "id": 496,
+        "tag": "consumer banking",
+        "assigned_parents": [
+            "banks"
+        ]
+    },
+    {
+        "id": 497,
+        "tag": "financial assistance",
+        "assigned_parents": [
+            "self-help"
+        ]
+    },
+    {
+        "id": 498,
+        "tag": "financial planning",
+        "assigned_parents": [
+            "finance"
+        ]
+    },
+    {
+        "id": 499,
+        "tag": "frugal living",
+        "assigned_parents": [
+            "lifestyle"
+        ]
+    },
+    {
+        "id": 500,
+        "tag": "personal debt",
+        "assigned_parents": [
+            "personal"
+        ]
+    },
+    {
+        "id": 501,
+        "tag": "personal investing",
+        "assigned_parents": [
+            "investing"
+        ]
+    },
+    {
+        "id": 502,
+        "tag": "personal taxes",
+        "assigned_parents": [
+            "personal"
+        ]
+    },
+    {
+        "id": 503,
+        "tag": "retirement planning",
+        "assigned_parents": [
+            "financial planning"
+        ]
+    },
+    {
+        "id": 504,
+        "tag": "home utilities",
+        "assigned_parents": [
+            "home appliances"
+        ]
+    },
+    {
+        "id": 505,
+        "tag": "birds",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 506,
+        "tag": "cats",
+        "assigned_parents": [
+            "pets"
+        ]
+    },
+    {
+        "id": 507,
+        "tag": "dogs",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 508,
+        "tag": "fish and aquariums",
+        "assigned_parents": [
+            "zoos & aquariums"
+        ]
+    },
+    {
+        "id": 509,
+        "tag": "large animals",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 510,
+        "tag": "pet adoptions",
+        "assigned_parents": [
+            "pets"
+        ]
+    },
+    {
+        "id": 511,
+        "tag": "reptiles",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 512,
+        "tag": "veterinary medicine",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 513,
+        "tag": "pet supplies",
+        "assigned_parents": [
+            "pets"
+        ]
+    },
+    {
+        "id": 514,
+        "tag": "pop culture",
+        "assigned_parents": [
+            "media"
+        ]
+    },
+    {
+        "id": 515,
+        "tag": "humor and satire",
+        "assigned_parents": [
+            "humor"
+        ]
+    },
+    {
+        "id": 516,
+        "tag": "apartments",
+        "assigned_parents": [
+            "houses"
+        ]
+    },
+    {
+        "id": 517,
+        "tag": "retail property",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 518,
+        "tag": "vacation properties",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 519,
+        "tag": "developmental sites",
+        "assigned_parents": [
+            "destinations"
+        ]
+    },
+    {
+        "id": 520,
+        "tag": "hotel properties",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 521,
+        "tag": "houses",
+        "assigned_parents": [
+            "cars"
+        ]
+    },
+    {
+        "id": 522,
+        "tag": "industrial property",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 523,
+        "tag": "land and farms",
+        "assigned_parents": [
+            "agriculture"
+        ]
+    },
+    {
+        "id": 524,
+        "tag": "office property",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 525,
+        "tag": "real estate buying and selling",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 526,
+        "tag": "real estate renting and leasing",
+        "assigned_parents": [
+            "property"
+        ]
+    },
+    {
+        "id": 527,
+        "tag": "religion & spirituality",
+        "assigned_parents": [
+            "spirituality"
+        ]
+    },
+    {
+        "id": 528,
+        "tag": "agnosticism",
+        "assigned_parents": [
+            "atheism"
+        ]
+    },
+    {
+        "id": 529,
+        "tag": "spirituality",
+        "assigned_parents": [
+            "wellness"
+        ]
+    },
+    {
+        "id": 530,
+        "tag": "astrology",
+        "assigned_parents": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 531,
+        "tag": "atheism",
+        "assigned_parents": [
+            "christianity"
+        ]
+    },
+    {
+        "id": 532,
+        "tag": "buddhism",
+        "assigned_parents": [
+            "martial arts"
+        ]
+    },
+    {
+        "id": 533,
+        "tag": "christianity",
+        "assigned_parents": [
+            "religious (music and audio)"
+        ]
+    },
+    {
+        "id": 534,
+        "tag": "hinduism",
+        "assigned_parents": [
+            "buddhism"
+        ]
+    },
+    {
+        "id": 535,
+        "tag": "islam",
+        "assigned_parents": [
+            "hinduism"
+        ]
+    },
+    {
+        "id": 536,
+        "tag": "judaism",
+        "assigned_parents": [
+            "christianity"
+        ]
+    },
+    {
+        "id": 537,
+        "tag": "sikhism",
+        "assigned_parents": [
+            "hinduism"
+        ]
+    },
+    {
+        "id": 538,
+        "tag": "biological sciences",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 539,
+        "tag": "chemistry",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 540,
+        "tag": "genetics",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 541,
+        "tag": "geography",
+        "assigned_parents": [
+            "environment"
+        ]
+    },
+    {
+        "id": 542,
+        "tag": "geology",
+        "assigned_parents": [
+            "geography"
+        ]
+    },
+    {
+        "id": 543,
+        "tag": "physics",
+        "assigned_parents": [
+            "science"
+        ]
+    },
+    {
+        "id": 544,
+        "tag": "space and astronomy",
+        "assigned_parents": [
+            "astronomy"
+        ]
+    },
+    {
+        "id": 545,
+        "tag": "coupons and discounts",
+        "assigned_parents": [
+            "deals"
+        ]
+    },
+    {
+        "id": 546,
+        "tag": "flower shopping",
+        "assigned_parents": [
+            "shopping"
+        ]
+    },
+    {
+        "id": 547,
+        "tag": "gifts and greetings cards",
+        "assigned_parents": [
+            "crafts"
+        ]
+    },
+    {
+        "id": 548,
+        "tag": "grocery shopping",
+        "assigned_parents": [
+            "shopping"
+        ]
+    },
+    {
+        "id": 549,
+        "tag": "holiday shopping",
+        "assigned_parents": [
+            "shopping"
+        ]
+    },
+    {
+        "id": 550,
+        "tag": "household supplies",
+        "assigned_parents": [
+            "pet supplies"
+        ]
+    },
+    {
+        "id": 551,
+        "tag": "lotteries and scratchcards",
+        "assigned_parents": [
+            "betting"
+        ]
+    },
+    {
+        "id": 552,
+        "tag": "sales and promotions",
+        "assigned_parents": [
+            "sales"
+        ]
+    },
+    {
+        "id": 553,
+        "tag": "children's games and toys",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 554,
+        "tag": "american football",
+        "assigned_parents": [
+            "australian rules football"
+        ]
+    },
+    {
+        "id": 555,
+        "tag": "boxing",
+        "assigned_parents": [
+            "tennis"
+        ]
+    },
+    {
+        "id": 556,
+        "tag": "cheerleading",
+        "assigned_parents": [
+            "gymnastics"
+        ]
+    },
+    {
+        "id": 557,
+        "tag": "college sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 558,
+        "tag": "cricket",
+        "assigned_parents": [
+            "baseball"
+        ]
+    },
+    {
+        "id": 559,
+        "tag": "cycling",
+        "assigned_parents": [
+            "motorcycles"
+        ]
+    },
+    {
+        "id": 560,
+        "tag": "darts",
+        "assigned_parents": [
+            "badminton"
+        ]
+    },
+    {
+        "id": 561,
+        "tag": "disabled sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 562,
+        "tag": "diving",
+        "assigned_parents": [
+            "swimming"
+        ]
+    },
+    {
+        "id": 563,
+        "tag": "equine sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 564,
+        "tag": "extreme sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 565,
+        "tag": "australian rules football",
+        "assigned_parents": [
+            "rugby"
+        ]
+    },
+    {
+        "id": 566,
+        "tag": "fantasy sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 567,
+        "tag": "field hockey",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 568,
+        "tag": "figure skating",
+        "assigned_parents": [
+            "dance"
+        ]
+    },
+    {
+        "id": 569,
+        "tag": "fishing sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 570,
+        "tag": "golf",
+        "assigned_parents": [
+            "cricket"
+        ]
+    },
+    {
+        "id": 571,
+        "tag": "gymnastics",
+        "assigned_parents": [
+            "exercise"
+        ]
+    },
+    {
+        "id": 572,
+        "tag": "hunting and shooting",
+        "assigned_parents": [
+            "photography"
+        ]
+    },
+    {
+        "id": 573,
+        "tag": "ice hockey",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 574,
+        "tag": "inline skating",
+        "assigned_parents": [
+            "figure skating"
+        ]
+    },
+    {
+        "id": 575,
+        "tag": "lacrosse",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 576,
+        "tag": "auto racing",
+        "assigned_parents": [
+            "cars"
+        ]
+    },
+    {
+        "id": 577,
+        "tag": "martial arts",
+        "assigned_parents": [
+            "boxing"
+        ]
+    },
+    {
+        "id": 578,
+        "tag": "olympic sports",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 579,
+        "tag": "poker and professional gambling",
+        "assigned_parents": [
+            "gambling"
+        ]
+    },
+    {
+        "id": 580,
+        "tag": "rodeo",
+        "assigned_parents": [
+            "animals"
+        ]
+    },
+    {
+        "id": 581,
+        "tag": "rowing",
+        "assigned_parents": [
+            "fishing sports"
+        ]
+    },
+    {
+        "id": 582,
+        "tag": "rugby",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 583,
+        "tag": "sailing",
+        "assigned_parents": [
+            "rowing"
+        ]
+    },
+    {
+        "id": 584,
+        "tag": "skiing",
+        "assigned_parents": [
+            "physics"
+        ]
+    },
+    {
+        "id": 585,
+        "tag": "snooker/pool/billiards",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 586,
+        "tag": "soccer",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 587,
+        "tag": "badminton",
+        "assigned_parents": [
+            "basketball"
+        ]
+    },
+    {
+        "id": 588,
+        "tag": "softball",
+        "assigned_parents": [
+            "baseball"
+        ]
+    },
+    {
+        "id": 589,
+        "tag": "squash",
+        "assigned_parents": [
+            "golf"
+        ]
+    },
+    {
+        "id": 590,
+        "tag": "swimming",
+        "assigned_parents": [
+            "fishing sports"
+        ]
+    },
+    {
+        "id": 591,
+        "tag": "table tennis",
+        "assigned_parents": [
+            "tennis"
+        ]
+    },
+    {
+        "id": 592,
+        "tag": "tennis",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 593,
+        "tag": "track and field",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 594,
+        "tag": "volleyball",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 595,
+        "tag": "walking",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 596,
+        "tag": "water polo",
+        "assigned_parents": [
+            "swimming"
+        ]
+    },
+    {
+        "id": 597,
+        "tag": "weightlifting",
+        "assigned_parents": [
+            "gymnastics"
+        ]
+    },
+    {
+        "id": 598,
+        "tag": "baseball",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 599,
+        "tag": "wrestling",
+        "assigned_parents": [
+            "martial arts"
+        ]
+    },
+    {
+        "id": 600,
+        "tag": "basketball",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 601,
+        "tag": "beach volleyball",
+        "assigned_parents": [
+            "volleyball"
+        ]
+    },
+    {
+        "id": 602,
+        "tag": "bodybuilding",
+        "assigned_parents": [
+            "fitness"
+        ]
+    },
+    {
+        "id": 603,
+        "tag": "bowling",
+        "assigned_parents": [
+            "badminton"
+        ]
+    },
+    {
+        "id": 604,
+        "tag": "sports equipment",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 605,
+        "tag": "style & fashion",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 606,
+        "tag": "beauty",
+        "assigned_parents": [
+            "luxury"
+        ]
+    },
+    {
+        "id": 607,
+        "tag": "women's accessories",
+        "assigned_parents": [
+            "men's accessories"
+        ]
+    },
+    {
+        "id": 608,
+        "tag": "women's clothing",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 609,
+        "tag": "women's shoes and footwear",
+        "assigned_parents": [
+            "women's clothing"
+        ]
+    },
+    {
+        "id": 610,
+        "tag": "body art",
+        "assigned_parents": [
+            "art"
+        ]
+    },
+    {
+        "id": 611,
+        "tag": "children's clothing",
+        "assigned_parents": [
+            "children"
+        ]
+    },
+    {
+        "id": 612,
+        "tag": "designer clothing",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 613,
+        "tag": "fashion trends",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 614,
+        "tag": "high fashion",
+        "assigned_parents": [
+            "fashion"
+        ]
+    },
+    {
+        "id": 615,
+        "tag": "men's accessories",
+        "assigned_parents": [
+            "men's clothing"
+        ]
+    },
+    {
+        "id": 616,
+        "tag": "men's clothing",
+        "assigned_parents": [
+            "men's shoes and footwear"
+        ]
+    },
+    {
+        "id": 617,
+        "tag": "men's shoes and footwear",
+        "assigned_parents": [
+            "women's shoes and footwear"
+        ]
+    },
+    {
+        "id": 618,
+        "tag": "bath and shower",
+        "assigned_parents": [
+            "spas"
+        ]
+    },
+    {
+        "id": 619,
+        "tag": "deodorant and antiperspirant",
+        "assigned_parents": [
+            "allergies"
+        ]
+    },
+    {
+        "id": 620,
+        "tag": "oral care",
+        "assigned_parents": [
+            "care"
+        ]
+    },
+    {
+        "id": 621,
+        "tag": "shaving",
+        "assigned_parents": [
+            "bath and shower"
+        ]
+    },
+    {
+        "id": 622,
+        "tag": "street style",
+        "assigned_parents": [
+            "style"
+        ]
+    },
+    {
+        "id": 623,
+        "tag": "technology & computing",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 624,
+        "tag": "artificial intelligence",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 625,
+        "tag": "augmented reality",
+        "assigned_parents": [
+            "virtual reality"
+        ]
+    },
+    {
+        "id": 626,
+        "tag": "computer networking",
+        "assigned_parents": [
+            "internet"
+        ]
+    },
+    {
+        "id": 627,
+        "tag": "computer peripherals",
+        "assigned_parents": [
+            "laptops"
+        ]
+    },
+    {
+        "id": 628,
+        "tag": "3-d graphics",
+        "assigned_parents": [
+            "graphics software"
+        ]
+    },
+    {
+        "id": 629,
+        "tag": "photo editing software",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 630,
+        "tag": "shareware and freeware",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 631,
+        "tag": "video software",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 632,
+        "tag": "web conferencing",
+        "assigned_parents": [
+            "internet"
+        ]
+    },
+    {
+        "id": 633,
+        "tag": "antivirus software",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 634,
+        "tag": "browsers",
+        "assigned_parents": [
+            "desktops"
+        ]
+    },
+    {
+        "id": 635,
+        "tag": "computer animation",
+        "assigned_parents": [
+            "anime"
+        ]
+    },
+    {
+        "id": 636,
+        "tag": "databases",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 637,
+        "tag": "desktop publishing",
+        "assigned_parents": [
+            "desktops"
+        ]
+    },
+    {
+        "id": 638,
+        "tag": "digital audio",
+        "assigned_parents": [
+            "music and audio"
+        ]
+    },
+    {
+        "id": 639,
+        "tag": "graphics software",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 640,
+        "tag": "operating systems",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 641,
+        "tag": "data storage and warehousing",
+        "assigned_parents": [
+            "databases"
+        ]
+    },
+    {
+        "id": 642,
+        "tag": "desktops",
+        "assigned_parents": [
+            "software"
+        ]
+    },
+    {
+        "id": 643,
+        "tag": "information and network security",
+        "assigned_parents": [
+            "information"
+        ]
+    },
+    {
+        "id": 644,
+        "tag": "internet",
+        "assigned_parents": [
+            "browsers"
+        ]
+    },
+    {
+        "id": 645,
+        "tag": "cloud computing",
+        "assigned_parents": [
+            "cryptocurrency"
+        ]
+    },
+    {
+        "id": 646,
+        "tag": "web development",
+        "assigned_parents": [
+            "browsers"
+        ]
+    },
+    {
+        "id": 647,
+        "tag": "web hosting",
+        "assigned_parents": [
+            "internet"
+        ]
+    },
+    {
+        "id": 648,
+        "tag": "email",
+        "assigned_parents": [
+            "blog"
+        ]
+    },
+    {
+        "id": 649,
+        "tag": "internet of things",
+        "assigned_parents": [
+            "internet"
+        ]
+    },
+    {
+        "id": 650,
+        "tag": "web design and html",
+        "assigned_parents": [
+            "browsers"
+        ]
+    },
+    {
+        "id": 651,
+        "tag": "laptops",
+        "assigned_parents": [
+            "desktops"
+        ]
+    },
+    {
+        "id": 652,
+        "tag": "programming languages",
+        "assigned_parents": [
+            "language learning"
+        ]
+    },
+    {
+        "id": 653,
+        "tag": "cameras and camcorders",
+        "assigned_parents": [
+            "photography"
+        ]
+    },
+    {
+        "id": 654,
+        "tag": "home entertainment systems",
+        "assigned_parents": [
+            "entertainment"
+        ]
+    },
+    {
+        "id": 655,
+        "tag": "smartphones",
+        "assigned_parents": [
+            "gadgets"
+        ]
+    },
+    {
+        "id": 656,
+        "tag": "tablets and e-readers",
+        "assigned_parents": [
+            "smartphones"
+        ]
+    },
+    {
+        "id": 657,
+        "tag": "wearable technology",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 658,
+        "tag": "robotics",
+        "assigned_parents": [
+            "technology"
+        ]
+    },
+    {
+        "id": 659,
+        "tag": "virtual reality",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 660,
+        "tag": "television",
+        "assigned_parents": [
+            "media"
+        ]
+    },
+    {
+        "id": 661,
+        "tag": "animation tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 662,
+        "tag": "soap opera tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 663,
+        "tag": "special interest tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 664,
+        "tag": "sports tv",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 665,
+        "tag": "children's tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 666,
+        "tag": "comedy tv",
+        "assigned_parents": [
+            "comedy"
+        ]
+    },
+    {
+        "id": 667,
+        "tag": "drama tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 668,
+        "tag": "factual tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 669,
+        "tag": "holiday tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 670,
+        "tag": "music tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 671,
+        "tag": "reality tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 672,
+        "tag": "science fiction tv",
+        "assigned_parents": [
+            "television"
+        ]
+    },
+    {
+        "id": 673,
+        "tag": "africa travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 674,
+        "tag": "asia travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 675,
+        "tag": "australia and oceania travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 676,
+        "tag": "europe travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 677,
+        "tag": "north america travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 678,
+        "tag": "polar travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 679,
+        "tag": "south america travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 680,
+        "tag": "travel preparation and advice",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 681,
+        "tag": "adventure travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 682,
+        "tag": "family travel",
+        "assigned_parents": [
+            "family"
+        ]
+    },
+    {
+        "id": 683,
+        "tag": "honeymoons and getaways",
+        "assigned_parents": [
+            "getaways"
+        ]
+    },
+    {
+        "id": 684,
+        "tag": "hotels and motels",
+        "assigned_parents": [
+            "hotel properties"
+        ]
+    },
+    {
+        "id": 685,
+        "tag": "rail travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 686,
+        "tag": "road trips",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 687,
+        "tag": "spas",
+        "assigned_parents": [
+            "hotels and motels"
+        ]
+    },
+    {
+        "id": 688,
+        "tag": "air travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 689,
+        "tag": "beach travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 690,
+        "tag": "bed & breakfasts",
+        "assigned_parents": [
+            "hotels and motels"
+        ]
+    },
+    {
+        "id": 691,
+        "tag": "budget travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 692,
+        "tag": "business travel",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 693,
+        "tag": "camping",
+        "assigned_parents": [
+            "outdoor activities"
+        ]
+    },
+    {
+        "id": 694,
+        "tag": "cruises",
+        "assigned_parents": [
+            "sailing"
+        ]
+    },
+    {
+        "id": 695,
+        "tag": "day trips",
+        "assigned_parents": [
+            "travel"
+        ]
+    },
+    {
+        "id": 696,
+        "tag": "video gaming",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 697,
+        "tag": "console games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 698,
+        "tag": "mobile games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 699,
+        "tag": "pc games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 700,
+        "tag": "action video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 701,
+        "tag": "role-playing video games",
+        "assigned_parents": [
+            "roleplaying games"
+        ]
+    },
+    {
+        "id": 702,
+        "tag": "simulation video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 703,
+        "tag": "sports video games",
+        "assigned_parents": [
+            "sports"
+        ]
+    },
+    {
+        "id": 704,
+        "tag": "strategy video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 705,
+        "tag": "action-adventure video games",
+        "assigned_parents": [
+            "action video games"
+        ]
+    },
+    {
+        "id": 706,
+        "tag": "adventure video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 707,
+        "tag": "casual games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 708,
+        "tag": "educational video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 709,
+        "tag": "exercise and fitness video games",
+        "assigned_parents": [
+            "fitness"
+        ]
+    },
+    {
+        "id": 710,
+        "tag": "mmos",
+        "assigned_parents": [
+            "role-playing video games"
+        ]
+    },
+    {
+        "id": 711,
+        "tag": "music and party video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 712,
+        "tag": "puzzle video games",
+        "assigned_parents": [
+            "gaming"
+        ]
+    },
+    {
+        "id": 713,
+        "tag": "sensitive topics",
+        "assigned_parents": [
+            "discussion"
+        ]
+    }
+]
